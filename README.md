@@ -53,9 +53,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [ Course plan `Learning math in a crazy style` in full](https://gist.github.com/ca8a2df876d3b21a492df67545e6b869) (7 months ago)
-
 - [ZSH Config](https://gist.github.com/fc1960135cf54fd5fae966c637455ffe) (1 year ago)
+
+- [Remove useless letter and convert to simple text with javascript](https://gist.github.com/2249ec3b4dfe1de7693d6412beeba5a0) (1 year ago)
 
 ## ⭐ Recent Stars
 
