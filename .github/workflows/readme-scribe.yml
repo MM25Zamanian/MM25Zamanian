@@ -21,10 +21,9 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: 'chore: update readme automatically'
           branch: main
-          commit_user_name: MM25Zamanian
-          commit_user_email: mm25zamanian@gmail.com
-          commit_author: MohammadMahdi Zamanian <mm25zamanian@gmail.com>
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
