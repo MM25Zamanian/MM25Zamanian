@@ -11,17 +11,16 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          ref: ${{ github.head_ref }}
 
       - uses: muesli/readme-scribe@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: "templates/README.md"
           writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.PUSH_GITHUB_TOKEN }}
         with:
           commit_message: "chore: update readme automatically"
           create_branch: true
