@@ -3,28 +3,26 @@ name: Readme Scribe
 on:
   push:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v2
 
       - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          template: 'templates/README.md'
-          writeTo: 'README.md'
+          template: "templates/README.md"
+          writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.PUSH_GITHUB_TOKEN }}
         with:
-          commit_message: 'chore: update readme automatically'
-          branch: main
-          commit_user_name: MM25Zamanian
-          commit_user_email: mm25zamanian@gmail.com
-          commit_author: MohammadMahdi Zamanian <mm25zamanian@gmail.com>
+          commit_message: "chore: update readme automatically"
+          create_branch: true
+
