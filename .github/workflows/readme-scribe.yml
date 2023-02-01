@@ -11,9 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-          ref: ${{ github.head_ref }}
 
       - uses: muesli/readme-scribe@master
         env:
@@ -26,7 +23,7 @@ jobs:
         with:
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           commit-message: 'chore: update readme automatically'
-          committer: MohammadMahdi Zamanian <mm25zamanian@gmail.com>
+          committer: GitHub <noreply@github.com>
           branch: feat/docs
           delete-branch: true
           title: 'chore: update readme automatically'
