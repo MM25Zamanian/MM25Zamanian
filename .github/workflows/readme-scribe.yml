@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           ref: ${{ github.head_ref }}
@@ -22,8 +22,13 @@ jobs:
           template: "templates/README.md"
           writeTo: "README.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: peter-evans/create-pull-request@v4
         with:
-          commit_message: "chore: update readme automatically"
-          branch: main
-
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          commit-message: 'chore: update readme automatically'
+          committer: MohammadMahdi Zamanian <mm25zamanian@gmail.com>
+          branch: feat/docs
+          delete-branch: true
+          title: 'chore: update readme automatically'
+          assignees: MM25Zamanian
+          reviewers: MM25Zamanian
