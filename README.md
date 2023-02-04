@@ -10,7 +10,6 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 ## 👨🏻‍💻 Check out what I'm currently working on
 
 
-
 - [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (today)
 
 - [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (today)
@@ -21,15 +20,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 ## ☂️ My latest projects
 
-
-
 - [MM25Zamanian/soffit-landing](https://github.com/MM25Zamanian/soffit-landing) - 
 
 - [MM25Zamanian/pwa.farazmed.com](https://github.com/MM25Zamanian/pwa.farazmed.com) - 
 
 ## 🎉 Latest releases I've contributed to
-
-
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.27.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.27.0), 5 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
@@ -39,8 +34,6 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 ## 👓 My recent Pull Requests
 
-
-
 - [refactor(todo-list): file structure &amp; build &amp; components](https://github.com/amir25n/Lit-TodoList/pull/1) on [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) (today)
 
 - [feat(ui|agah-pwa): new app](https://github.com/Gecut/Gecut/pull/10) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (today)
@@ -48,6 +41,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 - [feat(server|agah-api): new api server](https://github.com/Gecut/Gecut/pull/6) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (1 day ago)
 
 - [feat(services/storage-server): new nano service](https://github.com/Gecut/Gecut/pull/5) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 days ago)
+
 
 ## 📓 Gists I wrote
 
@@ -58,8 +52,6 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 - [Remove useless letter and convert to simple text with javascript](https://gist.github.com/2249ec3b4dfe1de7693d6412beeba5a0) (1 year ago)
 
 ## ⭐ Recent Stars
-
-
 
 - [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (today)
 
