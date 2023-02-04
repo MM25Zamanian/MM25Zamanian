@@ -10,26 +10,21 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 ## 👨🏻‍💻 Check out what I'm currently working on
 
 
+- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (today)
 
-- [Gecut/Gecut](https://github.com/Gecut/Gecut) -  (today)
+- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (today)
 
 - [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (3 days ago)
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 weeks ago)
 
-- [MM25Zamanian/soffit-landing](https://github.com/MM25Zamanian/soffit-landing) -  (1 month ago)
-
 ## ☂️ My latest projects
-
-
 
 - [MM25Zamanian/soffit-landing](https://github.com/MM25Zamanian/soffit-landing) - 
 
 - [MM25Zamanian/pwa.farazmed.com](https://github.com/MM25Zamanian/pwa.farazmed.com) - 
 
 ## 🎉 Latest releases I've contributed to
-
-
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.27.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.27.0), 5 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
@@ -39,13 +34,14 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 ## 👓 My recent Pull Requests
 
+- [refactor(todo-list): file structure &amp; build &amp; components](https://github.com/amir25n/Lit-TodoList/pull/1) on [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) (today)
 
+- [feat(ui|agah-pwa): new app](https://github.com/Gecut/Gecut/pull/10) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (today)
 
 - [feat(server|agah-api): new api server](https://github.com/Gecut/Gecut/pull/6) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (1 day ago)
 
 - [feat(services/storage-server): new nano service](https://github.com/Gecut/Gecut/pull/5) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 days ago)
 
-- [feat(coming-soon): ui component](https://github.com/MM25Zamanian/Spyzer/pull/64) on [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) (1 week ago)
 
 ## 📓 Gists I wrote
 
@@ -57,7 +53,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 ## ⭐ Recent Stars
 
-
+- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (today)
 
 - [iranxray/hope](https://github.com/iranxray/hope) -  (2 days ago)
 
@@ -68,8 +64,6 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (1 week ago)
 
 - [untu/comedy](https://github.com/untu/comedy) - Node.js actor framework. (1 week ago)
-
-- [runem/web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation (1 week ago)
 
 ## 📫 How to reach me
 
