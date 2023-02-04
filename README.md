@@ -11,13 +11,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (today)
+- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (today)
+
+- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (today)
+
+- [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (3 days ago)
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 weeks ago)
-
-- [MM25Zamanian/soffit-landing](https://github.com/MM25Zamanian/soffit-landing) -  (1 month ago)
-
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (1 month ago)
 
 ## ☂️ My latest projects
 
@@ -31,9 +31,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.27.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.27.0), 2 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.27.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.27.0), 5 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
-- [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) ([v2.1.0-alpha](https://github.com/MM25Zamanian/Spyzer/releases/tag/v2.1.0-alpha), 4 days ago) - Spyzer is a multilingual web application for spy hunter game
+- [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) ([v2.1.0-alpha](https://github.com/MM25Zamanian/Spyzer/releases/tag/v2.1.0-alpha), 1 week ago) - Spyzer is a multilingual web application for spy hunter game
 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.0.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.0.0), 1 week ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
@@ -41,37 +41,37 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(coming-soon): ui component](https://github.com/MM25Zamanian/Spyzer/pull/64) on [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) (4 days ago)
+- [refactor(todo-list): file structure &amp; build &amp; components](https://github.com/amir25n/Lit-TodoList/pull/1) on [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) (today)
 
-- [feat(game): ui &amp; logic system](https://github.com/MM25Zamanian/Spyzer/pull/63) on [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) (4 days ago)
+- [feat(ui|agah-pwa): new app](https://github.com/Gecut/Gecut/pull/10) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (today)
 
-- [feat(card-box): header line progress](https://github.com/MM25Zamanian/Spyzer/pull/61) on [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) (1 week ago)
+- [feat(server|agah-api): new api server](https://github.com/Gecut/Gecut/pull/6) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (1 day ago)
 
-- [feat(buttons): ui components](https://github.com/MM25Zamanian/Spyzer/pull/60) on [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) (1 week ago)
+- [feat(services/storage-server): new nano service](https://github.com/Gecut/Gecut/pull/5) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 days ago)
 
 ## 📓 Gists I wrote
 
 
 
-- [ Course plan `Learning math in a crazy style` in full](https://gist.github.com/ca8a2df876d3b21a492df67545e6b869) (7 months ago)
-
 - [ZSH Config](https://gist.github.com/fc1960135cf54fd5fae966c637455ffe) (1 year ago)
+
+- [Remove useless letter and convert to simple text with javascript](https://gist.github.com/2249ec3b4dfe1de7693d6412beeba5a0) (1 year ago)
 
 ## ⭐ Recent Stars
 
 
 
-- [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (4 days ago)
+- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (today)
+
+- [iranxray/hope](https://github.com/iranxray/hope) -  (2 days ago)
+
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (2 days ago)
+
+- [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (1 week ago)
 
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (1 week ago)
 
 - [untu/comedy](https://github.com/untu/comedy) - Node.js actor framework. (1 week ago)
-
-- [runem/web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation (1 week ago)
-
-- [nitreojs/puregram](https://github.com/nitreojs/puregram) - powerful and modern telegram bot api sdk for node.js and typescript 😁 (1 week ago)
-
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (1 week ago)
 
 ## 📫 How to reach me
 
