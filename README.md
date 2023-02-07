@@ -10,15 +10,18 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 ## 👨🏻‍💻 Check out what I'm currently working on
 
 
-- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (today)
 
-- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (today)
+- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (1 day ago)
 
-- [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (3 days ago)
+- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (1 day ago)
+
+- [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (6 days ago)
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 weeks ago)
 
 ## ☂️ My latest projects
+
+
 
 - [MM25Zamanian/soffit-landing](https://github.com/MM25Zamanian/soffit-landing) - 
 
@@ -26,22 +29,23 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 ## 🎉 Latest releases I've contributed to
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.27.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.27.0), 5 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+
+
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.27.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.27.0), 1 week ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 - [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) ([v2.1.0-alpha](https://github.com/MM25Zamanian/Spyzer/releases/tag/v2.1.0-alpha), 1 week ago) - Spyzer is a multilingual web application for spy hunter game
 
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.0.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.0.0), 1 week ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.0.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.0.0), 2 weeks ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
 ## 👓 My recent Pull Requests
 
-- [refactor(todo-list): file structure &amp; build &amp; components](https://github.com/amir25n/Lit-TodoList/pull/1) on [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) (today)
 
-- [feat(ui|agah-pwa): new app](https://github.com/Gecut/Gecut/pull/10) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (today)
 
-- [feat(server|agah-api): new api server](https://github.com/Gecut/Gecut/pull/6) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (1 day ago)
+- [refactor(todo-list): file structure &amp; build &amp; components](https://github.com/amir25n/Lit-TodoList/pull/1) on [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) (3 days ago)
 
-- [feat(services/storage-server): new nano service](https://github.com/Gecut/Gecut/pull/5) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 days ago)
+- [feat(ui|agah-pwa): new app](https://github.com/Gecut/Gecut/pull/10) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (3 days ago)
 
+- [feat(server|agah-api): new api server](https://github.com/Gecut/Gecut/pull/6) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (4 days ago)
 
 ## 📓 Gists I wrote
 
@@ -53,17 +57,19 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 ## ⭐ Recent Stars
 
-- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (today)
 
-- [iranxray/hope](https://github.com/iranxray/hope) -  (2 days ago)
 
-- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (2 days ago)
+- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (3 days ago)
+
+- [iranxray/hope](https://github.com/iranxray/hope) -  (5 days ago)
+
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (5 days ago)
 
 - [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (1 week ago)
 
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (1 week ago)
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (2 weeks ago)
 
-- [untu/comedy](https://github.com/untu/comedy) - Node.js actor framework. (1 week ago)
+- [untu/comedy](https://github.com/untu/comedy) - Node.js actor framework. (2 weeks ago)
 
 ## 📫 How to reach me
 
