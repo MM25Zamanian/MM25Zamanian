@@ -11,13 +11,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (1 day ago)
+- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (2 days ago)
 
-- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (1 day ago)
+- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (2 days ago)
 
-- [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (6 days ago)
+- [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (1 week ago)
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 weeks ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 weeks ago)
 
 ## ☂️ My latest projects
 
@@ -41,11 +41,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [refactor(todo-list): file structure &amp; build &amp; components](https://github.com/amir25n/Lit-TodoList/pull/1) on [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) (3 days ago)
+- [refactor(todo-list): file structure &amp; build &amp; components](https://github.com/amir25n/Lit-TodoList/pull/1) on [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) (4 days ago)
 
-- [feat(ui|agah-pwa): new app](https://github.com/Gecut/Gecut/pull/10) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (3 days ago)
+- [feat(ui|agah-pwa): new app](https://github.com/Gecut/Gecut/pull/10) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (4 days ago)
 
-- [feat(server|agah-api): new api server](https://github.com/Gecut/Gecut/pull/6) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (4 days ago)
+- [feat(server|agah-api): new api server](https://github.com/Gecut/Gecut/pull/6) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (5 days ago)
 
 ## 📓 Gists I wrote
 
@@ -59,11 +59,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (3 days ago)
+- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (4 days ago)
 
-- [iranxray/hope](https://github.com/iranxray/hope) -  (5 days ago)
+- [iranxray/hope](https://github.com/iranxray/hope) -  (6 days ago)
 
-- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (5 days ago)
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (6 days ago)
 
 - [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (1 week ago)
 
