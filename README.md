@@ -13,7 +13,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (2 days ago)
 
-- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (2 days ago)
+- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (4 days ago)
 
 - [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (1 week ago)
 
@@ -41,11 +41,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [refactor(todo-list): file structure &amp; build &amp; components](https://github.com/amir25n/Lit-TodoList/pull/1) on [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) (4 days ago)
+- [feat(ui|agah-pwa|color-palette): new component](https://github.com/Gecut/Gecut/pull/20) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (1 day ago)
 
-- [feat(ui|agah-pwa): new app](https://github.com/Gecut/Gecut/pull/10) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (4 days ago)
+- [release 0.1.0](https://github.com/Gecut/Gecut/pull/19) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 days ago)
 
-- [feat(server|agah-api): new api server](https://github.com/Gecut/Gecut/pull/6) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (5 days ago)
+- [feat(ui/ui-kit): icon component &amp; styles](https://github.com/Gecut/Gecut/pull/18) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 days ago)
+
+- [feat(ui/iconsax-cdn): ui package](https://github.com/Gecut/Gecut/pull/16) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 days ago)
 
 ## 📓 Gists I wrote
 
@@ -59,17 +61,17 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (4 days ago)
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans. (2 days ago)
 
-- [iranxray/hope](https://github.com/iranxray/hope) -  (6 days ago)
+- [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE. (2 days ago)
 
-- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (6 days ago)
+- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (6 days ago)
+
+- [iranxray/hope](https://github.com/iranxray/hope) -  (1 week ago)
+
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (1 week ago)
 
 - [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (1 week ago)
-
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (2 weeks ago)
-
-- [untu/comedy](https://github.com/untu/comedy) - Node.js actor framework. (2 weeks ago)
 
 ## 📫 How to reach me
 
