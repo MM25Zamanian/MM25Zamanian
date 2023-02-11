@@ -10,7 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
 
       - uses: muesli/readme-scribe@master
         env:
@@ -20,8 +22,6 @@ jobs:
           writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           commit_message: "chore: update readme automatically"
           branch: main
