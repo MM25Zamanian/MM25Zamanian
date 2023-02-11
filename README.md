@@ -5,7 +5,6 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 - I'm trying to learn high-performance technologies
 - I'm trying to survive in Iran
 - I Love Open Source Projects
-- I'm Following google guidelines
 
 ## 👨🏻‍💻 Check out what I'm currently working on
 
