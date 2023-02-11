@@ -18,13 +18,12 @@ jobs:
           template: "templates/README.md"
           writeTo: "README.md"
 
-      - uses: peter-evans/create-pull-request@v4
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-          commit-message: 'chore: update readme automatically'
-          committer: GitHub <noreply@github.com>
-          branch: feat/docs
-          delete-branch: true
-          title: 'chore: update readme automatically'
-          assignees: MM25Zamanian
-          reviewers: MM25Zamanian
+          commit_message: "chore: update readme automatically"
+          branch: main
+          commit_user_name: MM25Zamanian
+          commit_user_email: mm25zamanian@gmail.com
+          commit_author: MohammadMahdi Zamanian <mm25zamanian@gmail.com>
