@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (4 days ago)
+- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (5 days ago)
 
 - [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (1 week ago)
 
@@ -31,9 +31,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.1.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.1.0), 1 day ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.1.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.1.0), 2 days ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
-- [modernweb-dev/web](https://github.com/modernweb-dev/web) ([@web/dev-server-storybook@0.0.0-canary-20230216020153](https://github.com/modernweb-dev/web/releases/tag/%40web/dev-server-storybook%400.0.0-canary-20230216020153), 1 day ago) - Guides, tools and libraries for modern web development.
+- [modernweb-dev/web](https://github.com/modernweb-dev/web) ([@web/dev-server-storybook@0.0.0-canary-20230216020153](https://github.com/modernweb-dev/web/releases/tag/%40web/dev-server-storybook%400.0.0-canary-20230216020153), 2 days ago) - Guides, tools and libraries for modern web development.
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.29.0](https://github.com/AliMD/alwatr/releases/tag/v0.29.0), 1 week ago) - The Alwatr Library
 
@@ -61,15 +61,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [rndme/download](https://github.com/rndme/download) - file downloading using client-side javascript (1 day ago)
+- [rndme/download](https://github.com/rndme/download) - file downloading using client-side javascript (2 days ago)
 
-- [ImanMh/persianRex](https://github.com/ImanMh/persianRex) - A minimal library of useful Persian / Farsi regular expressions for browser and NodeJS environment (6 days ago)
+- [ImanMh/persianRex](https://github.com/ImanMh/persianRex) - A minimal library of useful Persian / Farsi regular expressions for browser and NodeJS environment (1 week ago)
 
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans. (1 week ago)
 
 - [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE. (1 week ago)
 
-- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (1 week ago)
+- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (2 weeks ago)
 
 - [iranxray/hope](https://github.com/iranxray/hope) -  (2 weeks ago)
 
