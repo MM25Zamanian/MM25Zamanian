@@ -31,17 +31,17 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.1.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.1.0), 6 days ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
-
-- [modernweb-dev/web](https://github.com/modernweb-dev/web) ([@web/dev-server-storybook@0.0.0-canary-20230216020153](https://github.com/modernweb-dev/web/releases/tag/%40web/dev-server-storybook%400.0.0-canary-20230216020153), 6 days ago) - Guides, tools and libraries for modern web development.
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.1.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.1.0), 1 week ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.29.0](https://github.com/AliMD/alwatr/releases/tag/v0.29.0), 1 week ago) - The Alwatr Library
+
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.27.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.27.0), 3 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 ## 👓 My recent Pull Requests
 
 
 
-- [feat(ui|agah-pwa|color-palette): new component](https://github.com/Gecut/Gecut/pull/20) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (1 week ago)
+- [feat(ui|agah-pwa|color-palette): new component](https://github.com/Gecut/Gecut/pull/20) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 weeks ago)
 
 - [release 0.1.0](https://github.com/Gecut/Gecut/pull/19) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 weeks ago)
 
@@ -61,9 +61,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (3 days ago)
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (4 days ago)
 
-- [rndme/download](https://github.com/rndme/download) - file downloading using client-side javascript (6 days ago)
+- [rndme/download](https://github.com/rndme/download) - file downloading using client-side javascript (1 week ago)
 
 - [ImanMh/persianRex](https://github.com/ImanMh/persianRex) - A minimal library of useful Persian / Farsi regular expressions for browser and NodeJS environment (1 week ago)
 
