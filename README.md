@@ -31,11 +31,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
+- [modernweb-dev/web](https://github.com/modernweb-dev/web) ([@web/test-runner@0.15.1](https://github.com/modernweb-dev/web/releases/tag/%40web/test-runner%400.15.1), 1 day ago) - Guides, tools and libraries for modern web development.
+
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.1.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.1.0), 1 week ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.29.0](https://github.com/AliMD/alwatr/releases/tag/v0.29.0), 1 week ago) - The Alwatr Library
-
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.27.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.27.0), 3 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.29.0](https://github.com/AliMD/alwatr/releases/tag/v0.29.0), 2 weeks ago) - The Alwatr Library
 
 ## 👓 My recent Pull Requests
 
@@ -61,7 +61,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (4 days ago)
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (5 days ago)
 
 - [rndme/download](https://github.com/rndme/download) - file downloading using client-side javascript (1 week ago)
 
