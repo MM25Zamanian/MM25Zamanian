@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [modernweb-dev/web](https://github.com/modernweb-dev/web) ([@web/test-runner@0.15.1](https://github.com/modernweb-dev/web/releases/tag/%40web/test-runner%400.15.1), 1 day ago) - Guides, tools and libraries for modern web development.
+- [modernweb-dev/web](https://github.com/modernweb-dev/web) ([@web/test-runner@0.15.1](https://github.com/modernweb-dev/web/releases/tag/%40web/test-runner%400.15.1), 2 days ago) - Guides, tools and libraries for modern web development.
 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.1.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.1.0), 1 week ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
@@ -61,17 +61,17 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (5 days ago)
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (6 days ago)
 
 - [rndme/download](https://github.com/rndme/download) - file downloading using client-side javascript (1 week ago)
 
-- [ImanMh/persianRex](https://github.com/ImanMh/persianRex) - A minimal library of useful Persian / Farsi regular expressions for browser and NodeJS environment (1 week ago)
+- [ImanMh/persianRex](https://github.com/ImanMh/persianRex) - A minimal library of useful Persian / Farsi regular expressions for browser and NodeJS environment (2 weeks ago)
 
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans. (2 weeks ago)
 
 - [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE. (2 weeks ago)
 
-- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (2 weeks ago)
+- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (3 weeks ago)
 
 ## 📫 How to reach me
 
