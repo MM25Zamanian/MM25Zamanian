@@ -13,7 +13,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (1 day ago)
 
-- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (2 weeks ago)
+- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (3 weeks ago)
 
 - [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (3 weeks ago)
 
@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [modernweb-dev/web](https://github.com/modernweb-dev/web) ([@web/test-runner@0.15.1](https://github.com/modernweb-dev/web/releases/tag/%40web/test-runner%400.15.1), 3 days ago) - Guides, tools and libraries for modern web development.
+- [modernweb-dev/web](https://github.com/modernweb-dev/web) ([@web/test-runner@0.15.1](https://github.com/modernweb-dev/web/releases/tag/%40web/test-runner%400.15.1), 4 days ago) - Guides, tools and libraries for modern web development.
 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.1.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.1.0), 1 week ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
@@ -41,13 +41,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
+- [feat(ui/icon): svg property](https://github.com/AliMD/alwatr/pull/867) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+
 - [feat(ui|agah-pwa|color-palette): new component](https://github.com/Gecut/Gecut/pull/20) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 weeks ago)
 
 - [release 0.1.0](https://github.com/Gecut/Gecut/pull/19) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 weeks ago)
 
 - [feat(ui/ui-kit): icon component &amp; styles](https://github.com/Gecut/Gecut/pull/18) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 weeks ago)
-
-- [feat(ui/iconsax-cdn): ui package](https://github.com/Gecut/Gecut/pull/16) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 weeks ago)
 
 ## 📓 Gists I wrote
 
@@ -61,9 +61,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects (1 day ago)
+- [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects (2 days ago)
 
-- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS (1 day ago)
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS (2 days ago)
 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (1 week ago)
 
