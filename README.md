@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [modernweb-dev/web](https://github.com/modernweb-dev/web) ([@web/test-runner@0.15.1](https://github.com/modernweb-dev/web/releases/tag/%40web/test-runner%400.15.1), 4 days ago) - Guides, tools and libraries for modern web development.
+- [modernweb-dev/web](https://github.com/modernweb-dev/web) ([@web/test-runner@0.15.1](https://github.com/modernweb-dev/web/releases/tag/%40web/test-runner%400.15.1), 5 days ago) - Guides, tools and libraries for modern web development.
 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.1.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.1.0), 1 week ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
@@ -41,13 +41,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(ui/icon): svg property](https://github.com/AliMD/alwatr/pull/867) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [feat: re-structure](https://github.com/Gecut/Gecut/pull/40) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (1 day ago)
+
+- [feat(uniquely/salavat-pwa): new app {fork}](https://github.com/AliMD/alwatr/pull/882) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+
+- [feat(ui/icon): svg property](https://github.com/AliMD/alwatr/pull/867) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
 
 - [feat(ui|agah-pwa|color-palette): new component](https://github.com/Gecut/Gecut/pull/20) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 weeks ago)
-
-- [release 0.1.0](https://github.com/Gecut/Gecut/pull/19) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 weeks ago)
-
-- [feat(ui/ui-kit): icon component &amp; styles](https://github.com/Gecut/Gecut/pull/18) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 weeks ago)
 
 ## 📓 Gists I wrote
 
@@ -61,17 +61,17 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects (2 days ago)
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io (1 day ago)
 
-- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS (2 days ago)
+- [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects (3 days ago)
+
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS (3 days ago)
 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (1 week ago)
 
 - [rndme/download](https://github.com/rndme/download) - file downloading using client-side javascript (1 week ago)
 
 - [ImanMh/persianRex](https://github.com/ImanMh/persianRex) - A minimal library of useful Persian / Farsi regular expressions for browser and NodeJS environment (2 weeks ago)
-
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans. (2 weeks ago)
 
 ## 📫 How to reach me
 
