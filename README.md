@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (2 days ago)
+- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (3 days ago)
 
 - [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (3 weeks ago)
 
@@ -31,9 +31,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.2.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.2.0), 1 day ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.2.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.2.0), 2 days ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
-- [modernweb-dev/web](https://github.com/modernweb-dev/web) ([@web/test-runner@0.15.1](https://github.com/modernweb-dev/web/releases/tag/%40web/test-runner%400.15.1), 6 days ago) - Guides, tools and libraries for modern web development.
+- [modernweb-dev/web](https://github.com/modernweb-dev/web) ([@web/test-runner@0.15.1](https://github.com/modernweb-dev/web/releases/tag/%40web/test-runner%400.15.1), 1 week ago) - Guides, tools and libraries for modern web development.
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.29.0](https://github.com/AliMD/alwatr/releases/tag/v0.29.0), 2 weeks ago) - The Alwatr Library
 
@@ -41,13 +41,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat: re-structure](https://github.com/Gecut/Gecut/pull/40) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 days ago)
+- [feat: re-structure](https://github.com/Gecut/Gecut/pull/40) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (3 days ago)
 
-- [feat(uniquely/salavat-pwa): new app {fork}](https://github.com/AliMD/alwatr/pull/882) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
+- [feat(uniquely/salavat-pwa): new app {fork}](https://github.com/AliMD/alwatr/pull/882) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
 
-- [feat(ui/icon): svg property](https://github.com/AliMD/alwatr/pull/867) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(ui/icon): svg property](https://github.com/AliMD/alwatr/pull/867) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
 
-- [feat(ui|agah-pwa|color-palette): new component](https://github.com/Gecut/Gecut/pull/20) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 weeks ago)
+- [feat(ui|agah-pwa|color-palette): new component](https://github.com/Gecut/Gecut/pull/20) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (3 weeks ago)
 
 ## 📓 Gists I wrote
 
@@ -61,15 +61,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io (2 days ago)
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io (3 days ago)
 
-- [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects (4 days ago)
+- [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects (5 days ago)
 
-- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS (4 days ago)
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS (5 days ago)
 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (1 week ago)
 
-- [rndme/download](https://github.com/rndme/download) - file downloading using client-side javascript (1 week ago)
+- [rndme/download](https://github.com/rndme/download) - file downloading using client-side javascript (2 weeks ago)
 
 - [ImanMh/persianRex](https://github.com/ImanMh/persianRex) - A minimal library of useful Persian / Farsi regular expressions for browser and NodeJS environment (2 weeks ago)
 
