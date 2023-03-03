@@ -11,11 +11,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (3 days ago)
+- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (4 days ago)
 
 - [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (3 weeks ago)
 
-- [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (4 weeks ago)
+- [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (1 month ago)
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 month ago)
 
@@ -31,21 +31,21 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.2.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.2.0), 2 days ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.2.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.2.0), 3 days ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
 - [modernweb-dev/web](https://github.com/modernweb-dev/web) ([@web/test-runner@0.15.1](https://github.com/modernweb-dev/web/releases/tag/%40web/test-runner%400.15.1), 1 week ago) - Guides, tools and libraries for modern web development.
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.29.0](https://github.com/AliMD/alwatr/releases/tag/v0.29.0), 2 weeks ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.29.0](https://github.com/AliMD/alwatr/releases/tag/v0.29.0), 3 weeks ago) - The Alwatr Library
 
 ## 👓 My recent Pull Requests
 
 
 
-- [feat: re-structure](https://github.com/Gecut/Gecut/pull/40) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (3 days ago)
+- [feat: re-structure](https://github.com/Gecut/Gecut/pull/40) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (4 days ago)
 
-- [feat(uniquely/salavat-pwa): new app {fork}](https://github.com/AliMD/alwatr/pull/882) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(uniquely/salavat-pwa): new app {fork}](https://github.com/AliMD/alwatr/pull/882) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
 
-- [feat(ui/icon): svg property](https://github.com/AliMD/alwatr/pull/867) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [feat(ui/icon): svg property](https://github.com/AliMD/alwatr/pull/867) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
 
 - [feat(ui|agah-pwa|color-palette): new component](https://github.com/Gecut/Gecut/pull/20) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (3 weeks ago)
 
@@ -61,11 +61,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io (3 days ago)
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io (4 days ago)
 
-- [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects (5 days ago)
+- [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects (6 days ago)
 
-- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS (5 days ago)
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS (6 days ago)
 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (1 week ago)
 
