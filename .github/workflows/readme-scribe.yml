@@ -8,9 +8,13 @@ on:
 jobs:
   markscribe:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@master
+        with:
+          ref: ${{ github.head_ref }}
 
       - uses: muesli/readme-scribe@master
         env:
