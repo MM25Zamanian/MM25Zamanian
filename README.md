@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (2 days ago)
+- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (3 days ago)
 
 - [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (1 month ago)
 
@@ -31,9 +31,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [Gecut/Gecut](https://github.com/Gecut/Gecut) ([v0.1.0](https://github.com/Gecut/Gecut/releases/tag/v0.1.0), 3 days ago) - The Gecut Company Monorepo
+- [Gecut/Gecut](https://github.com/Gecut/Gecut) ([v0.1.0](https://github.com/Gecut/Gecut/releases/tag/v0.1.0), 4 days ago) - The Gecut Company Monorepo
 
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.3.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.3.0), 5 days ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.3.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.3.0), 6 days ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 1 week ago) - The Alwatr Library
 
@@ -41,7 +41,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(ui-kit|list): ui components](https://github.com/Gecut/Gecut/pull/63) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (5 days ago)
+- [feat(ui-kit|list): ui components](https://github.com/Gecut/Gecut/pull/63) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (6 days ago)
 
 - [feat(wireit): base scripts](https://github.com/Gecut/Gecut/pull/49) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (1 week ago)
 
@@ -61,11 +61,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript (4 days ago)
+- [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript (5 days ago)
 
-- [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript. (4 days ago)
+- [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript. (5 days ago)
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (5 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (6 days ago)
 
 - [typetron/typetron](https://github.com/typetron/typetron) - Modern Node.js framework for creating fully-featured apps (1 week ago)
 
