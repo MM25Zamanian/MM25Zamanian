@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (1 day ago)
+- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (2 days ago)
 
 - [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (1 month ago)
 
@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [Gecut/Gecut](https://github.com/Gecut/Gecut) ([v0.1.0](https://github.com/Gecut/Gecut/releases/tag/v0.1.0), 5 days ago) - The Gecut Company Monorepo
+- [Gecut/Gecut](https://github.com/Gecut/Gecut) ([v0.1.0](https://github.com/Gecut/Gecut/releases/tag/v0.1.0), 6 days ago) - The Gecut Company Monorepo
 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.3.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.3.0), 1 week ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
@@ -41,11 +41,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(demo-pwa): new pwa](https://github.com/Gecut/Gecut/pull/74) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (1 day ago)
+- [feat(demo-pwa): new pwa](https://github.com/Gecut/Gecut/pull/74) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 days ago)
 
-- [feat(lorem): new package](https://github.com/Gecut/Gecut/pull/73) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (1 day ago)
+- [feat(lorem): new package](https://github.com/Gecut/Gecut/pull/73) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 days ago)
 
-- [feat(ui-kit/list): remove extras](https://github.com/Gecut/Gecut/pull/72) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (1 day ago)
+- [feat(ui-kit/list): remove extras](https://github.com/Gecut/Gecut/pull/72) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (2 days ago)
 
 - [feat(ui-kit|list): ui components](https://github.com/Gecut/Gecut/pull/63) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (1 week ago)
 
@@ -61,11 +61,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests (1 day ago)
+- [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests (2 days ago)
 
-- [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript (6 days ago)
+- [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript (1 week ago)
 
-- [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript. (6 days ago)
+- [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript. (1 week ago)
 
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 
