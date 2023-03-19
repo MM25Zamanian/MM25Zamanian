@@ -11,13 +11,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (3 days ago)
+- [Gecut/Gecut](https://github.com/Gecut/Gecut) - The Gecut Company Monorepo (1 day ago)
 
 - [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (1 month ago)
 
 - [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (1 month ago)
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 month ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 months ago)
 
 ## ☂️ My latest projects
 
@@ -41,11 +41,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(demo-pwa): new pwa](https://github.com/Gecut/Gecut/pull/74) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (3 days ago)
+- [feat(demo-pwa): new pwa](https://github.com/Gecut/Gecut/pull/74) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (4 days ago)
 
-- [feat(lorem): new package](https://github.com/Gecut/Gecut/pull/73) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (3 days ago)
+- [feat(lorem): new package](https://github.com/Gecut/Gecut/pull/73) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (4 days ago)
 
-- [feat(ui-kit/list): remove extras](https://github.com/Gecut/Gecut/pull/72) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (3 days ago)
+- [feat(ui-kit/list): remove extras](https://github.com/Gecut/Gecut/pull/72) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (4 days ago)
 
 - [feat(ui-kit|list): ui components](https://github.com/Gecut/Gecut/pull/63) on [Gecut/Gecut](https://github.com/Gecut/Gecut) (1 week ago)
 
@@ -61,7 +61,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests (3 days ago)
+- [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests (4 days ago)
 
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript (1 week ago)
 
