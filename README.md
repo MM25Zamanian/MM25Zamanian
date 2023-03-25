@@ -11,13 +11,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/Gecut](https://github.com/gecut/Gecut) - The Gecut Company Monorepo (today)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (1 day ago)
+
+- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (1 day ago)
 
 - [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (1 month ago)
 
 - [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (1 month ago)
-
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (2 months ago)
 
 ## ☂️ My latest projects
 
@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/Gecut](https://github.com/gecut/Gecut) ([v0.1.0](https://github.com/gecut/Gecut/releases/tag/v0.1.0), 1 week ago) - The Gecut Company Monorepo
+- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 2 weeks ago) - The Gecut Company Monorepo
 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.3.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.3.0), 2 weeks ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
@@ -41,13 +41,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(demo-pwa): new pwa](https://github.com/gecut/Gecut/pull/74) on [gecut/Gecut](https://github.com/gecut/Gecut) (1 week ago)
+- [feat(workflows): CI unit test](https://github.com/gecut/gecut/pull/1) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(lorem): new package](https://github.com/gecut/Gecut/pull/73) on [gecut/Gecut](https://github.com/gecut/Gecut) (1 week ago)
+- [feat(demo-pwa): new pwa](https://github.com/gecut/Gecut-deprecated/pull/74) on [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) (1 week ago)
 
-- [feat(ui-kit/list): remove extras](https://github.com/gecut/Gecut/pull/72) on [gecut/Gecut](https://github.com/gecut/Gecut) (1 week ago)
+- [feat(lorem): new package](https://github.com/gecut/Gecut-deprecated/pull/73) on [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) (1 week ago)
 
-- [feat(ui-kit|list): ui components](https://github.com/gecut/Gecut/pull/63) on [gecut/Gecut](https://github.com/gecut/Gecut) (2 weeks ago)
+- [feat(ui-kit/list): remove extras](https://github.com/gecut/Gecut-deprecated/pull/72) on [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) (1 week ago)
 
 ## 📓 Gists I wrote
 
@@ -61,17 +61,17 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures. (today)
+- [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript (1 day ago)
+
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks. (1 day ago)
+
+- [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures. (1 day ago)
 
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests (1 week ago)
 
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript (2 weeks ago)
 
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript. (2 weeks ago)
-
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
-
-- [typetron/typetron](https://github.com/typetron/typetron) - Modern Node.js framework for creating fully-featured apps (2 weeks ago)
 
 ## 📫 How to reach me
 
