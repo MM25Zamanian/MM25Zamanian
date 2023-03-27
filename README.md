@@ -11,9 +11,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (2 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (today)
 
-- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (2 days ago)
+- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (3 days ago)
 
 - [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (1 month ago)
 
@@ -35,19 +35,19 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.3.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.3.0), 2 weeks ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 2 weeks ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 3 weeks ago) - The Alwatr Library
 
 ## 👓 My recent Pull Requests
 
 
 
-- [feat(workflows): CI unit test](https://github.com/gecut/gecut/pull/1) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(uniquely/salavat-pwa): new pwa app](https://github.com/gecut/gecut/pull/3) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+
+- [feat(mixins): new packages](https://github.com/gecut/gecut/pull/2) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+
+- [feat(workflows): CI unit test](https://github.com/gecut/gecut/pull/1) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
 - [feat(demo-pwa): new pwa](https://github.com/gecut/Gecut-deprecated/pull/74) on [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) (1 week ago)
-
-- [feat(lorem): new package](https://github.com/gecut/Gecut-deprecated/pull/73) on [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) (1 week ago)
-
-- [feat(ui-kit/list): remove extras](https://github.com/gecut/Gecut-deprecated/pull/72) on [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) (1 week ago)
 
 ## 📓 Gists I wrote
 
@@ -61,11 +61,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript (2 days ago)
+- [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript (3 days ago)
 
-- [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks. (2 days ago)
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks. (3 days ago)
 
-- [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures. (2 days ago)
+- [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures. (3 days ago)
 
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests (1 week ago)
 
