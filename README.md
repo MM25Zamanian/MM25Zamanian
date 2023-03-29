@@ -13,7 +13,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [gecut/gecut](https://github.com/gecut/gecut) -  (1 day ago)
 
-- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (4 days ago)
+- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (5 days ago)
 
 - [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (1 month ago)
 
@@ -41,13 +41,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(uniquely/salavat-pwa): new pwa app](https://github.com/gecut/gecut/pull/3) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [build(uniquely/api/salavat): new micro-service](https://github.com/gecut/gecut/pull/10) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(mixins): new packages](https://github.com/gecut/gecut/pull/2) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [build(core/types): build base package](https://github.com/gecut/gecut/pull/4) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(workflows): CI unit test](https://github.com/gecut/gecut/pull/1) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(uniquely/salavat-pwa): new pwa app](https://github.com/gecut/gecut/pull/3) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [feat(demo-pwa): new pwa](https://github.com/gecut/Gecut-deprecated/pull/74) on [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) (1 week ago)
+- [feat(mixins): new packages](https://github.com/gecut/gecut/pull/2) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
 ## 📓 Gists I wrote
 
@@ -61,17 +61,17 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript (4 days ago)
+- [sindresorhus/arrify](https://github.com/sindresorhus/arrify) - Convert a value to an array (1 day ago)
 
-- [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks. (4 days ago)
+- [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values (1 day ago)
 
-- [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures. (4 days ago)
+- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers&#39; default style (1 day ago)
 
-- [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests (1 week ago)
+- [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control (1 day ago)
 
-- [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript (2 weeks ago)
+- [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types (1 day ago)
 
-- [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript. (2 weeks ago)
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny &amp; elegant JavaScript HTTP client based on the browser Fetch API (1 day ago)
 
 ## 📫 How to reach me
 
