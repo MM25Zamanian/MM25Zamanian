@@ -11,9 +11,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (1 day ago)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (2 days ago)
 
-- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (5 days ago)
+- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (6 days ago)
 
 - [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (1 month ago)
 
@@ -33,7 +33,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 2 weeks ago) - The Gecut Company Monorepo
 
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.3.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.3.0), 2 weeks ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.3.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.3.0), 3 weeks ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 3 weeks ago) - The Alwatr Library
 
@@ -41,13 +41,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [build(uniquely/api/salavat): new micro-service](https://github.com/gecut/gecut/pull/10) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(hami-api): build api server](https://github.com/gecut/alwatr/pull/1) on [gecut/alwatr](https://github.com/gecut/alwatr) (1 day ago)
 
-- [build(core/types): build base package](https://github.com/gecut/gecut/pull/4) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(hami-api): build api server](https://github.com/AliMD/alwatr/pull/1000) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
 
-- [feat(uniquely/salavat-pwa): new pwa app](https://github.com/gecut/gecut/pull/3) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [build(uniquely/api/salavat): new micro-service](https://github.com/gecut/gecut/pull/10) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(mixins): new packages](https://github.com/gecut/gecut/pull/2) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [build(core/types): build base package](https://github.com/gecut/gecut/pull/4) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
 ## 📓 Gists I wrote
 
@@ -61,17 +61,17 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [sindresorhus/arrify](https://github.com/sindresorhus/arrify) - Convert a value to an array (1 day ago)
+- [sindresorhus/arrify](https://github.com/sindresorhus/arrify) - Convert a value to an array (2 days ago)
 
-- [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values (1 day ago)
+- [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values (2 days ago)
 
-- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers&#39; default style (1 day ago)
+- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers&#39; default style (2 days ago)
 
-- [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control (1 day ago)
+- [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control (2 days ago)
 
-- [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types (1 day ago)
+- [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types (2 days ago)
 
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny &amp; elegant JavaScript HTTP client based on the browser Fetch API (1 day ago)
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny &amp; elegant JavaScript HTTP client based on the browser Fetch API (2 days ago)
 
 ## 📫 How to reach me
 
