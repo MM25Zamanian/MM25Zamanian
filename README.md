@@ -11,13 +11,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (4 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (5 days ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (1 week ago)
 
 - [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (1 month ago)
 
-- [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (1 month ago)
+- [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (2 months ago)
 
 ## ☂️ My latest projects
 
@@ -41,13 +41,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [test sync forks](https://github.com/AliMD/alwatr/pull/1006) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 day ago)
+- [test sync forks](https://github.com/AliMD/alwatr/pull/1006) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 days ago)
 
-- [feat(hami-api): build api server](https://github.com/gecut/alwatr/pull/1) on [gecut/alwatr](https://github.com/gecut/alwatr) (3 days ago)
+- [feat(hami-api): build api server](https://github.com/gecut/alwatr/pull/1) on [gecut/alwatr](https://github.com/gecut/alwatr) (4 days ago)
 
-- [feat(hami-api): build api server](https://github.com/AliMD/alwatr/pull/1000) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (3 days ago)
+- [feat(hami-api): build api server](https://github.com/AliMD/alwatr/pull/1000) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
 
-- [build(uniquely/api/salavat): new micro-service](https://github.com/gecut/gecut/pull/10) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [build(uniquely/api/salavat): new micro-service](https://github.com/gecut/gecut/pull/10) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
 ## 📓 Gists I wrote
 
@@ -61,17 +61,17 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [sindresorhus/arrify](https://github.com/sindresorhus/arrify) - Convert a value to an array (4 days ago)
+- [sindresorhus/arrify](https://github.com/sindresorhus/arrify) - Convert a value to an array (5 days ago)
 
-- [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values (4 days ago)
+- [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values (5 days ago)
 
-- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers&#39; default style (4 days ago)
+- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers&#39; default style (5 days ago)
 
-- [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control (4 days ago)
+- [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control (5 days ago)
 
-- [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types (4 days ago)
+- [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types (5 days ago)
 
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny &amp; elegant JavaScript HTTP client based on the browser Fetch API (4 days ago)
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny &amp; elegant JavaScript HTTP client based on the browser Fetch API (5 days ago)
 
 ## 📫 How to reach me
 
