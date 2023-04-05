@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (1 day ago)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (2 days ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (1 week ago)
 
@@ -35,19 +35,19 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.3.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.3.0), 3 weeks ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 4 weeks ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 1 month ago) - The Alwatr Library
 
 ## 👓 My recent Pull Requests
 
 
 
-- [feat(eslint): configuration](https://github.com/gecut/gecut/pull/24) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(eslint): configuration](https://github.com/gecut/gecut/pull/24) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [test sync forks](https://github.com/AliMD/alwatr/pull/1006) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (4 days ago)
+- [test sync forks](https://github.com/AliMD/alwatr/pull/1006) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
 
-- [feat(hami-api): build api server](https://github.com/gecut/alwatr/pull/1) on [gecut/alwatr](https://github.com/gecut/alwatr) (6 days ago)
+- [feat(hami-api): build api server](https://github.com/gecut/alwatr/pull/1) on [gecut/alwatr](https://github.com/gecut/alwatr) (1 week ago)
 
-- [feat(hami-api): build api server](https://github.com/AliMD/alwatr/pull/1000) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
+- [feat(hami-api): build api server](https://github.com/AliMD/alwatr/pull/1000) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 
 ## 📓 Gists I wrote
 
