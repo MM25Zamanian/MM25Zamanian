@@ -11,13 +11,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (2 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (3 days ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (1 week ago)
 
-- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (1 month ago)
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 month ago)
 
-- [MM25Zamanian/Spyzer](https://github.com/MM25Zamanian/Spyzer) - Spyzer is a multilingual web application for spy hunter game (2 months ago)
+- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (1 month ago)
 
 ## ☂️ My latest projects
 
@@ -33,7 +33,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 3 weeks ago) - The Gecut Company Monorepo
 
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.3.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.3.0), 3 weeks ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.3.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.3.0), 4 weeks ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 1 month ago) - The Alwatr Library
 
@@ -41,9 +41,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(eslint): configuration](https://github.com/gecut/gecut/pull/24) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(eslint): configuration](https://github.com/gecut/gecut/pull/24) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [test sync forks](https://github.com/AliMD/alwatr/pull/1006) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (5 days ago)
+- [test sync forks](https://github.com/AliMD/alwatr/pull/1006) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (6 days ago)
 
 - [feat(hami-api): build api server](https://github.com/gecut/alwatr/pull/1) on [gecut/alwatr](https://github.com/gecut/alwatr) (1 week ago)
 
