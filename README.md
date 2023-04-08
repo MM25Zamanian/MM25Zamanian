@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (4 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (5 days ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (2 weeks ago)
 
@@ -31,9 +31,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 3 weeks ago) - The Gecut Company Monorepo
+- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 4 weeks ago) - The Gecut Company Monorepo
 
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.3.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.3.0), 4 weeks ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.3.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.3.0), 1 month ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 1 month ago) - The Alwatr Library
 
@@ -41,9 +41,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(hami): define types](https://github.com/gecut/alwatr/pull/21) on [gecut/alwatr](https://github.com/gecut/alwatr) (1 day ago)
+- [feat(hami): define types](https://github.com/gecut/alwatr/pull/21) on [gecut/alwatr](https://github.com/gecut/alwatr) (2 days ago)
 
-- [feat(eslint): configuration](https://github.com/gecut/gecut/pull/24) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(eslint): configuration](https://github.com/gecut/gecut/pull/24) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
 - [test sync forks](https://github.com/AliMD/alwatr/pull/1006) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 
