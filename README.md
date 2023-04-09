@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (5 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (6 days ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (2 weeks ago)
 
@@ -41,9 +41,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(hami): define types](https://github.com/gecut/alwatr/pull/21) on [gecut/alwatr](https://github.com/gecut/alwatr) (2 days ago)
+- [feat(hami): define types](https://github.com/gecut/alwatr/pull/21) on [gecut/alwatr](https://github.com/gecut/alwatr) (3 days ago)
 
-- [feat(eslint): configuration](https://github.com/gecut/gecut/pull/24) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(eslint): configuration](https://github.com/gecut/gecut/pull/24) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
 - [test sync forks](https://github.com/AliMD/alwatr/pull/1006) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 
@@ -61,17 +61,17 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (1 day ago)
+
+- [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers (1 day ago)
+
+- [horprogs/Just-validate](https://github.com/horprogs/Just-validate) - Modern, simple, lightweight (~5kb gzip) form validation library written in Typescript, with no dependencies (no JQuery!). Support a wide range of predefined rules, async, files, dates validation, custom error messages and styles, localization. Support writing custom rules and plugins. (1 day ago)
+
 - [sindresorhus/arrify](https://github.com/sindresorhus/arrify) - Convert a value to an array (1 week ago)
 
 - [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values (1 week ago)
 
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers&#39; default style (1 week ago)
-
-- [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control (1 week ago)
-
-- [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types (1 week ago)
-
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny &amp; elegant JavaScript HTTP client based on the browser Fetch API (1 week ago)
 
 ## 📫 How to reach me
 
