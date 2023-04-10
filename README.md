@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (6 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (1 week ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (2 weeks ago)
 
@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 4 weeks ago) - The Gecut Company Monorepo
+- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 1 month ago) - The Gecut Company Monorepo
 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.3.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.3.0), 1 month ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
@@ -41,9 +41,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(hami): define types](https://github.com/gecut/alwatr/pull/21) on [gecut/alwatr](https://github.com/gecut/alwatr) (3 days ago)
+- [feat(hami): define types](https://github.com/gecut/alwatr/pull/21) on [gecut/alwatr](https://github.com/gecut/alwatr) (4 days ago)
 
-- [feat(eslint): configuration](https://github.com/gecut/gecut/pull/24) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(eslint): configuration](https://github.com/gecut/gecut/pull/24) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [test sync forks](https://github.com/AliMD/alwatr/pull/1006) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (1 week ago)
 
@@ -61,11 +61,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (1 day ago)
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (2 days ago)
 
-- [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers (1 day ago)
+- [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers (2 days ago)
 
-- [horprogs/Just-validate](https://github.com/horprogs/Just-validate) - Modern, simple, lightweight (~5kb gzip) form validation library written in Typescript, with no dependencies (no JQuery!). Support a wide range of predefined rules, async, files, dates validation, custom error messages and styles, localization. Support writing custom rules and plugins. (1 day ago)
+- [horprogs/Just-validate](https://github.com/horprogs/Just-validate) - Modern, simple, lightweight (~5kb gzip) form validation library written in Typescript, with no dependencies (no JQuery!). Support a wide range of predefined rules, async, files, dates validation, custom error messages and styles, localization. Support writing custom rules and plugins. (2 days ago)
 
 - [sindresorhus/arrify](https://github.com/sindresorhus/arrify) - Convert a value to an array (1 week ago)
 
