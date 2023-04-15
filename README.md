@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (1 day ago)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (2 days ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (3 weeks ago)
 
@@ -31,9 +31,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 1 month ago) - The Gecut Company Monorepo
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.4.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.4.0), 1 day ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.3.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.3.0), 1 month ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 1 month ago) - The Gecut Company Monorepo
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 1 month ago) - The Alwatr Library
 
@@ -41,7 +41,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(ui/form-builder): new ui packages](https://github.com/gecut/gecut/pull/36) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(ui/form-builder): new ui packages](https://github.com/gecut/gecut/pull/36) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
 - [feat(hami): define types](https://github.com/gecut/alwatr/pull/21) on [gecut/alwatr](https://github.com/gecut/alwatr) (1 week ago)
 
@@ -61,17 +61,17 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [marella/material-symbols](https://github.com/marella/material-symbols) - Latest variable icon fonts and optimized SVGs for Material Symbols. (1 day ago)
+- [marella/material-symbols](https://github.com/marella/material-symbols) - Latest variable icon fonts and optimized SVGs for Material Symbols. (2 days ago)
 
-- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (2 days ago)
+- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (3 days ago)
 
-- [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone. (4 days ago)
+- [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone. (5 days ago)
 
-- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (6 days ago)
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (1 week ago)
 
-- [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers (6 days ago)
+- [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers (1 week ago)
 
-- [horprogs/Just-validate](https://github.com/horprogs/Just-validate) - Modern, simple, lightweight (~5kb gzip) form validation library written in Typescript, with no dependencies (no JQuery!). Support a wide range of predefined rules, async, files, dates validation, custom error messages and styles, localization. Support writing custom rules and plugins. (6 days ago)
+- [horprogs/Just-validate](https://github.com/horprogs/Just-validate) - Modern, simple, lightweight (~5kb gzip) form validation library written in Typescript, with no dependencies (no JQuery!). Support a wide range of predefined rules, async, files, dates validation, custom error messages and styles, localization. Support writing custom rules and plugins. (1 week ago)
 
 ## 📫 How to reach me
 
