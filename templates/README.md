@@ -30,23 +30,23 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 ## 👓 My recent Pull Requests
 
-{{range recentPullRequests 4}}
+{{range recentPullRequests 5}}
 
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 ## 📓 Gists I wrote
 
-{{range gists 2}}
+{{range gists 4}}
 
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 ## ⭐ Recent Stars
 
-{{range recentStars 6}}
+{{range recentStars 10}}
 
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .StarredAt}})
 {{- end}}
 
 ## 📫 How to reach me
