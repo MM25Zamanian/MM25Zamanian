@@ -27,7 +27,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: "chore: update readme automatically"
+          commit_message: "docs(readme): update readme automatically"
           branch: main
           commit_user_name: MM25Zamanian
           commit_user_email: mm25zamanian@gmail.com
