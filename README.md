@@ -49,6 +49,8 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [feat(eslint): configuration](https://github.com/gecut/gecut/pull/24) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
+- [test sync forks](https://github.com/AliMD/alwatr/pull/1006) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 weeks ago)
+
 ## 📓 Gists I wrote
 
 
@@ -57,21 +59,33 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [Remove useless letter and convert to simple text with javascript](https://gist.github.com/2249ec3b4dfe1de7693d6412beeba5a0) (1 year ago)
 
+- [Python Application Starter](https://gist.github.com/0d120f8dde7a95ad33bc1fa160975df6) (1 year ago)
+
+- [Julia Language: Print Center Star With *n Number](https://gist.github.com/b04a84f77b7946162c81409eeae904ad) (1 year ago)
+
 ## ⭐ Recent Stars
 
 
 
-- [marella/material-symbols](https://github.com/marella/material-symbols) - Latest variable icon fonts and optimized SVGs for Material Symbols. (3 days ago)
+- [marella/material-symbols](https://github.com/marella/material-symbols) (3 days ago)
 
-- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (4 days ago)
+- [google/deps.dev](https://github.com/google/deps.dev) (4 days ago)
 
-- [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone. (6 days ago)
+- [parallax/jsPDF](https://github.com/parallax/jsPDF) (6 days ago)
 
-- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (1 week ago)
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) (1 week ago)
 
-- [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers (1 week ago)
+- [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) (1 week ago)
 
-- [horprogs/Just-validate](https://github.com/horprogs/Just-validate) - Modern, simple, lightweight (~5kb gzip) form validation library written in Typescript, with no dependencies (no JQuery!). Support a wide range of predefined rules, async, files, dates validation, custom error messages and styles, localization. Support writing custom rules and plugins. (1 week ago)
+- [horprogs/Just-validate](https://github.com/horprogs/Just-validate) (1 week ago)
+
+- [sindresorhus/arrify](https://github.com/sindresorhus/arrify) (2 weeks ago)
+
+- [sindresorhus/is](https://github.com/sindresorhus/is) (2 weeks ago)
+
+- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) (2 weeks ago)
+
+- [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) (2 weeks ago)
 
 ## 📫 How to reach me
 
