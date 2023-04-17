@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (1 day ago)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (2 days ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (3 weeks ago)
 
@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.4.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.4.0), 2 days ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.4.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.4.0), 3 days ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 1 month ago) - The Gecut Company Monorepo
 
@@ -41,13 +41,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [refactor: typescript configs](https://github.com/gecut/gecut/pull/38) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [refactor: typescript configs](https://github.com/gecut/gecut/pull/38) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(ui/form-builder): new ui packages](https://github.com/gecut/gecut/pull/36) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(ui/form-builder): new ui packages](https://github.com/gecut/gecut/pull/36) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
 - [feat(hami): define types](https://github.com/gecut/alwatr/pull/21) on [gecut/alwatr](https://github.com/gecut/alwatr) (1 week ago)
 
-- [feat(eslint): configuration](https://github.com/gecut/gecut/pull/24) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [feat(eslint): configuration](https://github.com/gecut/gecut/pull/24) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
 - [test sync forks](https://github.com/AliMD/alwatr/pull/1006) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 weeks ago)
 
@@ -67,11 +67,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [marella/material-symbols](https://github.com/marella/material-symbols) (3 days ago)
+- [marella/material-symbols](https://github.com/marella/material-symbols) (4 days ago)
 
-- [google/deps.dev](https://github.com/google/deps.dev) (4 days ago)
+- [google/deps.dev](https://github.com/google/deps.dev) (5 days ago)
 
-- [parallax/jsPDF](https://github.com/parallax/jsPDF) (6 days ago)
+- [parallax/jsPDF](https://github.com/parallax/jsPDF) (1 week ago)
 
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) (1 week ago)
 
