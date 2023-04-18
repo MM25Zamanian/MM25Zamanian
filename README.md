@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (2 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (3 days ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (3 weeks ago)
 
@@ -31,25 +31,25 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.4.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.4.0), 3 days ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.28.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.28.0), 1 day ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.4.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.4.0), 4 days ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 1 month ago) - The Gecut Company Monorepo
-
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.30.0](https://github.com/AliMD/alwatr/releases/tag/v0.30.0), 1 month ago) - The Alwatr Library
 
 ## 👓 My recent Pull Requests
 
 
 
-- [refactor: typescript configs](https://github.com/gecut/gecut/pull/38) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(core/logger): new package](https://github.com/gecut/gecut/pull/40) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(ui/form-builder): new ui packages](https://github.com/gecut/gecut/pull/36) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [refactor: typescript configs](https://github.com/gecut/gecut/pull/38) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+
+- [feat(ui/form-builder): new ui packages](https://github.com/gecut/gecut/pull/36) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
 - [feat(hami): define types](https://github.com/gecut/alwatr/pull/21) on [gecut/alwatr](https://github.com/gecut/alwatr) (1 week ago)
 
 - [feat(eslint): configuration](https://github.com/gecut/gecut/pull/24) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
-
-- [test sync forks](https://github.com/AliMD/alwatr/pull/1006) on [AliMD/alwatr](https://github.com/AliMD/alwatr) (2 weeks ago)
 
 ## 📓 Gists I wrote
 
@@ -67,9 +67,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [marella/material-symbols](https://github.com/marella/material-symbols) (4 days ago)
+- [enio-ireland/enio](https://github.com/enio-ireland/enio) (1 day ago)
 
-- [google/deps.dev](https://github.com/google/deps.dev) (5 days ago)
+- [marella/material-symbols](https://github.com/marella/material-symbols) (5 days ago)
+
+- [google/deps.dev](https://github.com/google/deps.dev) (6 days ago)
 
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) (1 week ago)
 
@@ -79,13 +81,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [horprogs/Just-validate](https://github.com/horprogs/Just-validate) (1 week ago)
 
-- [sindresorhus/arrify](https://github.com/sindresorhus/arrify) (2 weeks ago)
+- [sindresorhus/arrify](https://github.com/sindresorhus/arrify) (3 weeks ago)
 
-- [sindresorhus/is](https://github.com/sindresorhus/is) (2 weeks ago)
+- [sindresorhus/is](https://github.com/sindresorhus/is) (3 weeks ago)
 
-- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) (2 weeks ago)
-
-- [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) (2 weeks ago)
+- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) (3 weeks ago)
 
 ## 📫 How to reach me
 
