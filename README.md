@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (3 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (4 days ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (3 weeks ago)
 
@@ -31,9 +31,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.28.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.28.0), 1 day ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.28.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.28.0), 2 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.4.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.4.0), 4 days ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.4.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.4.0), 5 days ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 1 month ago) - The Gecut Company Monorepo
 
@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(core/logger): new package](https://github.com/gecut/gecut/pull/40) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(demo): new app](https://github.com/gecut/gecut/pull/41) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [refactor: typescript configs](https://github.com/gecut/gecut/pull/38) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(core/logger): new core package](https://github.com/gecut/gecut/pull/40) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(ui/form-builder): new ui packages](https://github.com/gecut/gecut/pull/36) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [refactor: typescript configs](https://github.com/gecut/gecut/pull/38) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+
+- [feat(ui/form-builder): new ui packages](https://github.com/gecut/gecut/pull/36) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(hami): define types](https://github.com/gecut/alwatr/pull/21) on [gecut/alwatr](https://github.com/gecut/alwatr) (1 week ago)
-
-- [feat(eslint): configuration](https://github.com/gecut/gecut/pull/24) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
 ## 📓 Gists I wrote
 
@@ -67,11 +67,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [enio-ireland/enio](https://github.com/enio-ireland/enio) (1 day ago)
+- [enio-ireland/enio](https://github.com/enio-ireland/enio) (2 days ago)
 
-- [marella/material-symbols](https://github.com/marella/material-symbols) (5 days ago)
+- [marella/material-symbols](https://github.com/marella/material-symbols) (6 days ago)
 
-- [google/deps.dev](https://github.com/google/deps.dev) (6 days ago)
+- [google/deps.dev](https://github.com/google/deps.dev) (1 week ago)
 
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) (1 week ago)
 
