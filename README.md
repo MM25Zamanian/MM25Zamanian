@@ -11,9 +11,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (1 day ago)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (2 days ago)
 
-- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (4 weeks ago)
+- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (1 month ago)
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (1 month ago)
 
@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.28.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.28.0), 5 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.28.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.28.0), 6 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.4.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.4.0), 1 week ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(demo): new app](https://github.com/gecut/gecut/pull/41) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(ui/form-validator): new ui package](https://github.com/gecut/gecut/pull/44) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(core/logger): new core package](https://github.com/gecut/gecut/pull/40) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(demo): new app](https://github.com/gecut/gecut/pull/41) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+
+- [feat(core/logger): new core package](https://github.com/gecut/gecut/pull/40) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
 - [refactor: typescript configs](https://github.com/gecut/gecut/pull/38) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(ui/form-builder): new ui packages](https://github.com/gecut/gecut/pull/36) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
-
-- [feat(hami): define types](https://github.com/gecut/alwatr/pull/21) on [gecut/alwatr](https://github.com/gecut/alwatr) (2 weeks ago)
 
 ## 📓 Gists I wrote
 
@@ -67,25 +67,25 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [sapegin/jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet) (1 day ago)
+- [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) (1 day ago)
 
-- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) (1 day ago)
+- [andreasbm/web-skills](https://github.com/andreasbm/web-skills) (1 day ago)
 
-- [enio-ireland/enio](https://github.com/enio-ireland/enio) (5 days ago)
+- [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) (1 day ago)
 
-- [marella/material-symbols](https://github.com/marella/material-symbols) (1 week ago)
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) (1 day ago)
 
-- [google/deps.dev](https://github.com/google/deps.dev) (1 week ago)
+- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) (1 day ago)
 
-- [parallax/jsPDF](https://github.com/parallax/jsPDF) (1 week ago)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) (1 day ago)
 
-- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) (2 weeks ago)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) (1 day ago)
 
-- [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) (2 weeks ago)
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) (1 day ago)
 
-- [horprogs/Just-validate](https://github.com/horprogs/Just-validate) (2 weeks ago)
+- [sapegin/jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet) (2 days ago)
 
-- [sindresorhus/arrify](https://github.com/sindresorhus/arrify) (3 weeks ago)
+- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) (2 days ago)
 
 ## 📫 How to reach me
 
