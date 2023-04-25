@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (today)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (1 day ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (1 month ago)
 
@@ -41,13 +41,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [docs: update README.md](https://github.com/gecut/gecut/pull/46) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [docs: update README.md](https://github.com/gecut/gecut/pull/46) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [ci(workflows): size limit actions](https://github.com/gecut/gecut/pull/45) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [ci(workflows): size limit actions](https://github.com/gecut/gecut/pull/45) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(ui/form-validator): new ui package](https://github.com/gecut/gecut/pull/44) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(ui/form-validator): new ui package](https://github.com/gecut/gecut/pull/44) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [feat(demo): new app](https://github.com/gecut/gecut/pull/41) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(demo): new app](https://github.com/gecut/gecut/pull/41) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(core/logger): new core package](https://github.com/gecut/gecut/pull/40) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
@@ -67,25 +67,25 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [cicirello/user-statistician](https://github.com/cicirello/user-statistician) (1 day ago)
+- [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) (1 day ago)
 
-- [gofiber/fiber](https://github.com/gofiber/fiber) (1 day ago)
+- [cicirello/user-statistician](https://github.com/cicirello/user-statistician) (2 days ago)
 
-- [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) (2 days ago)
+- [gofiber/fiber](https://github.com/gofiber/fiber) (2 days ago)
 
-- [andreasbm/web-skills](https://github.com/andreasbm/web-skills) (2 days ago)
+- [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) (3 days ago)
 
-- [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) (2 days ago)
+- [andreasbm/web-skills](https://github.com/andreasbm/web-skills) (3 days ago)
 
-- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) (2 days ago)
+- [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) (3 days ago)
 
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) (2 days ago)
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) (3 days ago)
 
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) (2 days ago)
+- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) (3 days ago)
 
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) (2 days ago)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) (3 days ago)
 
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) (2 days ago)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) (3 days ago)
 
 ## 📫 How to reach me
 
