@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (today)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (1 day ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (1 month ago)
 
@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(apps/shop-pwa): demo ui apps](https://github.com/gecut/gecut/pull/55) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(apps/shop-pwa): demo ui apps](https://github.com/gecut/gecut/pull/55) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [refactor(ui/form-builder): re-structure components](https://github.com/gecut/gecut/pull/52) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [refactor(ui/form-builder): re-structure components](https://github.com/gecut/gecut/pull/52) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [docs: update README.md](https://github.com/gecut/gecut/pull/46) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [docs: update README.md](https://github.com/gecut/gecut/pull/46) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
-- [ci(workflows): size limit actions](https://github.com/gecut/gecut/pull/45) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [ci(workflows): size limit actions](https://github.com/gecut/gecut/pull/45) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
-- [feat(ui/form-validator): new ui package](https://github.com/gecut/gecut/pull/44) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(ui/form-validator): new ui package](https://github.com/gecut/gecut/pull/44) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 ## 📓 Gists I wrote
 
@@ -67,25 +67,25 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) (2 days ago)
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) (3 days ago)
 
-- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) (3 days ago)
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) (4 days ago)
 
-- [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) (4 days ago)
+- [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) (5 days ago)
 
-- [cicirello/user-statistician](https://github.com/cicirello/user-statistician) (5 days ago)
+- [cicirello/user-statistician](https://github.com/cicirello/user-statistician) (6 days ago)
 
-- [gofiber/fiber](https://github.com/gofiber/fiber) (5 days ago)
+- [gofiber/fiber](https://github.com/gofiber/fiber) (6 days ago)
 
-- [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) (6 days ago)
+- [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) (1 week ago)
 
-- [andreasbm/web-skills](https://github.com/andreasbm/web-skills) (6 days ago)
+- [andreasbm/web-skills](https://github.com/andreasbm/web-skills) (1 week ago)
 
-- [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) (6 days ago)
+- [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) (1 week ago)
 
-- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) (6 days ago)
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) (1 week ago)
 
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) (6 days ago)
+- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) (1 week ago)
 
 ## 📫 How to reach me
 
