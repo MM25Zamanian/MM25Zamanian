@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (4 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (5 days ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (1 month ago)
 
@@ -33,7 +33,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.28.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.28.0), 2 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.4.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.4.0), 2 weeks ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.4.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.4.0), 3 weeks ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 1 month ago) - The Gecut Company Monorepo
 
@@ -41,11 +41,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [fix(workflows): `add-to-project`](https://github.com/gecut/gecut/pull/64) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [fix(workflows): `add-to-project`](https://github.com/gecut/gecut/pull/64) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [feat(core/signal): `request` &amp; `setProvider`](https://github.com/gecut/gecut/pull/58) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(core/signal): `request` &amp; `setProvider`](https://github.com/gecut/gecut/pull/58) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
-- [feat(core/signal): new core package](https://github.com/gecut/gecut/pull/57) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(core/signal): new core package](https://github.com/gecut/gecut/pull/57) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
 - [feat(apps/shop-pwa): demo ui apps](https://github.com/gecut/gecut/pull/55) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
@@ -67,15 +67,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [remy/nodemon](https://github.com/remy/nodemon) (3 days ago)
+- [remy/nodemon](https://github.com/remy/nodemon) (4 days ago)
 
-- [appleboy/telegram-action](https://github.com/appleboy/telegram-action) (5 days ago)
+- [appleboy/telegram-action](https://github.com/appleboy/telegram-action) (6 days ago)
 
-- [jakejarvis/lighthouse-action](https://github.com/jakejarvis/lighthouse-action) (5 days ago)
+- [jakejarvis/lighthouse-action](https://github.com/jakejarvis/lighthouse-action) (6 days ago)
 
-- [patternfly/patternfly-elements](https://github.com/patternfly/patternfly-elements) (5 days ago)
+- [patternfly/patternfly-elements](https://github.com/patternfly/patternfly-elements) (6 days ago)
 
-- [stormkit-io/app-stormkit-io](https://github.com/stormkit-io/app-stormkit-io) (5 days ago)
+- [stormkit-io/app-stormkit-io](https://github.com/stormkit-io/app-stormkit-io) (6 days ago)
 
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) (1 week ago)
 
