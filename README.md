@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) -  (today)
+- [gecut/gecut](https://github.com/gecut/gecut) -  (1 day ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (1 month ago)
 
@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.29.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.29.0), 1 day ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.29.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.29.0), 2 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.31.0](https://github.com/AliMD/alwatr/releases/tag/v0.31.0), 1 week ago) - The Alwatr Library
 
@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [fix(core/types): shouldn&#39;t export function as type](https://github.com/gecut/gecut/pull/93) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [refactor(ui/ui-kit): re-design pattern ](https://github.com/gecut/gecut/pull/101) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [refactor(apps/hami-pwa): `product-price-card` in home page ](https://github.com/gecut/gecut/pull/92) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [fix(core/types): shouldn&#39;t export function as type](https://github.com/gecut/gecut/pull/93) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [refactor(ui/ui-kit): re-structure](https://github.com/gecut/gecut/pull/89) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [refactor(apps/hami-pwa): `product-price-card` in home page ](https://github.com/gecut/gecut/pull/92) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [refactor(core/types): re-structure](https://github.com/gecut/gecut/pull/88) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [refactor(ui/ui-kit): re-structure](https://github.com/gecut/gecut/pull/89) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [refactor(ui/components): renderers &amp; types](https://github.com/gecut/gecut/pull/86) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [refactor(core/types): re-structure](https://github.com/gecut/gecut/pull/88) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
 ## 📓 Gists I wrote
 
