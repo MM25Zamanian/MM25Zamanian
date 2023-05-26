@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [ci: update publish-docker-container.yml](https://github.com/gecut/gecut/pull/126) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [ci: update publish-docker-container.yml](https://github.com/gecut/gecut/pull/126) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [v0.1.0-pre1](https://github.com/gecut/gecut/pull/121) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [v0.1.0-pre1](https://github.com/gecut/gecut/pull/121) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [feat(core/types): hami api routes](https://github.com/gecut/gecut/pull/120) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(core/types): hami api routes](https://github.com/gecut/gecut/pull/120) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [refactor(apps/hami-api): order storage structure](https://github.com/gecut/gecut/pull/119) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [refactor(apps/hami-api): order storage structure](https://github.com/gecut/gecut/pull/119) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [feat(apps/hami-api): new api package](https://github.com/gecut/gecut/pull/118) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(apps/hami-api): new api package](https://github.com/gecut/gecut/pull/118) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
 ## 📓 Gists I wrote
 
@@ -67,25 +67,25 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) (3 days ago)
+- [pengzhanbo/vite-plugin-image-placeholder](https://github.com/pengzhanbo/vite-plugin-image-placeholder) (1 day ago)
 
-- [sindresorhus/pure](https://github.com/sindresorhus/pure) (3 days ago)
+- [JonasKruckenberg/imagetools](https://github.com/JonasKruckenberg/imagetools) (1 day ago)
 
-- [sindresorhus/meow](https://github.com/sindresorhus/meow) (3 days ago)
+- [wei/socialify](https://github.com/wei/socialify) (1 day ago)
 
-- [sindresorhus/conf](https://github.com/sindresorhus/conf) (3 days ago)
+- [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) (4 days ago)
 
-- [sindresorhus/boxen](https://github.com/sindresorhus/boxen) (3 days ago)
+- [sindresorhus/pure](https://github.com/sindresorhus/pure) (4 days ago)
 
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) (3 days ago)
+- [sindresorhus/meow](https://github.com/sindresorhus/meow) (4 days ago)
 
-- [sindresorhus/DockProgress](https://github.com/sindresorhus/DockProgress) (3 days ago)
+- [sindresorhus/conf](https://github.com/sindresorhus/conf) (4 days ago)
 
-- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) (3 days ago)
+- [sindresorhus/boxen](https://github.com/sindresorhus/boxen) (4 days ago)
 
-- [sindresorhus/awesome-mac](https://github.com/sindresorhus/awesome-mac) (3 days ago)
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) (4 days ago)
 
-- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) (3 days ago)
+- [sindresorhus/DockProgress](https://github.com/sindresorhus/DockProgress) (4 days ago)
 
 ## 📫 How to reach me
 
