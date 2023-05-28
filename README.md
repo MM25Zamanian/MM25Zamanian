@@ -31,9 +31,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.29.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.29.0), 1 week ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.32.0](https://github.com/AliMD/alwatr/releases/tag/v0.32.0), 1 day ago) - The Alwatr Library
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.31.0](https://github.com/AliMD/alwatr/releases/tag/v0.31.0), 2 weeks ago) - The Alwatr Library
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.29.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.29.0), 1 week ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.4.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.4.0), 1 month ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(ui/ui-kit): `surface-card` component &amp; renderer &amp; type](https://github.com/gecut/gecut/pull/132) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [fix(ui/ui-kit): ui styles issue](https://github.com/gecut/gecut/pull/135) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(apps/hami-pwa): import Hami Project with `#hami/**`](https://github.com/gecut/gecut/pull/131) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(ui/ui-kit): `surface-card` component &amp; renderer &amp; type](https://github.com/gecut/gecut/pull/132) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [chore(eslint): `pathGroups` in `import/order` ](https://github.com/gecut/gecut/pull/130) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(apps/hami-pwa): import Hami Project with `#hami/**`](https://github.com/gecut/gecut/pull/131) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(ui/ui-kit): `dialog` &amp; `list`](https://github.com/gecut/gecut/pull/129) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [chore(eslint): `pathGroups` in `import/order` ](https://github.com/gecut/gecut/pull/130) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [docs(dialog): fix spell issue in js-docs](https://github.com/material-components/material-web/pull/4352) on [material-components/material-web](https://github.com/material-components/material-web) (1 day ago)
+- [feat(ui/ui-kit): `dialog` &amp; `list`](https://github.com/gecut/gecut/pull/129) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
 ## 📓 Gists I wrote
 
@@ -67,25 +67,25 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [pengzhanbo/vite-plugin-image-placeholder](https://github.com/pengzhanbo/vite-plugin-image-placeholder) (2 days ago)
+- [is-a-dev/register](https://github.com/is-a-dev/register) (1 day ago)
 
-- [JonasKruckenberg/imagetools](https://github.com/JonasKruckenberg/imagetools) (2 days ago)
+- [gabe565/relax-sounds](https://github.com/gabe565/relax-sounds) (1 day ago)
 
-- [wei/socialify](https://github.com/wei/socialify) (2 days ago)
+- [gabe565/domain-watch](https://github.com/gabe565/domain-watch) (1 day ago)
 
-- [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) (5 days ago)
+- [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) (1 day ago)
 
-- [sindresorhus/pure](https://github.com/sindresorhus/pure) (5 days ago)
+- [pengzhanbo/vite-plugin-image-placeholder](https://github.com/pengzhanbo/vite-plugin-image-placeholder) (3 days ago)
 
-- [sindresorhus/meow](https://github.com/sindresorhus/meow) (5 days ago)
+- [JonasKruckenberg/imagetools](https://github.com/JonasKruckenberg/imagetools) (3 days ago)
 
-- [sindresorhus/conf](https://github.com/sindresorhus/conf) (5 days ago)
+- [wei/socialify](https://github.com/wei/socialify) (3 days ago)
 
-- [sindresorhus/boxen](https://github.com/sindresorhus/boxen) (5 days ago)
+- [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) (6 days ago)
 
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) (5 days ago)
+- [sindresorhus/pure](https://github.com/sindresorhus/pure) (6 days ago)
 
-- [sindresorhus/DockProgress](https://github.com/sindresorhus/DockProgress) (5 days ago)
+- [sindresorhus/meow](https://github.com/sindresorhus/meow) (6 days ago)
 
 ## 📫 How to reach me
 
