@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (today)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (2 months ago)
 
@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.32.0](https://github.com/AliMD/alwatr/releases/tag/v0.32.0), 1 day ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.32.0](https://github.com/AliMD/alwatr/releases/tag/v0.32.0), 2 days ago) - The Alwatr Library
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v0.29.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v0.29.0), 1 week ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [fix(ui/ui-kit): ui styles issue](https://github.com/gecut/gecut/pull/135) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [fix(ui/ui-kit): ui styles issue](https://github.com/gecut/gecut/pull/135) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(ui/ui-kit): `surface-card` component &amp; renderer &amp; type](https://github.com/gecut/gecut/pull/132) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(ui/ui-kit): `surface-card` component &amp; renderer &amp; type](https://github.com/gecut/gecut/pull/132) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [feat(apps/hami-pwa): import Hami Project with `#hami/**`](https://github.com/gecut/gecut/pull/131) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(apps/hami-pwa): import Hami Project with `#hami/**`](https://github.com/gecut/gecut/pull/131) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [chore(eslint): `pathGroups` in `import/order` ](https://github.com/gecut/gecut/pull/130) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [chore(eslint): `pathGroups` in `import/order` ](https://github.com/gecut/gecut/pull/130) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [feat(ui/ui-kit): `dialog` &amp; `list`](https://github.com/gecut/gecut/pull/129) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(ui/ui-kit): `dialog` &amp; `list`](https://github.com/gecut/gecut/pull/129) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
 ## 📓 Gists I wrote
 
@@ -67,25 +67,25 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [is-a-dev/register](https://github.com/is-a-dev/register) (1 day ago)
+- [is-a-dev/register](https://github.com/is-a-dev/register) (2 days ago)
 
-- [gabe565/relax-sounds](https://github.com/gabe565/relax-sounds) (1 day ago)
+- [gabe565/relax-sounds](https://github.com/gabe565/relax-sounds) (2 days ago)
 
-- [gabe565/domain-watch](https://github.com/gabe565/domain-watch) (1 day ago)
+- [gabe565/domain-watch](https://github.com/gabe565/domain-watch) (2 days ago)
 
-- [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) (1 day ago)
+- [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) (2 days ago)
 
-- [pengzhanbo/vite-plugin-image-placeholder](https://github.com/pengzhanbo/vite-plugin-image-placeholder) (3 days ago)
+- [pengzhanbo/vite-plugin-image-placeholder](https://github.com/pengzhanbo/vite-plugin-image-placeholder) (4 days ago)
 
-- [JonasKruckenberg/imagetools](https://github.com/JonasKruckenberg/imagetools) (3 days ago)
+- [JonasKruckenberg/imagetools](https://github.com/JonasKruckenberg/imagetools) (4 days ago)
 
-- [wei/socialify](https://github.com/wei/socialify) (3 days ago)
+- [wei/socialify](https://github.com/wei/socialify) (4 days ago)
 
-- [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) (6 days ago)
+- [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) (1 week ago)
 
-- [sindresorhus/pure](https://github.com/sindresorhus/pure) (6 days ago)
+- [sindresorhus/pure](https://github.com/sindresorhus/pure) (1 week ago)
 
-- [sindresorhus/meow](https://github.com/sindresorhus/meow) (6 days ago)
+- [sindresorhus/meow](https://github.com/sindresorhus/meow) (1 week ago)
 
 ## 📫 How to reach me
 
