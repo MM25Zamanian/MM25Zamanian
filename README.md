@@ -31,9 +31,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.0.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.0.0), 1 day ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.0.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.0.0), 2 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.32.0](https://github.com/AliMD/alwatr/releases/tag/v0.32.0), 3 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.32.0](https://github.com/AliMD/alwatr/releases/tag/v0.32.0), 4 days ago) - The Alwatr Library
 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.4.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.4.0), 1 month ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 
@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(ui/ui-kit/dialog): add transition attribute](https://github.com/gecut/gecut/pull/141) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(ui/ui-kit): new typography and fix other components](https://github.com/gecut/gecut/pull/149) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [fix(ui/ui-kit): ui styles issue](https://github.com/gecut/gecut/pull/135) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(ui/ui-kit): form-builder new renderer &amp; type](https://github.com/gecut/gecut/pull/148) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(ui/ui-kit): `surface-card` component &amp; renderer &amp; type](https://github.com/gecut/gecut/pull/132) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(apps/hami-pwa): pwa](https://github.com/gecut/gecut/pull/147) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(apps/hami-pwa): import Hami Project with `#hami/**`](https://github.com/gecut/gecut/pull/131) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(ui/ui-kit/dialog): add transition attribute](https://github.com/gecut/gecut/pull/141) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [chore(eslint): `pathGroups` in `import/order` ](https://github.com/gecut/gecut/pull/130) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [fix(ui/ui-kit): ui styles issue](https://github.com/gecut/gecut/pull/135) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
 ## 📓 Gists I wrote
 
@@ -67,19 +67,19 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [is-a-dev/register](https://github.com/is-a-dev/register) (3 days ago)
+- [is-a-dev/register](https://github.com/is-a-dev/register) (4 days ago)
 
-- [gabe565/relax-sounds](https://github.com/gabe565/relax-sounds) (3 days ago)
+- [gabe565/relax-sounds](https://github.com/gabe565/relax-sounds) (4 days ago)
 
-- [gabe565/domain-watch](https://github.com/gabe565/domain-watch) (3 days ago)
+- [gabe565/domain-watch](https://github.com/gabe565/domain-watch) (4 days ago)
 
-- [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) (3 days ago)
+- [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) (4 days ago)
 
-- [pengzhanbo/vite-plugin-image-placeholder](https://github.com/pengzhanbo/vite-plugin-image-placeholder) (5 days ago)
+- [pengzhanbo/vite-plugin-image-placeholder](https://github.com/pengzhanbo/vite-plugin-image-placeholder) (6 days ago)
 
-- [JonasKruckenberg/imagetools](https://github.com/JonasKruckenberg/imagetools) (5 days ago)
+- [JonasKruckenberg/imagetools](https://github.com/JonasKruckenberg/imagetools) (6 days ago)
 
-- [wei/socialify](https://github.com/wei/socialify) (5 days ago)
+- [wei/socialify](https://github.com/wei/socialify) (6 days ago)
 
 - [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) (1 week ago)
 
