@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 days ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (2 months ago)
 
@@ -31,25 +31,25 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.0.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.0.0), 4 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.0.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.0.0), 5 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.32.0](https://github.com/AliMD/alwatr/releases/tag/v0.32.0), 6 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.32.0](https://github.com/AliMD/alwatr/releases/tag/v0.32.0), 1 week ago) - The Alwatr Library
 
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) ([v2.4.0](https://github.com/shoelace-style/shoelace/releases/tag/v2.4.0), 1 month ago) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 2 months ago) - The Gecut Company Monorepo
 
 ## 👓 My recent Pull Requests
 
 
 
-- [feat(ui/ui-kit): new typography and fix other components](https://github.com/gecut/gecut/pull/149) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(ui/ui-kit): new typography and fix other components](https://github.com/gecut/gecut/pull/149) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [feat(ui/ui-kit): form-builder new renderer &amp; type](https://github.com/gecut/gecut/pull/148) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(ui/ui-kit): form-builder new renderer &amp; type](https://github.com/gecut/gecut/pull/148) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [feat(apps/hami-pwa): pwa](https://github.com/gecut/gecut/pull/147) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(apps/hami-pwa): pwa](https://github.com/gecut/gecut/pull/147) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [feat(ui/ui-kit/dialog): add transition attribute](https://github.com/gecut/gecut/pull/141) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(ui/ui-kit/dialog): add transition attribute](https://github.com/gecut/gecut/pull/141) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
-- [fix(ui/ui-kit): ui styles issue](https://github.com/gecut/gecut/pull/135) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [fix(ui/ui-kit): ui styles issue](https://github.com/gecut/gecut/pull/135) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 ## 📓 Gists I wrote
 
@@ -67,13 +67,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [is-a-dev/register](https://github.com/is-a-dev/register) (6 days ago)
+- [is-a-dev/register](https://github.com/is-a-dev/register) (1 week ago)
 
-- [gabe565/relax-sounds](https://github.com/gabe565/relax-sounds) (6 days ago)
+- [gabe565/relax-sounds](https://github.com/gabe565/relax-sounds) (1 week ago)
 
-- [gabe565/domain-watch](https://github.com/gabe565/domain-watch) (6 days ago)
+- [gabe565/domain-watch](https://github.com/gabe565/domain-watch) (1 week ago)
 
-- [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) (6 days ago)
+- [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) (1 week ago)
 
 - [pengzhanbo/vite-plugin-image-placeholder](https://github.com/pengzhanbo/vite-plugin-image-placeholder) (1 week ago)
 
