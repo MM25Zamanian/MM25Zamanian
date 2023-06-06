@@ -11,13 +11,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (4 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (2 months ago)
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (3 months ago)
 
-- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (3 months ago)
+- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (4 months ago)
 
 ## ☂️ My latest projects
 
@@ -41,11 +41,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(ui/ui-kit): new typography and fix other components](https://github.com/gecut/gecut/pull/149) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(ui/ui-kit): new typography and fix other components](https://github.com/gecut/gecut/pull/149) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
-- [feat(ui/ui-kit): form-builder new renderer &amp; type](https://github.com/gecut/gecut/pull/148) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(ui/ui-kit): form-builder new renderer &amp; type](https://github.com/gecut/gecut/pull/148) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
-- [feat(apps/hami-pwa): pwa](https://github.com/gecut/gecut/pull/147) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(apps/hami-pwa): pwa](https://github.com/gecut/gecut/pull/147) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(ui/ui-kit/dialog): add transition attribute](https://github.com/gecut/gecut/pull/141) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
@@ -67,7 +67,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) (2 days ago)
+- [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) (3 days ago)
 
 - [is-a-dev/register](https://github.com/is-a-dev/register) (1 week ago)
 
