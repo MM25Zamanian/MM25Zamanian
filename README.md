@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(ui/ui-kit): new typography and fix other components](https://github.com/gecut/gecut/pull/149) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [refactor: packages name in `project.json`](https://github.com/gecut/gecut/pull/166) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(ui/ui-kit): form-builder new renderer &amp; type](https://github.com/gecut/gecut/pull/148) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [fix(ui/ui-kit/m3): list component `type` property](https://github.com/gecut/gecut/pull/165) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(apps/hami-pwa): pwa](https://github.com/gecut/gecut/pull/147) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [feat(apps/hami): new pwa &amp; api](https://github.com/gecut/gecut/pull/164) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(ui/ui-kit/dialog): add transition attribute](https://github.com/gecut/gecut/pull/141) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [feat(ui/ui-kit): material design 3](https://github.com/gecut/gecut/pull/163) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [fix(ui/ui-kit): ui styles issue](https://github.com/gecut/gecut/pull/135) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [feat(core/types): order product list](https://github.com/gecut/gecut/pull/159) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
 ## 📓 Gists I wrote
 
@@ -67,7 +67,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) (3 days ago)
+- [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) (4 days ago)
 
 - [is-a-dev/register](https://github.com/is-a-dev/register) (1 week ago)
 
