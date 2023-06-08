@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (today)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (2 months ago)
 
@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [refactor: packages name in `project.json`](https://github.com/gecut/gecut/pull/166) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(core/types/hami): description and discount](https://github.com/gecut/gecut/pull/172) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [fix(ui/ui-kit/m3): list component `type` property](https://github.com/gecut/gecut/pull/165) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [fix(apps/hami): remove `guard(.*)` and refactor supplier in order](https://github.com/gecut/gecut/pull/171) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(apps/hami): new pwa &amp; api](https://github.com/gecut/gecut/pull/164) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [v0.0.0-pre2](https://github.com/gecut/gecut/pull/170) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(ui/ui-kit): material design 3](https://github.com/gecut/gecut/pull/163) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [refactor: packages name in `project.json`](https://github.com/gecut/gecut/pull/166) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(core/types): order product list](https://github.com/gecut/gecut/pull/159) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [fix(ui/ui-kit/m3): list component `type` property](https://github.com/gecut/gecut/pull/165) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
 ## 📓 Gists I wrote
 
@@ -67,7 +67,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) (4 days ago)
+- [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) (5 days ago)
 
 - [is-a-dev/register](https://github.com/is-a-dev/register) (1 week ago)
 
@@ -77,11 +77,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) (1 week ago)
 
-- [pengzhanbo/vite-plugin-image-placeholder](https://github.com/pengzhanbo/vite-plugin-image-placeholder) (1 week ago)
+- [pengzhanbo/vite-plugin-image-placeholder](https://github.com/pengzhanbo/vite-plugin-image-placeholder) (2 weeks ago)
 
-- [JonasKruckenberg/imagetools](https://github.com/JonasKruckenberg/imagetools) (1 week ago)
+- [JonasKruckenberg/imagetools](https://github.com/JonasKruckenberg/imagetools) (2 weeks ago)
 
-- [wei/socialify](https://github.com/wei/socialify) (1 week ago)
+- [wei/socialify](https://github.com/wei/socialify) (2 weeks ago)
 
 - [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) (2 weeks ago)
 
