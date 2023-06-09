@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (today)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (2 months ago)
 
@@ -35,21 +35,21 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.32.0](https://github.com/AliMD/alwatr/releases/tag/v0.32.0), 1 week ago) - The Alwatr Library
 
-- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 2 months ago) - The Gecut Company Monorepo
+- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 3 months ago) - The Gecut Company Monorepo
 
 ## 👓 My recent Pull Requests
 
 
 
-- [feat(core/types/hami): description and discount](https://github.com/gecut/gecut/pull/172) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(core/signal): provider cache strategy](https://github.com/gecut/gecut/pull/182) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [fix(apps/hami): remove `guard(.*)` and refactor supplier in order](https://github.com/gecut/gecut/pull/171) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(ui/ui-kit/m3): styles and styleVars](https://github.com/gecut/gecut/pull/173) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [v0.0.0-pre2](https://github.com/gecut/gecut/pull/170) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(core/types/hami): description and discount](https://github.com/gecut/gecut/pull/172) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [refactor: packages name in `project.json`](https://github.com/gecut/gecut/pull/166) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [fix(apps/hami): remove `guard(.*)` and refactor supplier in order](https://github.com/gecut/gecut/pull/171) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [fix(ui/ui-kit/m3): list component `type` property](https://github.com/gecut/gecut/pull/165) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [v0.0.0-pre2](https://github.com/gecut/gecut/pull/170) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
 ## 📓 Gists I wrote
 
@@ -67,7 +67,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) (5 days ago)
+- [platisd/openai-pr-description](https://github.com/platisd/openai-pr-description) (1 day ago)
+
+- [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) (6 days ago)
 
 - [is-a-dev/register](https://github.com/is-a-dev/register) (1 week ago)
 
@@ -84,8 +86,6 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 - [wei/socialify](https://github.com/wei/socialify) (2 weeks ago)
 
 - [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) (2 weeks ago)
-
-- [sindresorhus/pure](https://github.com/sindresorhus/pure) (2 weeks ago)
 
 ## 📫 How to reach me
 
