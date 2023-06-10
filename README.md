@@ -33,7 +33,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.0.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.0.0), 1 week ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.32.0](https://github.com/AliMD/alwatr/releases/tag/v0.32.0), 1 week ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v0.32.0](https://github.com/AliMD/alwatr/releases/tag/v0.32.0), 2 weeks ago) - The Alwatr Library
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 3 months ago) - The Gecut Company Monorepo
 
@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(core/signal): provider cache strategy](https://github.com/gecut/gecut/pull/182) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(ui/ui-kit): define fab](https://github.com/gecut/gecut/pull/189) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(ui/ui-kit/m3): styles and styleVars](https://github.com/gecut/gecut/pull/173) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(apps/hami-pwa): v1](https://github.com/gecut/gecut/pull/188) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(core/types/hami): description and discount](https://github.com/gecut/gecut/pull/172) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(core/signal): provider cache strategy](https://github.com/gecut/gecut/pull/182) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [fix(apps/hami): remove `guard(.*)` and refactor supplier in order](https://github.com/gecut/gecut/pull/171) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(ui/ui-kit/m3): styles and styleVars](https://github.com/gecut/gecut/pull/173) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [v0.0.0-pre2](https://github.com/gecut/gecut/pull/170) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(core/types/hami): description and discount](https://github.com/gecut/gecut/pull/172) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
 ## 📓 Gists I wrote
 
@@ -67,17 +67,17 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [platisd/openai-pr-description](https://github.com/platisd/openai-pr-description) (1 day ago)
+- [platisd/openai-pr-description](https://github.com/platisd/openai-pr-description) (2 days ago)
 
-- [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) (6 days ago)
+- [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) (1 week ago)
 
-- [is-a-dev/register](https://github.com/is-a-dev/register) (1 week ago)
+- [is-a-dev/register](https://github.com/is-a-dev/register) (2 weeks ago)
 
-- [gabe565/relax-sounds](https://github.com/gabe565/relax-sounds) (1 week ago)
+- [gabe565/relax-sounds](https://github.com/gabe565/relax-sounds) (2 weeks ago)
 
-- [gabe565/domain-watch](https://github.com/gabe565/domain-watch) (1 week ago)
+- [gabe565/domain-watch](https://github.com/gabe565/domain-watch) (2 weeks ago)
 
-- [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) (1 week ago)
+- [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) (2 weeks ago)
 
 - [pengzhanbo/vite-plugin-image-placeholder](https://github.com/pengzhanbo/vite-plugin-image-placeholder) (2 weeks ago)
 
