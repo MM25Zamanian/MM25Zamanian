@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (3 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (4 days ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (2 months ago)
 
@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(ui/ui-kit): define fab](https://github.com/gecut/gecut/pull/189) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(ui/ui-kit): define fab](https://github.com/gecut/gecut/pull/189) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [feat(apps/hami-pwa): v1](https://github.com/gecut/gecut/pull/188) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(apps/hami-pwa): v1](https://github.com/gecut/gecut/pull/188) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [feat(core/signal): provider cache strategy](https://github.com/gecut/gecut/pull/182) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(core/signal): provider cache strategy](https://github.com/gecut/gecut/pull/182) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
-- [feat(ui/ui-kit/m3): styles and styleVars](https://github.com/gecut/gecut/pull/173) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(ui/ui-kit/m3): styles and styleVars](https://github.com/gecut/gecut/pull/173) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
-- [feat(core/types/hami): description and discount](https://github.com/gecut/gecut/pull/172) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(core/types/hami): description and discount](https://github.com/gecut/gecut/pull/172) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
 ## 📓 Gists I wrote
 
@@ -67,7 +67,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [platisd/openai-pr-description](https://github.com/platisd/openai-pr-description) (4 days ago)
+- [platisd/openai-pr-description](https://github.com/platisd/openai-pr-description) (5 days ago)
 
 - [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) (1 week ago)
 
@@ -83,9 +83,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [JonasKruckenberg/imagetools](https://github.com/JonasKruckenberg/imagetools) (2 weeks ago)
 
-- [wei/socialify](https://github.com/wei/socialify) (2 weeks ago)
-
 - [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) (3 weeks ago)
+
+- [sindresorhus/pure](https://github.com/sindresorhus/pure) (3 weeks ago)
 
 ## 📫 How to reach me
 
