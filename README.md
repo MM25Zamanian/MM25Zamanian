@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (6 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 week ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (2 months ago)
 
@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 1 day ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 2 days ago) - The Alwatr Library
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.0.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.0.0), 2 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
@@ -41,9 +41,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(ui/ui-kit): define fab](https://github.com/gecut/gecut/pull/189) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(ui/ui-kit): define fab](https://github.com/gecut/gecut/pull/189) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
-- [feat(apps/hami-pwa): v1](https://github.com/gecut/gecut/pull/188) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(apps/hami-pwa): v1](https://github.com/gecut/gecut/pull/188) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(core/signal): provider cache strategy](https://github.com/gecut/gecut/pull/182) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
