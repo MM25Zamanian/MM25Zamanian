@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 2 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 3 days ago) - The Alwatr Library
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.0.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.0.0), 2 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
@@ -69,15 +69,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [platisd/openai-pr-description](https://github.com/platisd/openai-pr-description) (1 week ago)
 
-- [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) (1 week ago)
+- [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) (2 weeks ago)
 
-- [is-a-dev/register](https://github.com/is-a-dev/register) (2 weeks ago)
+- [is-a-dev/register](https://github.com/is-a-dev/register) (3 weeks ago)
 
-- [gabe565/relax-sounds](https://github.com/gabe565/relax-sounds) (2 weeks ago)
+- [gabe565/relax-sounds](https://github.com/gabe565/relax-sounds) (3 weeks ago)
 
-- [gabe565/domain-watch](https://github.com/gabe565/domain-watch) (2 weeks ago)
+- [gabe565/domain-watch](https://github.com/gabe565/domain-watch) (3 weeks ago)
 
-- [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) (2 weeks ago)
+- [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) (3 weeks ago)
 
 - [pengzhanbo/vite-plugin-image-placeholder](https://github.com/pengzhanbo/vite-plugin-image-placeholder) (3 weeks ago)
 
