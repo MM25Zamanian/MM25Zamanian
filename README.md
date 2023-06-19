@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 week ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (2 months ago)
 
@@ -31,15 +31,17 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 4 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 5 days ago) - The Alwatr Library
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.0.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.0.0), 2 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.0.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.0.0), 3 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 3 months ago) - The Gecut Company Monorepo
 
 ## 👓 My recent Pull Requests
 
 
+
+- [feat(apps/hami-pwa): v0](https://github.com/gecut/gecut/pull/194) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
 - [feat(ui/ui-kit): define fab](https://github.com/gecut/gecut/pull/189) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
@@ -48,8 +50,6 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 - [feat(core/signal): provider cache strategy](https://github.com/gecut/gecut/pull/182) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(ui/ui-kit/m3): styles and styleVars](https://github.com/gecut/gecut/pull/173) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
-
-- [feat(core/types/hami): description and discount](https://github.com/gecut/gecut/pull/172) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 ## 📓 Gists I wrote
 
@@ -85,7 +85,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [wei/socialify](https://github.com/wei/socialify) (3 weeks ago)
 
-- [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) (3 weeks ago)
+- [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) (4 weeks ago)
 
 ## 📫 How to reach me
 
