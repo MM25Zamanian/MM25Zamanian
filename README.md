@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (today)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (2 months ago)
 
@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 5 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 6 days ago) - The Alwatr Library
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.0.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.0.0), 3 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(apps/hami-pwa): v0](https://github.com/gecut/gecut/pull/194) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [refactor(ui/ui-kit): styles param case](https://github.com/gecut/gecut/pull/202) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(ui/ui-kit): define fab](https://github.com/gecut/gecut/pull/189) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [refactor(apps/hami-pwa/i18n): use camelCase](https://github.com/gecut/gecut/pull/201) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(apps/hami-pwa): v1](https://github.com/gecut/gecut/pull/188) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [fix(apps/hami-pwa): ui issues](https://github.com/gecut/gecut/pull/196) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(core/signal): provider cache strategy](https://github.com/gecut/gecut/pull/182) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [feat(ui/i18n): new ui package](https://github.com/gecut/gecut/pull/195) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(ui/ui-kit/m3): styles and styleVars](https://github.com/gecut/gecut/pull/173) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [feat(apps/hami-pwa): v0](https://github.com/gecut/gecut/pull/194) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
 ## 📓 Gists I wrote
 
