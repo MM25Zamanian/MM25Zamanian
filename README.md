@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 6 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.0](https://github.com/AliMD/alwatr/releases/tag/v1.0.0), 1 week ago) - The Alwatr Library
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.0.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.0.0), 3 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [refactor(ui/ui-kit): styles param case](https://github.com/gecut/gecut/pull/202) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(apps/hami-pwa): add &amp; edit &amp; delete product price](https://github.com/gecut/gecut/pull/209) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [refactor(apps/hami-pwa/i18n): use camelCase](https://github.com/gecut/gecut/pull/201) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(apps/hami-pwa): add &amp; edit &amp; delete notifications](https://github.com/gecut/gecut/pull/203) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [fix(apps/hami-pwa): ui issues](https://github.com/gecut/gecut/pull/196) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [refactor(ui/ui-kit): styles param case](https://github.com/gecut/gecut/pull/202) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(ui/i18n): new ui package](https://github.com/gecut/gecut/pull/195) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [refactor(apps/hami-pwa/i18n): use camelCase](https://github.com/gecut/gecut/pull/201) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(apps/hami-pwa): v0](https://github.com/gecut/gecut/pull/194) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [fix(apps/hami-pwa): ui issues](https://github.com/gecut/gecut/pull/196) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
 ## 📓 Gists I wrote
 
@@ -66,6 +66,8 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 ## ⭐ Recent Stars
 
 
+
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) (1 day ago)
 
 - [platisd/openai-pr-description](https://github.com/platisd/openai-pr-description) (1 week ago)
 
@@ -84,8 +86,6 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 - [JonasKruckenberg/imagetools](https://github.com/JonasKruckenberg/imagetools) (3 weeks ago)
 
 - [wei/socialify](https://github.com/wei/socialify) (3 weeks ago)
-
-- [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) (4 weeks ago)
 
 ## 📫 How to reach me
 
