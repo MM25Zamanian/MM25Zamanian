@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 5 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 6 days ago) - The Alwatr Library
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.0.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.0.0), 4 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
@@ -41,21 +41,21 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(packages/utilities): new package](https://github.com/gecut/gecut/pull/223) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(apps/hami-pwa): new projects](https://github.com/gecut/gecut/pull/224) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [chore(apps/hami-api): http demo data](https://github.com/gecut/gecut/pull/222) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(packages/utilities): new package](https://github.com/gecut/gecut/pull/223) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(apps/hami-pwa): products page](https://github.com/gecut/gecut/pull/216) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [chore(apps/hami-api): http demo data](https://github.com/gecut/gecut/pull/222) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [feat(apps/hami-pwa): add &amp; change in suppliers page](https://github.com/gecut/gecut/pull/210) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(apps/hami-pwa): products page](https://github.com/gecut/gecut/pull/216) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
-- [feat(apps/hami-pwa): add &amp; edit &amp; delete product price](https://github.com/gecut/gecut/pull/209) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(apps/hami-pwa): add &amp; change in suppliers page](https://github.com/gecut/gecut/pull/210) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
 ## 📓 Gists I wrote
 
 
 
-- [](https://gist.github.com/6fa5e6dbc6fbe09398ad885d68200702) (1 day ago)
+- [](https://gist.github.com/6fa5e6dbc6fbe09398ad885d68200702) (2 days ago)
 
 - [ZSH Config](https://gist.github.com/fc1960135cf54fd5fae966c637455ffe) (1 year ago)
 
@@ -67,25 +67,25 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [calebdwilliams/element-internals-polyfill](https://github.com/calebdwilliams/element-internals-polyfill) (1 day ago)
+- [calebdwilliams/element-internals-polyfill](https://github.com/calebdwilliams/element-internals-polyfill) (2 days ago)
 
-- [codingwithmanny/trpc-siwe-monorepo](https://github.com/codingwithmanny/trpc-siwe-monorepo) (1 day ago)
+- [codingwithmanny/trpc-siwe-monorepo](https://github.com/codingwithmanny/trpc-siwe-monorepo) (2 days ago)
 
-- [Charca/astro-movies](https://github.com/Charca/astro-movies) (1 day ago)
+- [Charca/astro-movies](https://github.com/Charca/astro-movies) (2 days ago)
 
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) (1 day ago)
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) (2 days ago)
 
-- [withastro/astro](https://github.com/withastro/astro) (1 day ago)
+- [withastro/astro](https://github.com/withastro/astro) (2 days ago)
 
-- [binpash/try](https://github.com/binpash/try) (1 day ago)
+- [binpash/try](https://github.com/binpash/try) (2 days ago)
 
-- [rafihaidari/Jalali-Calendar-and-Datepicker](https://github.com/rafihaidari/Jalali-Calendar-and-Datepicker) (2 days ago)
+- [rafihaidari/Jalali-Calendar-and-Datepicker](https://github.com/rafihaidari/Jalali-Calendar-and-Datepicker) (3 days ago)
 
-- [tiampersian/kendo-jalali-date-inputs](https://github.com/tiampersian/kendo-jalali-date-inputs) (2 days ago)
+- [tiampersian/kendo-jalali-date-inputs](https://github.com/tiampersian/kendo-jalali-date-inputs) (3 days ago)
 
-- [majidh1/JalaliDatePicker](https://github.com/majidh1/JalaliDatePicker) (2 days ago)
+- [majidh1/JalaliDatePicker](https://github.com/majidh1/JalaliDatePicker) (3 days ago)
 
-- [javadbat/jb-date-input](https://github.com/javadbat/jb-date-input) (2 days ago)
+- [javadbat/jb-date-input](https://github.com/javadbat/jb-date-input) (3 days ago)
 
 ## 📫 How to reach me
 
