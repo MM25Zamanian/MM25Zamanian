@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.1.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.1.0), 4 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.1.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.1.0), 5 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 1 week ago) - The Alwatr Library
 
@@ -41,11 +41,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(apps/hami-pwa): v2](https://github.com/gecut/gecut/pull/234) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(apps/hami-pwa): v2](https://github.com/gecut/gecut/pull/234) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
-- [feat(apps/persianpart): new applications (`api` &amp; `pwa`)](https://github.com/gecut/gecut/pull/233) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(apps/persianpart): new applications (`api` &amp; `pwa`)](https://github.com/gecut/gecut/pull/233) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
-- [feat(apps/hami-pwa): new projects](https://github.com/gecut/gecut/pull/224) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(apps/hami-pwa): new projects](https://github.com/gecut/gecut/pull/224) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(packages/utilities): new package](https://github.com/gecut/gecut/pull/223) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
@@ -67,13 +67,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [firezone/firezone](https://github.com/firezone/firezone) (3 days ago)
+- [firezone/firezone](https://github.com/firezone/firezone) (4 days ago)
 
-- [cloudgpu-net/stream-application](https://github.com/cloudgpu-net/stream-application) (3 days ago)
+- [musescore/MuseScore](https://github.com/musescore/MuseScore) (6 days ago)
 
-- [musescore/MuseScore](https://github.com/musescore/MuseScore) (5 days ago)
-
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) (5 days ago)
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) (6 days ago)
 
 - [calebdwilliams/element-internals-polyfill](https://github.com/calebdwilliams/element-internals-polyfill) (1 week ago)
 
@@ -86,6 +84,8 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 - [withastro/astro](https://github.com/withastro/astro) (1 week ago)
 
 - [binpash/try](https://github.com/binpash/try) (1 week ago)
+
+- [rafihaidari/Jalali-Calendar-and-Datepicker](https://github.com/rafihaidari/Jalali-Calendar-and-Datepicker) (1 week ago)
 
 ## 📫 How to reach me
 
