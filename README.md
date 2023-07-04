@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 days ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (3 months ago)
 
@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.1.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.1.0), 5 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.1.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.1.0), 6 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 1 week ago) - The Alwatr Library
 
@@ -41,9 +41,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(apps/hami-pwa): v2](https://github.com/gecut/gecut/pull/234) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(apps/hami-pwa): v2](https://github.com/gecut/gecut/pull/234) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
-- [feat(apps/persianpart): new applications (`api` &amp; `pwa`)](https://github.com/gecut/gecut/pull/233) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(apps/persianpart): new applications (`api` &amp; `pwa`)](https://github.com/gecut/gecut/pull/233) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(apps/hami-pwa): new projects](https://github.com/gecut/gecut/pull/224) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
@@ -67,11 +67,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [firezone/firezone](https://github.com/firezone/firezone) (4 days ago)
+- [firezone/firezone](https://github.com/firezone/firezone) (5 days ago)
 
-- [musescore/MuseScore](https://github.com/musescore/MuseScore) (6 days ago)
+- [musescore/MuseScore](https://github.com/musescore/MuseScore) (1 week ago)
 
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) (6 days ago)
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) (1 week ago)
 
 - [calebdwilliams/element-internals-polyfill](https://github.com/calebdwilliams/element-internals-polyfill) (1 week ago)
 
