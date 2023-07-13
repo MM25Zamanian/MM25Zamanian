@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (3 months ago)
 
@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(apps/persianpart-pwa): `&lt;top-app-bar&gt;` headline signal](https://github.com/gecut/gecut/pull/275) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(apps/persianpart-pwa): `&lt;top-app-bar&gt;` headline signal](https://github.com/gecut/gecut/pull/275) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [fix(apps/hami-pwa): html &amp; app-root background color](https://github.com/gecut/gecut/pull/267) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [fix(apps/hami-pwa): html &amp; app-root background color](https://github.com/gecut/gecut/pull/267) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [feat(apps/persianpart-pwa): top-app-bar](https://github.com/gecut/gecut/pull/266) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(apps/persianpart-pwa): top-app-bar](https://github.com/gecut/gecut/pull/266) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [refactor(ui/mixins): logger &amp; signal mix-ins](https://github.com/gecut/gecut/pull/265) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [refactor(ui/mixins): logger &amp; signal mix-ins](https://github.com/gecut/gecut/pull/265) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
-- [feat(utilities): define new functions](https://github.com/gecut/gecut/pull/264) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(utilities): define new functions](https://github.com/gecut/gecut/pull/264) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
 ## 📓 Gists I wrote
 
@@ -57,7 +57,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [](https://gist.github.com/6fa5e6dbc6fbe09398ad885d68200702) (2 weeks ago)
 
-- [ZSH Config](https://gist.github.com/fc1960135cf54fd5fae966c637455ffe) (1 year ago)
+- [ZSH Config](https://gist.github.com/fc1960135cf54fd5fae966c637455ffe) (2 years ago)
 
 - [Remove useless letter and convert to simple text with javascript](https://gist.github.com/2249ec3b4dfe1de7693d6412beeba5a0) (2 years ago)
 
@@ -67,9 +67,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) (6 days ago)
+- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) (1 week ago)
 
-- [firezone/firezone](https://github.com/firezone/firezone) (1 week ago)
+- [firezone/firezone](https://github.com/firezone/firezone) (2 weeks ago)
 
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) (2 weeks ago)
 
