@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (3 months ago)
 
@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(apps/persianpart-pwa): `&lt;top-app-bar&gt;` headline signal](https://github.com/gecut/gecut/pull/275) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(apps/persianpart-pwa): `&lt;top-app-bar&gt;` headline signal](https://github.com/gecut/gecut/pull/275) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [fix(apps/hami-pwa): html &amp; app-root background color](https://github.com/gecut/gecut/pull/267) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [fix(apps/hami-pwa): html &amp; app-root background color](https://github.com/gecut/gecut/pull/267) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
-- [feat(apps/persianpart-pwa): top-app-bar](https://github.com/gecut/gecut/pull/266) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(apps/persianpart-pwa): top-app-bar](https://github.com/gecut/gecut/pull/266) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
-- [refactor(ui/mixins): logger &amp; signal mix-ins](https://github.com/gecut/gecut/pull/265) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [refactor(ui/mixins): logger &amp; signal mix-ins](https://github.com/gecut/gecut/pull/265) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
-- [feat(utilities): define new functions](https://github.com/gecut/gecut/pull/264) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(utilities): define new functions](https://github.com/gecut/gecut/pull/264) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 ## 📓 Gists I wrote
 
