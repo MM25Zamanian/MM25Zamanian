@@ -41,11 +41,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(apps/persianpart-pwa): `&lt;top-app-bar&gt;` headline signal](https://github.com/gecut/gecut/pull/275) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(apps/persianpart-pwa): `&lt;top-app-bar&gt;` headline signal](https://github.com/gecut/gecut/pull/275) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
-- [fix(apps/hami-pwa): html &amp; app-root background color](https://github.com/gecut/gecut/pull/267) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [fix(apps/hami-pwa): html &amp; app-root background color](https://github.com/gecut/gecut/pull/267) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
-- [feat(apps/persianpart-pwa): top-app-bar](https://github.com/gecut/gecut/pull/266) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(apps/persianpart-pwa): top-app-bar](https://github.com/gecut/gecut/pull/266) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [refactor(ui/mixins): logger &amp; signal mix-ins](https://github.com/gecut/gecut/pull/265) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
@@ -55,7 +55,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [](https://gist.github.com/6fa5e6dbc6fbe09398ad885d68200702) (2 weeks ago)
+- [](https://gist.github.com/6fa5e6dbc6fbe09398ad885d68200702) (3 weeks ago)
 
 - [ZSH Config](https://gist.github.com/fc1960135cf54fd5fae966c637455ffe) (2 years ago)
 
@@ -67,6 +67,10 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
+- [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) (1 day ago)
+
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) (1 day ago)
+
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) (1 week ago)
 
 - [firezone/firezone](https://github.com/firezone/firezone) (2 weeks ago)
@@ -75,17 +79,13 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) (2 weeks ago)
 
-- [calebdwilliams/element-internals-polyfill](https://github.com/calebdwilliams/element-internals-polyfill) (2 weeks ago)
+- [calebdwilliams/element-internals-polyfill](https://github.com/calebdwilliams/element-internals-polyfill) (3 weeks ago)
 
-- [codingwithmanny/trpc-siwe-monorepo](https://github.com/codingwithmanny/trpc-siwe-monorepo) (2 weeks ago)
+- [codingwithmanny/trpc-siwe-monorepo](https://github.com/codingwithmanny/trpc-siwe-monorepo) (3 weeks ago)
 
-- [Charca/astro-movies](https://github.com/Charca/astro-movies) (2 weeks ago)
+- [Charca/astro-movies](https://github.com/Charca/astro-movies) (3 weeks ago)
 
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) (2 weeks ago)
-
-- [withastro/astro](https://github.com/withastro/astro) (2 weeks ago)
-
-- [binpash/try](https://github.com/binpash/try) (2 weeks ago)
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) (3 weeks ago)
 
 ## 📫 How to reach me
 
