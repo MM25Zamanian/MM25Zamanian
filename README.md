@@ -41,21 +41,21 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(apps/demo): logger page](https://github.com/gecut/gecut/pull/285) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(core/lorem): dummy data generator](https://github.com/gecut/gecut/pull/291) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [Revert &#34;refactor(apps/demo): base app with webpack&#34;](https://github.com/gecut/gecut/pull/284) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(apps/demo): logger page](https://github.com/gecut/gecut/pull/285) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [refactor(apps/demo): base app with webpack](https://github.com/gecut/gecut/pull/283) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [Revert &#34;refactor(apps/demo): base app with webpack&#34;](https://github.com/gecut/gecut/pull/284) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(ui/ui-kit): new `messenger-outlet` component 🥳](https://github.com/gecut/gecut/pull/282) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [refactor(apps/demo): base app with webpack](https://github.com/gecut/gecut/pull/283) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(apps/persianpart-pwa): `&lt;top-app-bar&gt;` headline signal](https://github.com/gecut/gecut/pull/275) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(ui/ui-kit): new `messenger-outlet` component 🥳](https://github.com/gecut/gecut/pull/282) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
 ## 📓 Gists I wrote
 
 
 
-- [](https://gist.github.com/4a90a63f8e2481311cfb56dd65a50c40) (1 day ago)
+- [](https://gist.github.com/4a90a63f8e2481311cfb56dd65a50c40) (2 days ago)
 
 - [](https://gist.github.com/6fa5e6dbc6fbe09398ad885d68200702) (3 weeks ago)
 
@@ -67,25 +67,25 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) (2 days ago)
+- [kriszyp/lmdb-js](https://github.com/kriszyp/lmdb-js) (1 day ago)
 
-- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) (2 days ago)
+- [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) (3 days ago)
+
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) (3 days ago)
 
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) (1 week ago)
 
 - [firezone/firezone](https://github.com/firezone/firezone) (2 weeks ago)
 
-- [musescore/MuseScore](https://github.com/musescore/MuseScore) (2 weeks ago)
+- [musescore/MuseScore](https://github.com/musescore/MuseScore) (3 weeks ago)
 
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) (2 weeks ago)
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) (3 weeks ago)
 
 - [calebdwilliams/element-internals-polyfill](https://github.com/calebdwilliams/element-internals-polyfill) (3 weeks ago)
 
 - [codingwithmanny/trpc-siwe-monorepo](https://github.com/codingwithmanny/trpc-siwe-monorepo) (3 weeks ago)
 
 - [Charca/astro-movies](https://github.com/Charca/astro-movies) (3 weeks ago)
-
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) (3 weeks ago)
 
 ## 📫 How to reach me
 
