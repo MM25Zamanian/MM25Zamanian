@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (3 days ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (3 months ago)
 
@@ -41,21 +41,21 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(core/lorem): dummy data generator](https://github.com/gecut/gecut/pull/291) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(core/lorem): dummy data generator](https://github.com/gecut/gecut/pull/291) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [feat(apps/demo): logger page](https://github.com/gecut/gecut/pull/285) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(apps/demo): logger page](https://github.com/gecut/gecut/pull/285) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [Revert &#34;refactor(apps/demo): base app with webpack&#34;](https://github.com/gecut/gecut/pull/284) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [Revert &#34;refactor(apps/demo): base app with webpack&#34;](https://github.com/gecut/gecut/pull/284) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [refactor(apps/demo): base app with webpack](https://github.com/gecut/gecut/pull/283) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [refactor(apps/demo): base app with webpack](https://github.com/gecut/gecut/pull/283) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [feat(ui/ui-kit): new `messenger-outlet` component 🥳](https://github.com/gecut/gecut/pull/282) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(ui/ui-kit): new `messenger-outlet` component 🥳](https://github.com/gecut/gecut/pull/282) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
 ## 📓 Gists I wrote
 
 
 
-- [](https://gist.github.com/4a90a63f8e2481311cfb56dd65a50c40) (3 days ago)
+- [](https://gist.github.com/4a90a63f8e2481311cfb56dd65a50c40) (4 days ago)
 
 - [](https://gist.github.com/6fa5e6dbc6fbe09398ad885d68200702) (3 weeks ago)
 
@@ -67,15 +67,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [kriszyp/lmdb-js](https://github.com/kriszyp/lmdb-js) (2 days ago)
+- [kriszyp/lmdb-js](https://github.com/kriszyp/lmdb-js) (3 days ago)
 
-- [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) (4 days ago)
+- [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) (5 days ago)
 
-- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) (4 days ago)
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) (5 days ago)
 
-- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) (1 week ago)
+- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) (2 weeks ago)
 
-- [firezone/firezone](https://github.com/firezone/firezone) (2 weeks ago)
+- [firezone/firezone](https://github.com/firezone/firezone) (3 weeks ago)
 
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) (3 weeks ago)
 
