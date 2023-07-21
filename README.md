@@ -11,7 +11,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (3 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (3 months ago)
 
@@ -33,7 +33,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.1.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.1.0), 3 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 4 weeks ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 1 month ago) - The Alwatr Library
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 4 months ago) - The Gecut Company Monorepo
 
@@ -41,21 +41,21 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(core/lorem): dummy data generator](https://github.com/gecut/gecut/pull/291) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(core/utilities): define new functions](https://github.com/gecut/gecut/pull/300) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(apps/demo): logger page](https://github.com/gecut/gecut/pull/285) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(core/lorem): dummy data generator](https://github.com/gecut/gecut/pull/291) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [Revert &#34;refactor(apps/demo): base app with webpack&#34;](https://github.com/gecut/gecut/pull/284) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(apps/demo): logger page](https://github.com/gecut/gecut/pull/285) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
-- [refactor(apps/demo): base app with webpack](https://github.com/gecut/gecut/pull/283) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [Revert &#34;refactor(apps/demo): base app with webpack&#34;](https://github.com/gecut/gecut/pull/284) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
-- [feat(ui/ui-kit): new `messenger-outlet` component 🥳](https://github.com/gecut/gecut/pull/282) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [refactor(apps/demo): base app with webpack](https://github.com/gecut/gecut/pull/283) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
 ## 📓 Gists I wrote
 
 
 
-- [](https://gist.github.com/4a90a63f8e2481311cfb56dd65a50c40) (4 days ago)
+- [](https://gist.github.com/4a90a63f8e2481311cfb56dd65a50c40) (5 days ago)
 
 - [](https://gist.github.com/6fa5e6dbc6fbe09398ad885d68200702) (3 weeks ago)
 
@@ -67,11 +67,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [kriszyp/lmdb-js](https://github.com/kriszyp/lmdb-js) (3 days ago)
+- [ahmadawais/mxcn](https://github.com/ahmadawais/mxcn) (1 day ago)
 
-- [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) (5 days ago)
+- [IgniteUI/igniteui-webcomponents](https://github.com/IgniteUI/igniteui-webcomponents) (1 day ago)
 
-- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) (5 days ago)
+- [kriszyp/lmdb-js](https://github.com/kriszyp/lmdb-js) (4 days ago)
+
+- [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) (6 days ago)
+
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) (6 days ago)
 
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) (2 weeks ago)
 
@@ -82,10 +86,6 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) (3 weeks ago)
 
 - [calebdwilliams/element-internals-polyfill](https://github.com/calebdwilliams/element-internals-polyfill) (3 weeks ago)
-
-- [codingwithmanny/trpc-siwe-monorepo](https://github.com/codingwithmanny/trpc-siwe-monorepo) (3 weeks ago)
-
-- [Charca/astro-movies](https://github.com/Charca/astro-movies) (3 weeks ago)
 
 ## 📫 How to reach me
 
