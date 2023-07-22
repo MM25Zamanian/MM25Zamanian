@@ -13,7 +13,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
-- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (3 months ago)
+- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (4 months ago)
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (4 months ago)
 
@@ -41,21 +41,21 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(core/utilities): define new functions](https://github.com/gecut/gecut/pull/300) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(core/utilities): define new functions](https://github.com/gecut/gecut/pull/300) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(core/lorem): dummy data generator](https://github.com/gecut/gecut/pull/291) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(core/lorem): dummy data generator](https://github.com/gecut/gecut/pull/291) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
-- [feat(apps/demo): logger page](https://github.com/gecut/gecut/pull/285) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(apps/demo): logger page](https://github.com/gecut/gecut/pull/285) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
-- [Revert &#34;refactor(apps/demo): base app with webpack&#34;](https://github.com/gecut/gecut/pull/284) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [Revert &#34;refactor(apps/demo): base app with webpack&#34;](https://github.com/gecut/gecut/pull/284) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
-- [refactor(apps/demo): base app with webpack](https://github.com/gecut/gecut/pull/283) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [refactor(apps/demo): base app with webpack](https://github.com/gecut/gecut/pull/283) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
 ## 📓 Gists I wrote
 
 
 
-- [](https://gist.github.com/4a90a63f8e2481311cfb56dd65a50c40) (5 days ago)
+- [](https://gist.github.com/4a90a63f8e2481311cfb56dd65a50c40) (6 days ago)
 
 - [](https://gist.github.com/6fa5e6dbc6fbe09398ad885d68200702) (3 weeks ago)
 
@@ -67,15 +67,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [ahmadawais/mxcn](https://github.com/ahmadawais/mxcn) (1 day ago)
+- [ahmadawais/mxcn](https://github.com/ahmadawais/mxcn) (2 days ago)
 
-- [IgniteUI/igniteui-webcomponents](https://github.com/IgniteUI/igniteui-webcomponents) (1 day ago)
+- [IgniteUI/igniteui-webcomponents](https://github.com/IgniteUI/igniteui-webcomponents) (2 days ago)
 
-- [kriszyp/lmdb-js](https://github.com/kriszyp/lmdb-js) (4 days ago)
+- [kriszyp/lmdb-js](https://github.com/kriszyp/lmdb-js) (5 days ago)
 
-- [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) (6 days ago)
+- [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) (1 week ago)
 
-- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) (6 days ago)
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) (1 week ago)
 
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) (2 weeks ago)
 
