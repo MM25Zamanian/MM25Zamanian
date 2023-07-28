@@ -31,7 +31,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.1.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.1.0), 4 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.1.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.1.0), 1 month ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 1 month ago) - The Alwatr Library
 
@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(apps/persianpart): product list](https://github.com/gecut/gecut/pull/313) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(ui/ui-kit): add variant to button](https://github.com/gecut/gecut/pull/317) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(ui/ui-kit): new component (navigation)](https://github.com/gecut/gecut/pull/306) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(ui/form-validators): min &amp; max](https://github.com/gecut/gecut/pull/316) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(apps/persianpart-pwa): sign out system](https://github.com/gecut/gecut/pull/305) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(apps/persianpart): product list](https://github.com/gecut/gecut/pull/313) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [ feat(ui/ui-kit/fab-outlet): create new component](https://github.com/gecut/gecut/pull/304) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(ui/ui-kit): new component (navigation)](https://github.com/gecut/gecut/pull/306) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
-- [feat(apps/persianpart-pwa): authentication system](https://github.com/gecut/gecut/pull/303) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(apps/persianpart-pwa): sign out system](https://github.com/gecut/gecut/pull/305) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
 ## 📓 Gists I wrote
 
@@ -67,25 +67,25 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [CameraKit/blurkit-android](https://github.com/CameraKit/blurkit-android) (1 day ago)
+- [CameraKit/blurkit-android](https://github.com/CameraKit/blurkit-android) (2 days ago)
 
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) (1 day ago)
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) (2 days ago)
 
-- [arcanis/clipanion](https://github.com/arcanis/clipanion) (3 days ago)
+- [arcanis/clipanion](https://github.com/arcanis/clipanion) (4 days ago)
 
-- [valyala/fasthttp](https://github.com/valyala/fasthttp) (4 days ago)
+- [valyala/fasthttp](https://github.com/valyala/fasthttp) (5 days ago)
 
-- [GFW-knocker/gfw_resist_tls_proxy](https://github.com/GFW-knocker/gfw_resist_tls_proxy) (4 days ago)
+- [GFW-knocker/gfw_resist_tls_proxy](https://github.com/GFW-knocker/gfw_resist_tls_proxy) (5 days ago)
 
-- [CleverCloud/clever-components](https://github.com/CleverCloud/clever-components) (4 days ago)
+- [CleverCloud/clever-components](https://github.com/CleverCloud/clever-components) (5 days ago)
 
-- [ErKeLost/unplugin-imagemin](https://github.com/ErKeLost/unplugin-imagemin) (4 days ago)
+- [ErKeLost/unplugin-imagemin](https://github.com/ErKeLost/unplugin-imagemin) (5 days ago)
 
-- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) (4 days ago)
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) (5 days ago)
 
-- [hiddify/hiddify-config](https://github.com/hiddify/hiddify-config) (5 days ago)
+- [hiddify/hiddify-config](https://github.com/hiddify/hiddify-config) (6 days ago)
 
-- [ithaka/pharos](https://github.com/ithaka/pharos) (5 days ago)
+- [ithaka/pharos](https://github.com/ithaka/pharos) (6 days ago)
 
 ## 📫 How to reach me
 
