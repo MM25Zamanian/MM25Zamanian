@@ -41,15 +41,15 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [feat(ui/i18n): dateTime function](https://github.com/gecut/gecut/pull/321) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(ui/i18n): dateTime function](https://github.com/gecut/gecut/pull/321) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(ui/ui-kit): define `dialog-outlet` &amp; deps](https://github.com/gecut/gecut/pull/320) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(ui/ui-kit): define `dialog-outlet` &amp; deps](https://github.com/gecut/gecut/pull/320) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(apps/persianpart-pwa): new order page](https://github.com/gecut/gecut/pull/318) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(apps/persianpart-pwa): new order page](https://github.com/gecut/gecut/pull/318) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [feat(ui/ui-kit): add variant to button](https://github.com/gecut/gecut/pull/317) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(ui/ui-kit): add variant to button](https://github.com/gecut/gecut/pull/317) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
-- [feat(ui/form-validators): min &amp; max](https://github.com/gecut/gecut/pull/316) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(ui/form-validators): min &amp; max](https://github.com/gecut/gecut/pull/316) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
 ## 📓 Gists I wrote
 
@@ -67,25 +67,25 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [fabiolb/fabio](https://github.com/fabiolb/fabio) (2 days ago)
+- [fabiolb/fabio](https://github.com/fabiolb/fabio) (3 days ago)
 
-- [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) (2 days ago)
+- [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) (3 days ago)
 
-- [kubernetes/kompose](https://github.com/kubernetes/kompose) (2 days ago)
+- [kubernetes/kompose](https://github.com/kubernetes/kompose) (3 days ago)
 
-- [makeplane/plane](https://github.com/makeplane/plane) (2 days ago)
+- [makeplane/plane](https://github.com/makeplane/plane) (3 days ago)
 
-- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) (2 days ago)
+- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) (3 days ago)
 
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) (2 days ago)
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) (3 days ago)
 
-- [usememos/memos](https://github.com/usememos/memos) (2 days ago)
+- [usememos/memos](https://github.com/usememos/memos) (3 days ago)
 
-- [authelia/authelia](https://github.com/authelia/authelia) (2 days ago)
+- [authelia/authelia](https://github.com/authelia/authelia) (3 days ago)
 
-- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (2 days ago)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) (3 days ago)
 
-- [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) (2 days ago)
+- [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) (3 days ago)
 
 ## 📫 How to reach me
 
