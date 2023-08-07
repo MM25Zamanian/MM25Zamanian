@@ -11,21 +11,21 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
+
+- [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (1 day ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (4 months ago)
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (5 months ago)
 
-- [amir25n/Lit-TodoList](https://github.com/amir25n/Lit-TodoList) -  (6 months ago)
-
 ## ☂️ My latest projects
 
 
 
-- [MM25Zamanian/soffit-landing](https://github.com/MM25Zamanian/soffit-landing) - 
+- [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) - 
 
-- [MM25Zamanian/alwatr-starter-kit](https://github.com/MM25Zamanian/alwatr-starter-kit) - 
+- [MM25Zamanian/soffit-landing](https://github.com/MM25Zamanian/soffit-landing) - 
 
 ## 🎉 Latest releases I've contributed to
 
@@ -67,9 +67,9 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [mholt/PapaParse](https://github.com/mholt/PapaParse) (3 days ago)
+- [mholt/PapaParse](https://github.com/mholt/PapaParse) (4 days ago)
 
-- [curl/curl](https://github.com/curl/curl) (3 days ago)
+- [curl/curl](https://github.com/curl/curl) (4 days ago)
 
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) (1 week ago)
 
