@@ -13,7 +13,7 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 - [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
-- [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (3 days ago)
+- [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (4 days ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (4 months ago)
 
@@ -41,11 +41,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [refactor(apps/hami-pwa): base structure and UI ](https://github.com/gecut/gecut/pull/331) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [refactor(apps/hami-pwa): base structure and UI ](https://github.com/gecut/gecut/pull/331) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(core/utilities): debounce function](https://github.com/gecut/gecut/pull/327) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(core/utilities): debounce function](https://github.com/gecut/gecut/pull/327) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [feat(apps/itodo-api): change name](https://github.com/gecut/gecut/pull/326) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(apps/itodo-api): change name](https://github.com/gecut/gecut/pull/326) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
 - [feat(ui/i18n): dateTime function](https://github.com/gecut/gecut/pull/321) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
@@ -67,11 +67,11 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
-- [Kamva/mgm](https://github.com/Kamva/mgm) (2 days ago)
+- [Kamva/mgm](https://github.com/Kamva/mgm) (3 days ago)
 
-- [mholt/PapaParse](https://github.com/mholt/PapaParse) (6 days ago)
+- [mholt/PapaParse](https://github.com/mholt/PapaParse) (1 week ago)
 
-- [curl/curl](https://github.com/curl/curl) (6 days ago)
+- [curl/curl](https://github.com/curl/curl) (1 week ago)
 
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) (1 week ago)
 
