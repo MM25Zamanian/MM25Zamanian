@@ -25,6 +25,13 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=androidstudio,arduino,bash,bootstrap,cpp,ts,codepen,css,django,docker,figma,linux,lit,md,mongodb,nginx,nodejs,py,vscode,vite&perline=10"
+    alt="Skills"
+  />
+</p>
+
 
 ## 👨🏻‍💻 Check out what I'm currently working on
 
@@ -86,6 +93,10 @@
 
 
 
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) (today)
+
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) (today)
+
 - [pallets/flask](https://github.com/pallets/flask) (today)
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) (today)
@@ -101,10 +112,6 @@
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) (2 weeks ago)
 
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (2 weeks ago)
-
-- [makeplane/plane](https://github.com/makeplane/plane) (2 weeks ago)
-
-- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) (2 weeks ago)
 
 ## 📫 How to reach me
 
