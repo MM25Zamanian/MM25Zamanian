@@ -8,7 +8,17 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&duration=4000&pause=1000&color=04F759&center=true&vCenter=true&lines=Junior+Full-Stack+Developer;Focusing+on+Front-End+With+Best+Practice;Trying+to+Learn+SW+Architecture+Patterns" alt="BioGraphy" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Comic+Neue&duration=4000&pause=1000&color=04F759&center=true&vCenter=true&lines=Junior+Full-Stack+Developer;Focusing+on+Front-End+With+Best+Practice;Trying+to+Learn+SW+Architecture+Patterns"
+    alt="BioGraphy"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MM25Zamanian&bg_color=000802&color=04F759&line=04F759&point=ffffff&area=true&hide_border=true"
+    alt="statistics"
+  />
 </p>
 
 ## 👨🏻‍💻 Check out what I'm currently working on
