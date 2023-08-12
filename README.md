@@ -1,17 +1,21 @@
-# Hi, I'm MohammadMahdi
+<p align="center">
+  <a href="https://github.com/MM25Zamanian">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=800&size=30&duration=4000&pause=1000&color=04F759&center=true&vCenter=true&multiline=true&repeat=false&width=462&lines=S.+MohammadMahdi+Zamanian"
+      alt="Name"
+    />
+  </a>
+</p>
 
-Junior full-stack developer, focusing on front-end & micro-component architecture
-
-- I'm trying to learn high-performance technologies
-- I'm trying to survive in Iran
-- I Love Open Source Projects
-- I'm Following google guidelines
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&duration=4000&pause=1000&color=04F759&center=true&vCenter=true&lines=Junior+Full-Stack+Developer;Focusing+on+Front-End+With+Best+Practice;Trying+to+Learn+SW+Architecture+Patterns" alt="BioGraphy" />
+</p>
 
 ## 👨🏻‍💻 Check out what I'm currently working on
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (3 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (today)
 
 - [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (6 days ago)
 
@@ -67,6 +71,8 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 
 
 
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) (today)
+
 - [Kamva/mgm](https://github.com/Kamva/mgm) (5 days ago)
 
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) (1 week ago)
@@ -84,8 +90,6 @@ Junior full-stack developer, focusing on front-end & micro-component architectur
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) (2 weeks ago)
 
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) (2 weeks ago)
-
-- [usememos/memos](https://github.com/usememos/memos) (2 weeks ago)
 
 ## 📫 How to reach me
 
