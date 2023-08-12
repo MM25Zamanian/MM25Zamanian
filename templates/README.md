@@ -1,11 +1,15 @@
-# Hi, I'm MohammadMahdi
+<p align="center">
+  <a href="https://github.com/MM25Zamanian">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=800&size=30&duration=4000&pause=1000&color=04F759&center=true&vCenter=true&multiline=true&repeat=false&width=462&lines=S.+MohammadMahdi+Zamanian"
+      alt="Name"
+    />
+  </a>
+</p>
 
-Junior full-stack developer, focusing on front-end & micro-component architecture
-
-- I'm trying to learn high-performance technologies
-- I'm trying to survive in Iran
-- I Love Open Source Projects
-- I'm Following google guidelines
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&duration=4000&pause=1000&color=04F759&center=true&vCenter=true&lines=Junior+Full-Stack+Developer;Focusing+on+Front-End+With+Best+Practice;Trying+to+Learn+SW+Architecture+Patterns" alt="BioGraphy" />
+</p>
 
 ## 👨🏻‍💻 Check out what I'm currently working on
 
