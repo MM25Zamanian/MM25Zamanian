@@ -15,9 +15,13 @@
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MM25Zamanian&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=400&background=000802&sideLabels=04F759&dates=04F759&sideNums=04F759&currStreakNum=04F759&ring=04F759&currStreakLabel=04F759&fire=EB4705&hide_longest_streak=true" alt="Stats" />
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=MM25Zamanian&bg_color=000802&color=04F759&line=04F759&point=ffffff&area=true&hide_border=true"
-    alt="statistics"
+    alt="Graphs"
   />
 </p>
 
