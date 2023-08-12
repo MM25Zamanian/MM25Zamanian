@@ -25,6 +25,13 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=androidstudio,arduino,bash,bootstrap,cpp,ts,codepen,css,django,docker,figma,linux,lit,md,mongodb,nginx,nodejs,py,vscode,vite&perline=10"
+    alt="Skills"
+  />
+</p>
+
 
 ## 👨🏻‍💻 Check out what I'm currently working on
 
