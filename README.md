@@ -67,11 +67,11 @@
 
 
 
-- [refactor(apps/hami-pwa): base structure and UI ](https://github.com/gecut/gecut/pull/331) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [refactor(apps/hami-pwa): base structure and UI ](https://github.com/gecut/gecut/pull/331) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
-- [feat(core/utilities): debounce function](https://github.com/gecut/gecut/pull/327) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(core/utilities): debounce function](https://github.com/gecut/gecut/pull/327) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
-- [feat(apps/itodo-api): change name](https://github.com/gecut/gecut/pull/326) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(apps/itodo-api): change name](https://github.com/gecut/gecut/pull/326) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(ui/i18n): dateTime function](https://github.com/gecut/gecut/pull/321) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
@@ -93,15 +93,15 @@
 
 
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) (1 day ago)
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) (2 days ago)
 
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) (1 day ago)
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) (2 days ago)
 
-- [pallets/flask](https://github.com/pallets/flask) (1 day ago)
+- [pallets/flask](https://github.com/pallets/flask) (2 days ago)
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) (1 day ago)
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) (2 days ago)
 
-- [Kamva/mgm](https://github.com/Kamva/mgm) (6 days ago)
+- [Kamva/mgm](https://github.com/Kamva/mgm) (1 week ago)
 
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) (1 week ago)
 
