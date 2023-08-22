@@ -67,15 +67,15 @@
 
 
 
-- [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/344) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [feat(apps/persianpart-pwa): delete icon button](https://github.com/gecut/gecut/pull/338) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/344) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
-- [refactor(apps/hami-pwa): base structure and UI ](https://github.com/gecut/gecut/pull/331) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [feat(apps/persianpart-pwa): delete icon button](https://github.com/gecut/gecut/pull/338) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
-- [feat(core/utilities): debounce function](https://github.com/gecut/gecut/pull/327) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
+- [refactor(apps/hami-pwa): base structure and UI ](https://github.com/gecut/gecut/pull/331) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
 ## 📓 Gists I wrote
 
@@ -93,25 +93,25 @@
 
 
 
-- [aurelia/aurelia](https://github.com/aurelia/aurelia) (2 days ago)
+- [blitz-js/superjson](https://github.com/blitz-js/superjson) (1 day ago)
 
-- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) (2 days ago)
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) (1 day ago)
 
-- [ali-master/pwa-badge](https://github.com/ali-master/pwa-badge) (2 days ago)
+- [prisma/prisma](https://github.com/prisma/prisma) (1 day ago)
 
-- [vladikoff/PWAify](https://github.com/vladikoff/PWAify) (2 days ago)
+- [solid-design-system/solid](https://github.com/solid-design-system/solid) (1 day ago)
 
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (2 days ago)
+- [phase2/outline](https://github.com/phase2/outline) (1 day ago)
 
-- [daybrush/infinite-viewer](https://github.com/daybrush/infinite-viewer) (2 days ago)
+- [atomicojs/atomico](https://github.com/atomicojs/atomico) (1 day ago)
 
-- [honojs/hono](https://github.com/honojs/hono) (4 days ago)
+- [blueprintui/blueprintui](https://github.com/blueprintui/blueprintui) (1 day ago)
 
-- [hexojs/hexo](https://github.com/hexojs/hexo) (4 days ago)
+- [IgniteUI/igniteui-theming](https://github.com/IgniteUI/igniteui-theming) (1 day ago)
 
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) (4 days ago)
+- [aurelia/aurelia](https://github.com/aurelia/aurelia) (3 days ago)
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) (1 week ago)
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) (3 days ago)
 
 ## 📫 How to reach me
 
