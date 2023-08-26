@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (3 days ago)
 
 - [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (2 weeks ago)
 
@@ -67,9 +67,9 @@
 
 
 
-- [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
-- [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/344) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
@@ -93,25 +93,25 @@
 
 
 
-- [blitz-js/superjson](https://github.com/blitz-js/superjson) (4 days ago)
+- [blitz-js/superjson](https://github.com/blitz-js/superjson) (5 days ago)
 
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) (4 days ago)
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) (5 days ago)
 
-- [prisma/prisma](https://github.com/prisma/prisma) (4 days ago)
+- [prisma/prisma](https://github.com/prisma/prisma) (5 days ago)
 
-- [solid-design-system/solid](https://github.com/solid-design-system/solid) (4 days ago)
+- [solid-design-system/solid](https://github.com/solid-design-system/solid) (5 days ago)
 
-- [phase2/outline](https://github.com/phase2/outline) (4 days ago)
+- [phase2/outline](https://github.com/phase2/outline) (5 days ago)
 
-- [atomicojs/atomico](https://github.com/atomicojs/atomico) (4 days ago)
+- [atomicojs/atomico](https://github.com/atomicojs/atomico) (5 days ago)
 
-- [blueprintui/blueprintui](https://github.com/blueprintui/blueprintui) (4 days ago)
+- [blueprintui/blueprintui](https://github.com/blueprintui/blueprintui) (5 days ago)
 
-- [IgniteUI/igniteui-theming](https://github.com/IgniteUI/igniteui-theming) (4 days ago)
+- [IgniteUI/igniteui-theming](https://github.com/IgniteUI/igniteui-theming) (5 days ago)
 
-- [aurelia/aurelia](https://github.com/aurelia/aurelia) (6 days ago)
+- [aurelia/aurelia](https://github.com/aurelia/aurelia) (1 week ago)
 
-- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) (6 days ago)
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) (1 week ago)
 
 ## 📫 How to reach me
 
