@@ -37,13 +37,13 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (3 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
-- [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (2 weeks ago)
+- [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (1 day ago)
+
+- [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (3 weeks ago)
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) - The Gecut Company Monorepo (5 months ago)
-
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) - The Alwatr Library (6 months ago)
 
 ## ☂️ My latest projects
 
@@ -57,7 +57,7 @@
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.1.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.1.0), 1 month ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.1.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.1.0), 2 months ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 2 months ago) - The Alwatr Library
 
@@ -67,15 +67,15 @@
 
 
 
-- [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat: hami 2](https://github.com/gecut/gecut/pull/362) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+
+- [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
 - [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/344) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(apps/persianpart-pwa): delete icon button](https://github.com/gecut/gecut/pull/338) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
-
-- [refactor(apps/hami-pwa): base structure and UI ](https://github.com/gecut/gecut/pull/331) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
 ## 📓 Gists I wrote
 
@@ -93,21 +93,21 @@
 
 
 
-- [blitz-js/superjson](https://github.com/blitz-js/superjson) (5 days ago)
+- [blitz-js/superjson](https://github.com/blitz-js/superjson) (6 days ago)
 
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) (5 days ago)
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) (6 days ago)
 
-- [prisma/prisma](https://github.com/prisma/prisma) (5 days ago)
+- [prisma/prisma](https://github.com/prisma/prisma) (6 days ago)
 
-- [solid-design-system/solid](https://github.com/solid-design-system/solid) (5 days ago)
+- [solid-design-system/solid](https://github.com/solid-design-system/solid) (6 days ago)
 
-- [phase2/outline](https://github.com/phase2/outline) (5 days ago)
+- [phase2/outline](https://github.com/phase2/outline) (6 days ago)
 
-- [atomicojs/atomico](https://github.com/atomicojs/atomico) (5 days ago)
+- [atomicojs/atomico](https://github.com/atomicojs/atomico) (6 days ago)
 
-- [blueprintui/blueprintui](https://github.com/blueprintui/blueprintui) (5 days ago)
+- [blueprintui/blueprintui](https://github.com/blueprintui/blueprintui) (6 days ago)
 
-- [IgniteUI/igniteui-theming](https://github.com/IgniteUI/igniteui-theming) (5 days ago)
+- [IgniteUI/igniteui-theming](https://github.com/IgniteUI/igniteui-theming) (6 days ago)
 
 - [aurelia/aurelia](https://github.com/aurelia/aurelia) (1 week ago)
 
