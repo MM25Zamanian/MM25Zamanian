@@ -39,7 +39,7 @@
 
 - [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
-- [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (1 day ago)
+- [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (2 days ago)
 
 - [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (3 weeks ago)
 
@@ -67,9 +67,9 @@
 
 
 
-- [feat: hami 2](https://github.com/gecut/gecut/pull/362) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat: hami 2](https://github.com/gecut/gecut/pull/362) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
@@ -93,21 +93,21 @@
 
 
 
-- [blitz-js/superjson](https://github.com/blitz-js/superjson) (6 days ago)
+- [blitz-js/superjson](https://github.com/blitz-js/superjson) (1 week ago)
 
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) (6 days ago)
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) (1 week ago)
 
-- [prisma/prisma](https://github.com/prisma/prisma) (6 days ago)
+- [prisma/prisma](https://github.com/prisma/prisma) (1 week ago)
 
-- [solid-design-system/solid](https://github.com/solid-design-system/solid) (6 days ago)
+- [solid-design-system/solid](https://github.com/solid-design-system/solid) (1 week ago)
 
-- [phase2/outline](https://github.com/phase2/outline) (6 days ago)
+- [phase2/outline](https://github.com/phase2/outline) (1 week ago)
 
-- [atomicojs/atomico](https://github.com/atomicojs/atomico) (6 days ago)
+- [atomicojs/atomico](https://github.com/atomicojs/atomico) (1 week ago)
 
-- [blueprintui/blueprintui](https://github.com/blueprintui/blueprintui) (6 days ago)
+- [blueprintui/blueprintui](https://github.com/blueprintui/blueprintui) (1 week ago)
 
-- [IgniteUI/igniteui-theming](https://github.com/IgniteUI/igniteui-theming) (6 days ago)
+- [IgniteUI/igniteui-theming](https://github.com/IgniteUI/igniteui-theming) (1 week ago)
 
 - [aurelia/aurelia](https://github.com/aurelia/aurelia) (1 week ago)
 
