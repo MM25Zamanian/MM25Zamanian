@@ -39,7 +39,7 @@
 
 - [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
-- [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (2 days ago)
+- [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (3 days ago)
 
 - [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (3 weeks ago)
 
@@ -57,7 +57,7 @@
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.1.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.1.0), 2 months ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.2.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.2.0), 1 day ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 2 months ago) - The Alwatr Library
 
@@ -67,7 +67,7 @@
 
 
 
-- [feat: hami 2](https://github.com/gecut/gecut/pull/362) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat: hami 2](https://github.com/gecut/gecut/pull/362) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
 - [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
@@ -75,7 +75,7 @@
 
 - [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/344) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
-- [feat(apps/persianpart-pwa): delete icon button](https://github.com/gecut/gecut/pull/338) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [feat(apps/persianpart-pwa): delete icon button](https://github.com/gecut/gecut/pull/338) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
 ## 📓 Gists I wrote
 
@@ -93,6 +93,10 @@
 
 
 
+- [directus/directus](https://github.com/directus/directus) (1 day ago)
+
+- [addyosmani/developer.chrome.com](https://github.com/addyosmani/developer.chrome.com) (1 day ago)
+
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) (1 week ago)
 
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) (1 week ago)
@@ -108,10 +112,6 @@
 - [blueprintui/blueprintui](https://github.com/blueprintui/blueprintui) (1 week ago)
 
 - [IgniteUI/igniteui-theming](https://github.com/IgniteUI/igniteui-theming) (1 week ago)
-
-- [aurelia/aurelia](https://github.com/aurelia/aurelia) (1 week ago)
-
-- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) (1 week ago)
 
 ## 📫 How to reach me
 
