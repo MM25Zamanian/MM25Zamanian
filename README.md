@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (today)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
 - [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (1 week ago)
 
@@ -57,7 +57,7 @@
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.2.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.2.0), 6 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.2.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.2.0), 1 week ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 2 months ago) - The Alwatr Library
 
@@ -67,13 +67,13 @@
 
 
 
-- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [feat(cloud): traefik init](https://github.com/gecut/gecut/pull/365) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(cloud): traefik init](https://github.com/gecut/gecut/pull/365) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
 - [feat: hami 2](https://github.com/gecut/gecut/pull/362) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
-- [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
 - [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
@@ -93,25 +93,25 @@
 
 
 
-- [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (1 day ago)
+- [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (2 days ago)
 
-- [directus/directus](https://github.com/directus/directus) (6 days ago)
+- [directus/directus](https://github.com/directus/directus) (1 week ago)
 
-- [addyosmani/developer.chrome.com](https://github.com/addyosmani/developer.chrome.com) (6 days ago)
+- [addyosmani/developer.chrome.com](https://github.com/addyosmani/developer.chrome.com) (1 week ago)
 
-- [blitz-js/superjson](https://github.com/blitz-js/superjson) (1 week ago)
+- [blitz-js/superjson](https://github.com/blitz-js/superjson) (2 weeks ago)
 
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) (1 week ago)
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) (2 weeks ago)
 
-- [prisma/prisma](https://github.com/prisma/prisma) (1 week ago)
+- [prisma/prisma](https://github.com/prisma/prisma) (2 weeks ago)
 
-- [solid-design-system/solid](https://github.com/solid-design-system/solid) (1 week ago)
+- [solid-design-system/solid](https://github.com/solid-design-system/solid) (2 weeks ago)
 
-- [phase2/outline](https://github.com/phase2/outline) (1 week ago)
+- [phase2/outline](https://github.com/phase2/outline) (2 weeks ago)
 
-- [atomicojs/atomico](https://github.com/atomicojs/atomico) (1 week ago)
+- [atomicojs/atomico](https://github.com/atomicojs/atomico) (2 weeks ago)
 
-- [blueprintui/blueprintui](https://github.com/blueprintui/blueprintui) (1 week ago)
+- [blueprintui/blueprintui](https://github.com/blueprintui/blueprintui) (2 weeks ago)
 
 ## 📫 How to reach me
 
