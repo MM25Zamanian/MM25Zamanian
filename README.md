@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (3 days ago)
 
 - [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (1 week ago)
 
@@ -67,9 +67,9 @@
 
 
 
-- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
-- [feat(cloud): traefik init](https://github.com/gecut/gecut/pull/365) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(cloud): traefik init](https://github.com/gecut/gecut/pull/365) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat: hami 2](https://github.com/gecut/gecut/pull/362) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
@@ -93,7 +93,7 @@
 
 
 
-- [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (3 days ago)
+- [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (4 days ago)
 
 - [directus/directus](https://github.com/directus/directus) (1 week ago)
 
