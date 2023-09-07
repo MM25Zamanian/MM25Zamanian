@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (3 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (4 days ago)
 
 - [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (1 week ago)
 
@@ -61,13 +61,13 @@
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 2 months ago) - The Alwatr Library
 
-- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 5 months ago) - The Gecut Company Monorepo
+- [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 6 months ago) - The Gecut Company Monorepo
 
 ## 👓 My recent Pull Requests
 
 
 
-- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(cloud): traefik init](https://github.com/gecut/gecut/pull/365) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
@@ -93,7 +93,7 @@
 
 
 
-- [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (4 days ago)
+- [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (5 days ago)
 
 - [directus/directus](https://github.com/directus/directus) (1 week ago)
 
