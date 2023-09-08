@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (4 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (5 days ago)
 
 - [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (1 week ago)
 
@@ -93,7 +93,7 @@
 
 
 
-- [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (5 days ago)
+- [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (6 days ago)
 
 - [directus/directus](https://github.com/directus/directus) (1 week ago)
 
