@@ -37,9 +37,9 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (5 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (6 days ago)
 
-- [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (1 week ago)
+- [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (2 weeks ago)
 
 - [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (1 month ago)
 
@@ -71,11 +71,11 @@
 
 - [feat(cloud): traefik init](https://github.com/gecut/gecut/pull/365) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
-- [feat: hami 2](https://github.com/gecut/gecut/pull/362) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [feat: hami 2](https://github.com/gecut/gecut/pull/362) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
 - [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
-- [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
+- [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (3 weeks ago)
 
 ## 📓 Gists I wrote
 
@@ -93,7 +93,7 @@
 
 
 
-- [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (6 days ago)
+- [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (1 week ago)
 
 - [directus/directus](https://github.com/directus/directus) (1 week ago)
 
