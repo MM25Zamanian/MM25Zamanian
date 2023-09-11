@@ -57,7 +57,7 @@
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.2.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.2.0), 1 week ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.2.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.2.0), 2 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([v1.0.1](https://github.com/AliMD/alwatr/releases/tag/v1.0.1), 2 months ago) - The Alwatr Library
 
@@ -73,7 +73,7 @@
 
 - [feat: hami 2](https://github.com/gecut/gecut/pull/362) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
-- [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
+- [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (3 weeks ago)
 
 - [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (3 weeks ago)
 
@@ -95,23 +95,23 @@
 
 - [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (1 week ago)
 
-- [directus/directus](https://github.com/directus/directus) (1 week ago)
+- [directus/directus](https://github.com/directus/directus) (2 weeks ago)
 
-- [addyosmani/developer.chrome.com](https://github.com/addyosmani/developer.chrome.com) (1 week ago)
+- [addyosmani/developer.chrome.com](https://github.com/addyosmani/developer.chrome.com) (2 weeks ago)
 
-- [blitz-js/superjson](https://github.com/blitz-js/superjson) (2 weeks ago)
+- [blitz-js/superjson](https://github.com/blitz-js/superjson) (3 weeks ago)
 
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) (2 weeks ago)
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) (3 weeks ago)
 
-- [prisma/prisma](https://github.com/prisma/prisma) (2 weeks ago)
+- [prisma/prisma](https://github.com/prisma/prisma) (3 weeks ago)
 
-- [solid-design-system/solid](https://github.com/solid-design-system/solid) (2 weeks ago)
+- [solid-design-system/solid](https://github.com/solid-design-system/solid) (3 weeks ago)
 
-- [phase2/outline](https://github.com/phase2/outline) (2 weeks ago)
+- [phase2/outline](https://github.com/phase2/outline) (3 weeks ago)
 
-- [atomicojs/atomico](https://github.com/atomicojs/atomico) (2 weeks ago)
+- [atomicojs/atomico](https://github.com/atomicojs/atomico) (3 weeks ago)
 
-- [blueprintui/blueprintui](https://github.com/blueprintui/blueprintui) (2 weeks ago)
+- [blueprintui/blueprintui](https://github.com/blueprintui/blueprintui) (3 weeks ago)
 
 ## 📫 How to reach me
 
