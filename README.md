@@ -57,7 +57,7 @@
 
 
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 1 day ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 2 days ago) - The Alwatr Library
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.2.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.2.0), 2 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
@@ -67,7 +67,7 @@
 
 
 
-- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
 - [feat(cloud): traefik init](https://github.com/gecut/gecut/pull/365) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
@@ -81,7 +81,7 @@
 
 
 
-- [](https://gist.github.com/4a90a63f8e2481311cfb56dd65a50c40) (1 month ago)
+- [](https://gist.github.com/4a90a63f8e2481311cfb56dd65a50c40) (2 months ago)
 
 - [](https://gist.github.com/6fa5e6dbc6fbe09398ad885d68200702) (2 months ago)
 
@@ -93,7 +93,7 @@
 
 
 
-- [arcanis/tsto](https://github.com/arcanis/tsto) (2 days ago)
+- [arcanis/tsto](https://github.com/arcanis/tsto) (3 days ago)
 
 - [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (1 week ago)
 
