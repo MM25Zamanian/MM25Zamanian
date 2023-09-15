@@ -57,7 +57,7 @@
 
 
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 2 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 3 days ago) - The Alwatr Library
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.2.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.2.0), 2 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
@@ -67,6 +67,8 @@
 
 
 
+- [feat(apps/gtodo-pwa): complete app](https://github.com/gecut/gecut/pull/379) on [gecut/gecut](https://github.com/gecut/gecut) (today)
+
 - [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
 - [feat(cloud): traefik init](https://github.com/gecut/gecut/pull/365) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
@@ -74,8 +76,6 @@
 - [feat: hami 2](https://github.com/gecut/gecut/pull/362) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
 - [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (3 weeks ago)
-
-- [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (3 weeks ago)
 
 ## 📓 Gists I wrote
 
@@ -93,7 +93,7 @@
 
 
 
-- [arcanis/tsto](https://github.com/arcanis/tsto) (3 days ago)
+- [arcanis/tsto](https://github.com/arcanis/tsto) (4 days ago)
 
 - [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (1 week ago)
 
