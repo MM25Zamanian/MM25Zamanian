@@ -39,7 +39,7 @@
 
 - [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 week ago)
 
-- [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (2 weeks ago)
+- [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (3 weeks ago)
 
 - [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (1 month ago)
 
@@ -57,7 +57,7 @@
 
 
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 3 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 4 days ago) - The Alwatr Library
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.2.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.2.0), 2 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
@@ -67,13 +67,13 @@
 
 
 
-- [feat(apps/gtodo-pwa): complete app](https://github.com/gecut/gecut/pull/379) on [gecut/gecut](https://github.com/gecut/gecut) (today)
+- [feat(apps/gtodo-pwa): complete app](https://github.com/gecut/gecut/pull/379) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
 - [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
 - [feat(cloud): traefik init](https://github.com/gecut/gecut/pull/365) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
-- [feat: hami 2](https://github.com/gecut/gecut/pull/362) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
+- [feat: hami 2](https://github.com/gecut/gecut/pull/362) on [gecut/gecut](https://github.com/gecut/gecut) (3 weeks ago)
 
 - [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (3 weeks ago)
 
@@ -93,9 +93,11 @@
 
 
 
-- [arcanis/tsto](https://github.com/arcanis/tsto) (4 days ago)
+- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) (1 day ago)
 
-- [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (1 week ago)
+- [arcanis/tsto](https://github.com/arcanis/tsto) (5 days ago)
+
+- [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (2 weeks ago)
 
 - [directus/directus](https://github.com/directus/directus) (2 weeks ago)
 
@@ -110,8 +112,6 @@
 - [solid-design-system/solid](https://github.com/solid-design-system/solid) (3 weeks ago)
 
 - [phase2/outline](https://github.com/phase2/outline) (3 weeks ago)
-
-- [atomicojs/atomico](https://github.com/atomicojs/atomico) (3 weeks ago)
 
 ## 📫 How to reach me
 
