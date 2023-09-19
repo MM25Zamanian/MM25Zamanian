@@ -57,7 +57,7 @@
 
 
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 6 days ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 1 week ago) - The Alwatr Library
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.2.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.2.0), 3 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
@@ -67,9 +67,9 @@
 
 
 
-- [feat(ui/lit-helper): new ui package](https://github.com/gecut/gecut/pull/380) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(ui/lit-helper): new ui package](https://github.com/gecut/gecut/pull/380) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [feat(apps/gtodo-pwa): complete app](https://github.com/gecut/gecut/pull/379) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(apps/gtodo-pwa): complete app](https://github.com/gecut/gecut/pull/379) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
 - [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
@@ -93,9 +93,11 @@
 
 
 
-- [nuejs/nuejs](https://github.com/nuejs/nuejs) (2 days ago)
+- [lukevella/rallly](https://github.com/lukevella/rallly) (1 day ago)
 
-- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) (3 days ago)
+- [nuejs/nuejs](https://github.com/nuejs/nuejs) (3 days ago)
+
+- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) (4 days ago)
 
 - [arcanis/tsto](https://github.com/arcanis/tsto) (1 week ago)
 
@@ -110,8 +112,6 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) (4 weeks ago)
 
 - [prisma/prisma](https://github.com/prisma/prisma) (4 weeks ago)
-
-- [solid-design-system/solid](https://github.com/solid-design-system/solid) (4 weeks ago)
 
 ## 📫 How to reach me
 
