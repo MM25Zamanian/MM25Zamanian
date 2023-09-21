@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (today)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
 - [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (3 weeks ago)
 
@@ -67,11 +67,11 @@
 
 
 
-- [feat(ui/lit-helper): new ui package](https://github.com/gecut/gecut/pull/380) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
+- [feat(ui/lit-helper): new ui package](https://github.com/gecut/gecut/pull/380) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
 
-- [feat(apps/gtodo-pwa): complete app](https://github.com/gecut/gecut/pull/379) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(apps/gtodo-pwa): complete app](https://github.com/gecut/gecut/pull/379) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
-- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
+- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (3 weeks ago)
 
 - [feat(cloud): traefik init](https://github.com/gecut/gecut/pull/365) on [gecut/gecut](https://github.com/gecut/gecut) (3 weeks ago)
 
@@ -93,11 +93,11 @@
 
 
 
-- [lukevella/rallly](https://github.com/lukevella/rallly) (2 days ago)
+- [lukevella/rallly](https://github.com/lukevella/rallly) (3 days ago)
 
-- [nuejs/nuejs](https://github.com/nuejs/nuejs) (4 days ago)
+- [nuejs/nuejs](https://github.com/nuejs/nuejs) (5 days ago)
 
-- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) (5 days ago)
+- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) (6 days ago)
 
 - [arcanis/tsto](https://github.com/arcanis/tsto) (1 week ago)
 
