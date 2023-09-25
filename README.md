@@ -39,7 +39,7 @@
 
 - [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (today)
 
-- [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (4 weeks ago)
+- [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (1 month ago)
 
 - [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (1 month ago)
 
@@ -59,7 +59,7 @@
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 1 week ago) - The Alwatr Library
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.2.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.2.0), 3 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.2.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.2.0), 4 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 6 months ago) - The Gecut Company Monorepo
 
@@ -67,9 +67,9 @@
 
 
 
-- [v0.0.1](https://github.com/gecut/gecut/pull/391) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [v0.0.1](https://github.com/gecut/gecut/pull/391) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
-- [feat(workflows) initial `GitHub code scanning`](https://github.com/gecut/gecut/pull/390) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(workflows) initial `GitHub code scanning`](https://github.com/gecut/gecut/pull/390) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
 - [feat(ui/lit-helper): new ui package](https://github.com/gecut/gecut/pull/380) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
@@ -93,19 +93,19 @@
 
 
 
-- [lukevella/rallly](https://github.com/lukevella/rallly) (6 days ago)
+- [lukevella/rallly](https://github.com/lukevella/rallly) (1 week ago)
 
 - [nuejs/nuejs](https://github.com/nuejs/nuejs) (1 week ago)
 
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) (1 week ago)
 
-- [arcanis/tsto](https://github.com/arcanis/tsto) (1 week ago)
+- [arcanis/tsto](https://github.com/arcanis/tsto) (2 weeks ago)
 
 - [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (3 weeks ago)
 
-- [directus/directus](https://github.com/directus/directus) (3 weeks ago)
+- [directus/directus](https://github.com/directus/directus) (4 weeks ago)
 
-- [addyosmani/developer.chrome.com](https://github.com/addyosmani/developer.chrome.com) (3 weeks ago)
+- [addyosmani/developer.chrome.com](https://github.com/addyosmani/developer.chrome.com) (4 weeks ago)
 
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) (1 month ago)
 
