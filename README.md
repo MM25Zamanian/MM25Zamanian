@@ -57,7 +57,7 @@
 
 
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 1 week ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 2 weeks ago) - The Alwatr Library
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.2.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.2.0), 4 weeks ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
@@ -67,9 +67,9 @@
 
 
 
-- [v0.0.1](https://github.com/gecut/gecut/pull/391) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [v0.0.1](https://github.com/gecut/gecut/pull/391) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
-- [feat(workflows) initial `GitHub code scanning`](https://github.com/gecut/gecut/pull/390) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
+- [feat(workflows) initial `GitHub code scanning`](https://github.com/gecut/gecut/pull/390) on [gecut/gecut](https://github.com/gecut/gecut) (4 days ago)
 
 - [feat(ui/lit-helper): new ui package](https://github.com/gecut/gecut/pull/380) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
