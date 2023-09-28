@@ -67,15 +67,15 @@
 
 
 
-- [v0.0.1](https://github.com/gecut/gecut/pull/391) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/400) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
 
-- [feat(workflows) initial `GitHub code scanning`](https://github.com/gecut/gecut/pull/390) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [v0.0.1](https://github.com/gecut/gecut/pull/391) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+
+- [feat(workflows) initial `GitHub code scanning`](https://github.com/gecut/gecut/pull/390) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
 - [feat(ui/lit-helper): new ui package](https://github.com/gecut/gecut/pull/380) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(apps/gtodo-pwa): complete app](https://github.com/gecut/gecut/pull/379) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
-
-- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (3 weeks ago)
 
 ## 📓 Gists I wrote
 
