@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (today)
 
 - [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (1 month ago)
 
@@ -57,9 +57,9 @@
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.3.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.3.0), 3 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.3.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.3.0), 4 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 2 weeks ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 3 weeks ago) - The Alwatr Library
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 6 months ago) - The Gecut Company Monorepo
 
@@ -67,7 +67,7 @@
 
 
 
-- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/400) on [gecut/gecut](https://github.com/gecut/gecut) (5 days ago)
+- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/400) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
 
 - [v0.0.1](https://github.com/gecut/gecut/pull/391) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
