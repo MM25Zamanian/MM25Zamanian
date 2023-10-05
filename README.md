@@ -41,7 +41,7 @@
 
 - [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (1 month ago)
 
-- [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (1 month ago)
+- [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (2 months ago)
 
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android (2 months ago)
 
@@ -57,7 +57,7 @@
 
 
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.3.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.3.0), 5 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.3.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.3.0), 6 days ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 - [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 3 weeks ago) - The Alwatr Library
 
@@ -93,6 +93,8 @@
 
 
 
+- [novuhq/novu](https://github.com/novuhq/novu) (1 day ago)
+
 - [lukevella/rallly](https://github.com/lukevella/rallly) (2 weeks ago)
 
 - [nuejs/nuejs](https://github.com/nuejs/nuejs) (2 weeks ago)
@@ -110,8 +112,6 @@
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) (1 month ago)
 
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) (1 month ago)
-
-- [prisma/prisma](https://github.com/prisma/prisma) (1 month ago)
 
 ## 📫 How to reach me
 
