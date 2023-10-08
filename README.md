@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 days ago)
 
 - [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (1 month ago)
 
@@ -93,7 +93,7 @@
 
 
 
-- [novuhq/novu](https://github.com/novuhq/novu) (3 days ago)
+- [novuhq/novu](https://github.com/novuhq/novu) (4 days ago)
 
 - [lukevella/rallly](https://github.com/lukevella/rallly) (2 weeks ago)
 
