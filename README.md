@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (3 days ago)
 
 - [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) -  (1 month ago)
 
@@ -93,15 +93,15 @@
 
 
 
-- [novuhq/novu](https://github.com/novuhq/novu) (4 days ago)
+- [novuhq/novu](https://github.com/novuhq/novu) (5 days ago)
 
-- [lukevella/rallly](https://github.com/lukevella/rallly) (2 weeks ago)
+- [lukevella/rallly](https://github.com/lukevella/rallly) (3 weeks ago)
 
 - [nuejs/nuejs](https://github.com/nuejs/nuejs) (3 weeks ago)
 
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) (3 weeks ago)
 
-- [arcanis/tsto](https://github.com/arcanis/tsto) (3 weeks ago)
+- [arcanis/tsto](https://github.com/arcanis/tsto) (4 weeks ago)
 
 - [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (1 month ago)
 
