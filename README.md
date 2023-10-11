@@ -67,7 +67,7 @@
 
 
 
-- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/400) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
+- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/400) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
 - [v0.0.1](https://github.com/gecut/gecut/pull/391) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
@@ -93,25 +93,25 @@
 
 
 
-- [junegunn/fzf](https://github.com/junegunn/fzf) (1 day ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) (1 day ago)
 
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (1 day ago)
+- [payloadcms/payload](https://github.com/payloadcms/payload) (1 day ago)
 
-- [novuhq/novu](https://github.com/novuhq/novu) (6 days ago)
+- [PostHog/posthog](https://github.com/PostHog/posthog) (1 day ago)
+
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) (1 day ago)
+
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) (1 day ago)
+
+- [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) (1 day ago)
+
+- [junegunn/fzf](https://github.com/junegunn/fzf) (2 days ago)
+
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (2 days ago)
+
+- [novuhq/novu](https://github.com/novuhq/novu) (1 week ago)
 
 - [lukevella/rallly](https://github.com/lukevella/rallly) (3 weeks ago)
-
-- [nuejs/nuejs](https://github.com/nuejs/nuejs) (3 weeks ago)
-
-- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) (3 weeks ago)
-
-- [arcanis/tsto](https://github.com/arcanis/tsto) (4 weeks ago)
-
-- [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) (1 month ago)
-
-- [directus/directus](https://github.com/directus/directus) (1 month ago)
-
-- [addyosmani/developer.chrome.com](https://github.com/addyosmani/developer.chrome.com) (1 month ago)
 
 ## 📫 How to reach me
 
