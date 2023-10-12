@@ -59,7 +59,7 @@
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.3.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.3.0), 1 week ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
-- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 4 weeks ago) - The Alwatr Library
+- [AliMD/alwatr](https://github.com/AliMD/alwatr) ([@alwatr/fract@1.1.2](https://github.com/AliMD/alwatr/releases/tag/%40alwatr/fract%401.1.2), 1 month ago) - The Alwatr Library
 
 - [gecut/Gecut-deprecated](https://github.com/gecut/Gecut-deprecated) ([v0.1.0](https://github.com/gecut/Gecut-deprecated/releases/tag/v0.1.0), 7 months ago) - The Gecut Company Monorepo
 
@@ -93,21 +93,21 @@
 
 
 
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) (1 day ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) (2 days ago)
 
-- [payloadcms/payload](https://github.com/payloadcms/payload) (1 day ago)
+- [payloadcms/payload](https://github.com/payloadcms/payload) (2 days ago)
 
-- [PostHog/posthog](https://github.com/PostHog/posthog) (1 day ago)
+- [PostHog/posthog](https://github.com/PostHog/posthog) (2 days ago)
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) (1 day ago)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) (2 days ago)
 
-- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) (1 day ago)
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) (2 days ago)
 
-- [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) (1 day ago)
+- [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) (2 days ago)
 
-- [junegunn/fzf](https://github.com/junegunn/fzf) (2 days ago)
+- [junegunn/fzf](https://github.com/junegunn/fzf) (3 days ago)
 
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (2 days ago)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (3 days ago)
 
 - [novuhq/novu](https://github.com/novuhq/novu) (1 week ago)
 
