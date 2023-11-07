@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 week ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
 - [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) - @MM25Zamanian Personal Portfolio (3 weeks ago)
 
@@ -57,7 +57,7 @@
 
 
 
-- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) ([v12.0.2](https://github.com/moonlight-stream/moonlight-android/releases/tag/v12.0.2), 4 days ago) - GameStream client for Android
+- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) ([v12.0.2](https://github.com/moonlight-stream/moonlight-android/releases/tag/v12.0.2), 5 days ago) - GameStream client for Android
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ([v1.3.0](https://github.com/DenverCoder1/github-readme-streak-stats/releases/tag/v1.3.0), 1 month ago) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
