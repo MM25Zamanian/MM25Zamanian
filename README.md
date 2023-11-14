@@ -57,19 +57,19 @@
 
 
 
-- [Alwatr/icon](https://github.com/Alwatr/icon) ([@alwatr/icon-set-ionic@0.3.0](https://github.com/Alwatr/icon/releases/tag/%40alwatr/icon-set-ionic%400.3.0), 1 day ago) - Alwatr Icon Collections
+- [Alwatr/icon](https://github.com/Alwatr/icon) ([@alwatr/icon-set-extra@0.2.0](https://github.com/Alwatr/icon/releases/tag/%40alwatr/icon-set-extra%400.2.0), 1 day ago) - Alwatr Icon Collections
 
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/demo@1.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/demo%401.1.0), 3 days ago) - Alwatr Fract: an application development framework
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/demo@1.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/demo%401.1.0), 4 days ago) - Alwatr Fract: an application development framework
 
-- [Alwatr/storage](https://github.com/Alwatr/storage) ([v4.0.0-rc.0](https://github.com/Alwatr/storage/releases/tag/v4.0.0-rc.0), 4 days ago) - Alwatr Storage: An extremely fast and compact json-based database with memory cache.
+- [Alwatr/storage](https://github.com/Alwatr/storage) ([v4.0.0-rc.0](https://github.com/Alwatr/storage/releases/tag/v4.0.0-rc.0), 5 days ago) - Alwatr Storage: An extremely fast and compact json-based database with memory cache.
 
 ## 👓 My recent Pull Requests
 
 
 
-- [feat(core/log): new core package](https://github.com/gecut/gecut/pull/460) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat(core/log): new core package](https://github.com/gecut/gecut/pull/460) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
-- [feat(maintain): update nx &amp; yarn 4](https://github.com/gecut/gecut/pull/459) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
+- [feat(maintain): update nx &amp; yarn 4](https://github.com/gecut/gecut/pull/459) on [gecut/gecut](https://github.com/gecut/gecut) (3 days ago)
 
 - [feat(ui/components/navigation-bar): new components](https://github.com/gecut/gecut/pull/442) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
@@ -93,17 +93,17 @@
 
 
 
-- [enflo/curl-action](https://github.com/enflo/curl-action) (1 day ago)
+- [enflo/curl-action](https://github.com/enflo/curl-action) (2 days ago)
 
-- [panva/jose](https://github.com/panva/jose) (2 days ago)
+- [panva/jose](https://github.com/panva/jose) (3 days ago)
 
-- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) (2 days ago)
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) (3 days ago)
 
-- [AGWA/git-crypt](https://github.com/AGWA/git-crypt) (3 days ago)
+- [AGWA/git-crypt](https://github.com/AGWA/git-crypt) (4 days ago)
 
-- [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) (6 days ago)
+- [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) (1 week ago)
 
-- [bestiejs/benchmark.js](https://github.com/bestiejs/benchmark.js) (6 days ago)
+- [bestiejs/benchmark.js](https://github.com/bestiejs/benchmark.js) (1 week ago)
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 weeks ago)
 
