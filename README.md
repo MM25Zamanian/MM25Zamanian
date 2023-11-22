@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (3 days ago)
 
 - [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) - @MM25Zamanian Personal Portfolio (1 month ago)
 
@@ -57,7 +57,7 @@
 
 
 
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/fract@1.2.2](https://github.com/Alwatr/fract/releases/tag/%40alwatr/fract%401.2.2), 6 days ago) - Alwatr Fract: an application development framework
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/fract@1.2.3](https://github.com/Alwatr/fract/releases/tag/%40alwatr/fract%401.2.3), 1 day ago) - Alwatr Fract: an application development framework
 
 - [Alwatr/eslib](https://github.com/Alwatr/eslib) ([@alwatr/validator@1.2.0](https://github.com/Alwatr/eslib/releases/tag/%40alwatr/validator%401.2.0), 1 week ago) - Alwatr ESLib: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
 
@@ -83,7 +83,7 @@
 
 - [](https://gist.github.com/4a90a63f8e2481311cfb56dd65a50c40) (4 months ago)
 
-- [](https://gist.github.com/6fa5e6dbc6fbe09398ad885d68200702) (4 months ago)
+- [](https://gist.github.com/6fa5e6dbc6fbe09398ad885d68200702) (5 months ago)
 
 - [ZSH Config](https://gist.github.com/fc1960135cf54fd5fae966c637455ffe) (2 years ago)
 
@@ -93,11 +93,11 @@
 
 
 
-- [githubnext/testpilot](https://github.com/githubnext/testpilot) (6 days ago)
+- [githubnext/testpilot](https://github.com/githubnext/testpilot) (1 week ago)
 
-- [githubnext/vscode](https://github.com/githubnext/vscode) (6 days ago)
+- [githubnext/vscode](https://github.com/githubnext/vscode) (1 week ago)
 
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) (6 days ago)
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) (1 week ago)
 
 - [enflo/curl-action](https://github.com/enflo/curl-action) (1 week ago)
 
