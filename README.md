@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (4 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (5 days ago)
 
 - [gecut/mm25zamanian.ir](https://github.com/gecut/mm25zamanian.ir) - @MM25Zamanian Personal Portfolio (1 month ago)
 
@@ -57,9 +57,9 @@
 
 
 
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/fract@1.2.3](https://github.com/Alwatr/fract/releases/tag/%40alwatr/fract%401.2.3), 2 days ago) - Alwatr Fract: an application development framework
+- [Alwatr/eslib](https://github.com/Alwatr/eslib) ([@alwatr/util@1.3.1](https://github.com/Alwatr/eslib/releases/tag/%40alwatr/util%401.3.1), 1 day ago) - Alwatr ESLib: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
 
-- [Alwatr/eslib](https://github.com/Alwatr/eslib) ([@alwatr/validator@1.2.0](https://github.com/Alwatr/eslib/releases/tag/%40alwatr/validator%401.2.0), 1 week ago) - Alwatr ESLib: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/fract@1.2.3](https://github.com/Alwatr/fract/releases/tag/%40alwatr/fract%401.2.3), 3 days ago) - Alwatr Fract: an application development framework
 
 - [Alwatr/comment](https://github.com/Alwatr/comment) ([v1.0.1](https://github.com/Alwatr/comment/releases/tag/v1.0.1), 1 week ago) - Alwatr Comment/Chat Microservice
 
@@ -105,7 +105,7 @@
 
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) (1 week ago)
 
-- [AGWA/git-crypt](https://github.com/AGWA/git-crypt) (1 week ago)
+- [AGWA/git-crypt](https://github.com/AGWA/git-crypt) (2 weeks ago)
 
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) (2 weeks ago)
 
