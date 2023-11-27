@@ -57,9 +57,9 @@
 
 
 
-- [Alwatr/eslib](https://github.com/Alwatr/eslib) ([@alwatr/util@1.3.1](https://github.com/Alwatr/eslib/releases/tag/%40alwatr/util%401.3.1), 3 days ago) - Alwatr ESLib: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
+- [Alwatr/eslib](https://github.com/Alwatr/eslib) ([@alwatr/util@1.3.1](https://github.com/Alwatr/eslib/releases/tag/%40alwatr/util%401.3.1), 4 days ago) - Alwatr ESLib: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
 
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/fract@1.2.3](https://github.com/Alwatr/fract/releases/tag/%40alwatr/fract%401.2.3), 5 days ago) - Alwatr Fract: an application development framework
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/fract@1.2.3](https://github.com/Alwatr/fract/releases/tag/%40alwatr/fract%401.2.3), 6 days ago) - Alwatr Fract: an application development framework
 
 - [Alwatr/comment](https://github.com/Alwatr/comment) ([v1.0.1](https://github.com/Alwatr/comment/releases/tag/v1.0.1), 1 week ago) - Alwatr Comment/Chat Microservice
 
@@ -93,11 +93,13 @@
 
 
 
-- [sysstat/sysstat](https://github.com/sysstat/sysstat) (1 day ago)
+- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) (1 day ago)
 
-- [wsvincent/djangox](https://github.com/wsvincent/djangox) (1 day ago)
+- [sysstat/sysstat](https://github.com/sysstat/sysstat) (2 days ago)
 
-- [mixxorz/slippers](https://github.com/mixxorz/slippers) (1 day ago)
+- [wsvincent/djangox](https://github.com/wsvincent/djangox) (2 days ago)
+
+- [mixxorz/slippers](https://github.com/mixxorz/slippers) (2 days ago)
 
 - [githubnext/testpilot](https://github.com/githubnext/testpilot) (1 week ago)
 
@@ -110,8 +112,6 @@
 - [panva/jose](https://github.com/panva/jose) (2 weeks ago)
 
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) (2 weeks ago)
-
-- [AGWA/git-crypt](https://github.com/AGWA/git-crypt) (2 weeks ago)
 
 ## 📫 How to reach me
 
