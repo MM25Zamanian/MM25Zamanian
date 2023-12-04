@@ -37,9 +37,9 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (5 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (6 days ago)
 
-- [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (3 months ago)
+- [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (4 months ago)
 
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android (4 months ago)
 
@@ -57,9 +57,9 @@
 
 
 
-- [Alwatr/eslib](https://github.com/Alwatr/eslib) ([@alwatr/validator@1.2.2](https://github.com/Alwatr/eslib/releases/tag/%40alwatr/validator%401.2.2), 4 days ago) - Alwatr ESLib: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
+- [Alwatr/eslib](https://github.com/Alwatr/eslib) ([@alwatr/validator@1.2.2](https://github.com/Alwatr/eslib/releases/tag/%40alwatr/validator%401.2.2), 5 days ago) - Alwatr ESLib: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
 
-- [Alwatr/storage](https://github.com/Alwatr/storage) ([v4.0.2](https://github.com/Alwatr/storage/releases/tag/v4.0.2), 5 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/storage](https://github.com/Alwatr/storage) ([v4.0.2](https://github.com/Alwatr/storage/releases/tag/v4.0.2), 6 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 
 - [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/fract@1.2.3](https://github.com/Alwatr/fract/releases/tag/%40alwatr/fract%401.2.3), 1 week ago) - Alwatr Fract: an application development framework
 
@@ -67,7 +67,7 @@
 
 
 
-- [feat(apps/persianpart): v2](https://github.com/gecut/gecut/pull/473) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat(apps/persianpart): v2](https://github.com/gecut/gecut/pull/473) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(core/log): new core package](https://github.com/gecut/gecut/pull/460) on [gecut/gecut](https://github.com/gecut/gecut) (3 weeks ago)
 
@@ -93,7 +93,7 @@
 
 
 
-- [moesaid/cleopatra](https://github.com/moesaid/cleopatra) (1 day ago)
+- [moesaid/cleopatra](https://github.com/moesaid/cleopatra) (2 days ago)
 
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) (1 week ago)
 
