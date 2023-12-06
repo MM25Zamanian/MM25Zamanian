@@ -61,7 +61,7 @@
 
 
 
-- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) ([@alwatr/validator@1.2.2](https://github.com/Alwatr/alwatr-es-sdk/releases/tag/%40alwatr/validator%401.2.2), 6 days ago) - Alwatr ES SDK: Necessary library for all ECMAScript (JavaScript/TypeScript) projects.
+- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) ([@alwatr/validator@1.2.2](https://github.com/Alwatr/alwatr-es-sdk/releases/tag/%40alwatr/validator%401.2.2), 1 week ago) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation.
 
 - [Alwatr/storage](https://github.com/Alwatr/storage) ([v4.0.2](https://github.com/Alwatr/storage/releases/tag/v4.0.2), 1 week ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 
@@ -69,7 +69,9 @@
 
 
 
-- [feat(`*`): vite bundler initial](https://github.com/gecut/gecut/pull/479) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+- [feat: gecut next](https://github.com/gecut/gecut/pull/481) on [gecut/gecut](https://github.com/gecut/gecut) (1 day ago)
+
+- [feat(`*`): vite bundler initial](https://github.com/gecut/gecut/pull/479) on [gecut/gecut](https://github.com/gecut/gecut) (2 days ago)
 
 - [feat(apps/persianpart): v2](https://github.com/gecut/gecut/pull/473) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
@@ -111,21 +113,19 @@
 
 - [feat(apps/persianpart-pwa): delete icon button](https://github.com/gecut/gecut/pull/338) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
 
-- [refactor(apps/hami-pwa): base structure and UI ](https://github.com/gecut/gecut/pull/331) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
+- [refactor(apps/hami-pwa): base structure and UI ](https://github.com/gecut/gecut/pull/331) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
 - [feat(core/utilities): debounce function](https://github.com/gecut/gecut/pull/327) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
 - [feat(apps/itodo-api): change name](https://github.com/gecut/gecut/pull/326) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
-- [feat(ui/i18n): dateTime function](https://github.com/gecut/gecut/pull/321) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
-
 ## ⭐ Recent Stars
 
 
 
-- [nodejs/corepack](https://github.com/nodejs/corepack) (1 day ago)
+- [nodejs/corepack](https://github.com/nodejs/corepack) (2 days ago)
 
-- [moesaid/cleopatra](https://github.com/moesaid/cleopatra) (3 days ago)
+- [moesaid/cleopatra](https://github.com/moesaid/cleopatra) (4 days ago)
 
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) (1 week ago)
 
@@ -135,11 +135,11 @@
 
 - [mixxorz/slippers](https://github.com/mixxorz/slippers) (1 week ago)
 
-- [githubnext/testpilot](https://github.com/githubnext/testpilot) (2 weeks ago)
+- [githubnext/testpilot](https://github.com/githubnext/testpilot) (3 weeks ago)
 
-- [githubnext/vscode](https://github.com/githubnext/vscode) (2 weeks ago)
+- [githubnext/vscode](https://github.com/githubnext/vscode) (3 weeks ago)
 
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) (2 weeks ago)
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) (3 weeks ago)
 
 - [enflo/curl-action](https://github.com/enflo/curl-action) (3 weeks ago)
 
