@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (6 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 week ago)
 
 - [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (4 months ago)
 
@@ -61,21 +61,21 @@
 
 
 
-- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) ([@alwatr/validator@1.2.3](https://github.com/Alwatr/alwatr-es-sdk/releases/tag/%40alwatr/validator%401.2.3), 2 days ago) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation.
+- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) ([@alwatr/util@1.3.5](https://github.com/Alwatr/alwatr-es-sdk/releases/tag/%40alwatr/util%401.3.5), 1 day ago) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation.
 
-- [Alwatr/store](https://github.com/Alwatr/store) ([v4.0.2](https://github.com/Alwatr/store/releases/tag/v4.0.2), 1 week ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v4.0.2](https://github.com/Alwatr/store/releases/tag/v4.0.2), 2 weeks ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 
 ## 👓 My recent Pull Requests
 
 
 
-- [feat: gecut next](https://github.com/gecut/gecut/pull/481) on [gecut/gecut](https://github.com/gecut/gecut) (6 days ago)
+- [feat: gecut next](https://github.com/gecut/gecut/pull/481) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(`*`): vite bundler initial](https://github.com/gecut/gecut/pull/479) on [gecut/gecut](https://github.com/gecut/gecut) (1 week ago)
 
 - [feat(apps/persianpart): v2](https://github.com/gecut/gecut/pull/473) on [gecut/gecut](https://github.com/gecut/gecut) (2 weeks ago)
 
-- [feat(core/log): new core package](https://github.com/gecut/gecut/pull/460) on [gecut/gecut](https://github.com/gecut/gecut) (4 weeks ago)
+- [feat(core/log): new core package](https://github.com/gecut/gecut/pull/460) on [gecut/gecut](https://github.com/gecut/gecut) (1 month ago)
 
 - [feat(maintain): update nx &amp; yarn 4](https://github.com/gecut/gecut/pull/459) on [gecut/gecut](https://github.com/gecut/gecut) (1 month ago)
 
@@ -141,7 +141,7 @@
 
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) (3 weeks ago)
 
-- [enflo/curl-action](https://github.com/enflo/curl-action) (4 weeks ago)
+- [enflo/curl-action](https://github.com/enflo/curl-action) (1 month ago)
 
 - [panva/jose](https://github.com/panva/jose) (1 month ago)
 
