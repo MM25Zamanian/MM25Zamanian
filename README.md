@@ -61,7 +61,7 @@
 
 
 
-- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) ([@alwatr/util@1.3.5](https://github.com/Alwatr/alwatr-es-sdk/releases/tag/%40alwatr/util%401.3.5), 5 days ago) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation.
+- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) ([@alwatr/util@1.3.5](https://github.com/Alwatr/alwatr-es-sdk/releases/tag/%40alwatr/util%401.3.5), 6 days ago) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation.
 
 - [Alwatr/store](https://github.com/Alwatr/store) ([v4.0.2](https://github.com/Alwatr/store/releases/tag/v4.0.2), 2 weeks ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 
@@ -107,7 +107,7 @@
 
 - [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
 
-- [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
+- [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
 - [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/344) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
@@ -127,7 +127,7 @@
 
 - [moesaid/cleopatra](https://github.com/moesaid/cleopatra) (2 weeks ago)
 
-- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) (2 weeks ago)
+- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) (3 weeks ago)
 
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) (3 weeks ago)
 
@@ -161,7 +161,7 @@
 
 - [hogarthww-labs/nx-python](https://github.com/hogarthww-labs/nx-python) (1 month ago)
 
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 month ago)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 months ago)
 
 ## 📫 How to reach me
 
