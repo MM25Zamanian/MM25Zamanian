@@ -61,9 +61,9 @@
 
 
 
-- [Alwatr/alwatr-es-sdk](https://github.com/Alwatr/alwatr-es-sdk) ([@alwatr/util@1.3.5](https://github.com/Alwatr/alwatr-es-sdk/releases/tag/%40alwatr/util%401.3.5), 1 week ago) - The Alwatr ECMAScript (JavaScript/TypeScript) SDK is a collection of client-side libraries that are used by applications utilizing Alwatr services. These libraries provide functionality for various purposes, such as logging, cryptography, fetching data, mathematical operations, server implementation, utility functions, and data validation.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v4.0.4](https://github.com/Alwatr/store/releases/tag/v4.0.4), 1 day ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 
-- [Alwatr/store](https://github.com/Alwatr/store) ([v4.0.2](https://github.com/Alwatr/store/releases/tag/v4.0.2), 3 weeks ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/i18n@2.0.3](https://github.com/Alwatr/fract/releases/tag/%40alwatr/i18n%402.0.3), 1 day ago) - Alwatr Fract: an application development framework
 
 ## 👓 My recent Pull Requests
 
@@ -85,9 +85,9 @@
 
 - [feat(admin-panel): django](https://github.com/gecut/gecut/pull/430) on [gecut/gecut](https://github.com/gecut/gecut) (1 month ago)
 
-- [feat(cloud/api): run with bun](https://github.com/gecut/gecut/pull/428) on [gecut/gecut](https://github.com/gecut/gecut) (1 month ago)
+- [feat(cloud/api): run with bun](https://github.com/gecut/gecut/pull/428) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
-- [feat(ui/icons): new ui package](https://github.com/gecut/gecut/pull/427) on [gecut/gecut](https://github.com/gecut/gecut) (1 month ago)
+- [feat(ui/icons): new ui package](https://github.com/gecut/gecut/pull/427) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
 - [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/400) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
