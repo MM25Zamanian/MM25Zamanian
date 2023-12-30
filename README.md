@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (3 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (today)
 
 - [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (4 months ago)
 
@@ -61,9 +61,9 @@
 
 
 
-- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/wait@1.1.1](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/wait%401.1.1), 2 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
+- [Alwatr/nanolib](https://github.com/Alwatr/nanolib) ([@alwatr/wait@1.1.1](https://github.com/Alwatr/nanolib/releases/tag/%40alwatr/wait%401.1.1), 3 days ago) - This repository contains numerous small utility packages. These packages serve various useful purposes and are written in nano ESModule without any dependencies.
 
-- [Alwatr/store](https://github.com/Alwatr/store) ([v4.1.0](https://github.com/Alwatr/store/releases/tag/v4.1.0), 4 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v4.1.0](https://github.com/Alwatr/store/releases/tag/v4.1.0), 5 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 
 ## 👓 My recent Pull Requests
 
@@ -123,13 +123,15 @@
 
 
 
+- [badges/shields](https://github.com/badges/shields) (1 day ago)
+
 - [changesets/changesets](https://github.com/changesets/changesets) (1 week ago)
 
 - [release-it/release-it](https://github.com/release-it/release-it) (1 week ago)
 
 - [nodejs/corepack](https://github.com/nodejs/corepack) (3 weeks ago)
 
-- [moesaid/cleopatra](https://github.com/moesaid/cleopatra) (3 weeks ago)
+- [moesaid/cleopatra](https://github.com/moesaid/cleopatra) (4 weeks ago)
 
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) (1 month ago)
 
@@ -160,8 +162,6 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 months ago)
 
 - [grafana/grafana](https://github.com/grafana/grafana) (2 months ago)
-
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) (2 months ago)
 
 ## 📫 How to reach me
 
