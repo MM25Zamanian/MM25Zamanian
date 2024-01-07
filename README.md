@@ -37,9 +37,9 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (today)
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (5 days ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (6 days ago)
 
 - [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (5 months ago)
 
@@ -61,19 +61,19 @@
 
 
 
-- [Alwatr/store](https://github.com/Alwatr/store) ([v5.0.0-beta](https://github.com/Alwatr/store/releases/tag/v5.0.0-beta), 6 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [gecut/gecut](https://github.com/gecut/gecut) ([1.1.1](https://github.com/gecut/gecut/releases/tag/1.1.1), 1 day ago) - Gecut Company Mono-repo
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.0](https://github.com/Alwatr/pmpa/releases/tag/v1.1.0), 1 week ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v5.0.0-beta](https://github.com/Alwatr/store/releases/tag/v5.0.0-beta), 1 week ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 
 ## 👓 My recent Pull Requests
 
 
 
-- [fix(ui-kit/large-top-app-bar): renderer function name 😳](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (4 days ago)
+- [fix(ui-kit/large-top-app-bar): renderer function name 😳](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (5 days ago)
 
-- [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (6 days ago)
+- [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 week ago)
 
-- [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (6 days ago)
+- [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 week ago)
 
 - [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (1 week ago)
 
@@ -123,11 +123,11 @@
 
 
 
-- [cssnano/cssnano](https://github.com/cssnano/cssnano) (3 days ago)
+- [cssnano/cssnano](https://github.com/cssnano/cssnano) (4 days ago)
 
-- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) (6 days ago)
+- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) (1 week ago)
 
-- [material-components/material-components-android](https://github.com/material-components/material-components-android) (6 days ago)
+- [material-components/material-components-android](https://github.com/material-components/material-components-android) (1 week ago)
 
 - [badges/shields](https://github.com/badges/shields) (1 week ago)
 
