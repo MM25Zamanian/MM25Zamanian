@@ -37,9 +37,9 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (today)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (6 days ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 week ago)
 
 - [MM25Zamanian/restic-game-scroller](https://github.com/MM25Zamanian/restic-game-scroller) -  (5 months ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) ([1.1.1](https://github.com/gecut/gecut/releases/tag/1.1.1), 1 day ago) - Gecut Company Mono-repo
+- [gecut/gecut](https://github.com/gecut/gecut) ([1.1.1](https://github.com/gecut/gecut/releases/tag/1.1.1), 2 days ago) - Gecut Company Mono-repo
 
 - [Alwatr/store](https://github.com/Alwatr/store) ([v5.0.0-beta](https://github.com/Alwatr/store/releases/tag/v5.0.0-beta), 1 week ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 
@@ -69,7 +69,7 @@
 
 
 
-- [fix(ui-kit/large-top-app-bar): renderer function name 😳](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (5 days ago)
+- [fix(ui-kit/large-top-app-bar): renderer function name 😳](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (6 days ago)
 
 - [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 week ago)
 
@@ -123,7 +123,7 @@
 
 
 
-- [cssnano/cssnano](https://github.com/cssnano/cssnano) (4 days ago)
+- [cssnano/cssnano](https://github.com/cssnano/cssnano) (5 days ago)
 
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) (1 week ago)
 
