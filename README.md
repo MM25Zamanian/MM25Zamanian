@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 day ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 days ago)
 
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 week ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) ([1.1.1](https://github.com/gecut/gecut/releases/tag/1.1.1), 2 days ago) - Gecut Company Mono-repo
+- [gecut/gecut](https://github.com/gecut/gecut) ([1.1.1](https://github.com/gecut/gecut/releases/tag/1.1.1), 3 days ago) - Gecut Company Mono-repo
 
 - [Alwatr/store](https://github.com/Alwatr/store) ([v5.0.0-beta](https://github.com/Alwatr/store/releases/tag/v5.0.0-beta), 1 week ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 
@@ -69,7 +69,7 @@
 
 
 
-- [fix(ui-kit/large-top-app-bar): renderer function name 😳](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (6 days ago)
+- [fix(ui-kit/large-top-app-bar): renderer function name 😳](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (1 week ago)
 
 - [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 week ago)
 
@@ -123,7 +123,13 @@
 
 
 
-- [cssnano/cssnano](https://github.com/cssnano/cssnano) (5 days ago)
+- [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) (1 day ago)
+
+- [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) (1 day ago)
+
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) (1 day ago)
+
+- [cssnano/cssnano](https://github.com/cssnano/cssnano) (6 days ago)
 
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) (1 week ago)
 
@@ -156,12 +162,6 @@
 - [enflo/curl-action](https://github.com/enflo/curl-action) (1 month ago)
 
 - [panva/jose](https://github.com/panva/jose) (1 month ago)
-
-- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) (1 month ago)
-
-- [AGWA/git-crypt](https://github.com/AGWA/git-crypt) (1 month ago)
-
-- [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) (2 months ago)
 
 ## 📫 How to reach me
 
