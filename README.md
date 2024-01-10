@@ -37,7 +37,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (3 days ago)
 
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 week ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [gecut/gecut](https://github.com/gecut/gecut) ([1.1.1](https://github.com/gecut/gecut/releases/tag/1.1.1), 3 days ago) - Gecut Company Mono-repo
+- [gecut/gecut](https://github.com/gecut/gecut) ([1.1.1](https://github.com/gecut/gecut/releases/tag/1.1.1), 4 days ago) - Gecut Company Mono-repo
 
 - [Alwatr/store](https://github.com/Alwatr/store) ([v5.0.0-beta](https://github.com/Alwatr/store/releases/tag/v5.0.0-beta), 1 week ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 
@@ -85,7 +85,7 @@
 
 - [feat(core/log): new core package](https://github.com/gecut/gecut/pull/460) on [gecut/gecut](https://github.com/gecut/gecut) (1 month ago)
 
-- [feat(maintain): update nx &amp; yarn 4](https://github.com/gecut/gecut/pull/459) on [gecut/gecut](https://github.com/gecut/gecut) (1 month ago)
+- [feat(maintain): update nx &amp; yarn 4](https://github.com/gecut/gecut/pull/459) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
 - [feat(ui/components/navigation-bar): new components](https://github.com/gecut/gecut/pull/442) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
@@ -123,13 +123,13 @@
 
 
 
-- [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) (1 day ago)
+- [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) (2 days ago)
 
-- [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) (1 day ago)
+- [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) (2 days ago)
 
-- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) (1 day ago)
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) (2 days ago)
 
-- [cssnano/cssnano](https://github.com/cssnano/cssnano) (6 days ago)
+- [cssnano/cssnano](https://github.com/cssnano/cssnano) (1 week ago)
 
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) (1 week ago)
 
@@ -137,9 +137,9 @@
 
 - [badges/shields](https://github.com/badges/shields) (1 week ago)
 
-- [changesets/changesets](https://github.com/changesets/changesets) (2 weeks ago)
+- [changesets/changesets](https://github.com/changesets/changesets) (3 weeks ago)
 
-- [release-it/release-it](https://github.com/release-it/release-it) (2 weeks ago)
+- [release-it/release-it](https://github.com/release-it/release-it) (3 weeks ago)
 
 - [nodejs/corepack](https://github.com/nodejs/corepack) (1 month ago)
 
@@ -161,7 +161,7 @@
 
 - [enflo/curl-action](https://github.com/enflo/curl-action) (1 month ago)
 
-- [panva/jose](https://github.com/panva/jose) (1 month ago)
+- [panva/jose](https://github.com/panva/jose) (2 months ago)
 
 ## 📫 How to reach me
 
