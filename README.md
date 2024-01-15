@@ -37,11 +37,11 @@
 
 
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (3 days ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (4 days ago)
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (4 days ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (5 days ago)
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (1 week ago)
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) - Progressive Multi Page (Web) Application. (2 weeks ago)
 
 ## ☂️ My latest projects
 
@@ -61,9 +61,9 @@
 
 
 
-- [Alwatr/store](https://github.com/Alwatr/store) ([v5.1.0](https://github.com/Alwatr/store/releases/tag/v5.1.0), 1 day ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
+- [Alwatr/store](https://github.com/Alwatr/store) ([v5.1.0](https://github.com/Alwatr/store/releases/tag/v5.1.0), 2 days ago) - Alwatr Storage: Extremely fast and compact JSON-based database that operates in memory, includes a JSON file backup, and serve over the highly accelerated Nginx.
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.3.2](https://github.com/Alwatr/nginx/releases/tag/v2.3.2), 1 day ago) - Alwatr Accelerated NGINX
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.3.2](https://github.com/Alwatr/nginx/releases/tag/v2.3.2), 2 days ago) - Alwatr Accelerated NGINX
 
 ## 👓 My recent Pull Requests
 
@@ -123,25 +123,27 @@
 
 
 
-- [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) (1 day ago)
+- [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (1 day ago)
 
-- [colinhacks/zod](https://github.com/colinhacks/zod) (1 day ago)
+- [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) (2 days ago)
 
-- [finom/seemple](https://github.com/finom/seemple) (4 days ago)
+- [colinhacks/zod](https://github.com/colinhacks/zod) (2 days ago)
 
-- [vuejs/vue](https://github.com/vuejs/vue) (4 days ago)
+- [finom/seemple](https://github.com/finom/seemple) (5 days ago)
 
-- [marko-js/marko](https://github.com/marko-js/marko) (4 days ago)
+- [vuejs/vue](https://github.com/vuejs/vue) (5 days ago)
 
-- [IanLunn/Hover](https://github.com/IanLunn/Hover) (4 days ago)
+- [marko-js/marko](https://github.com/marko-js/marko) (5 days ago)
 
-- [huggingface/transformers](https://github.com/huggingface/transformers) (4 days ago)
+- [IanLunn/Hover](https://github.com/IanLunn/Hover) (5 days ago)
 
-- [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) (6 days ago)
+- [huggingface/transformers](https://github.com/huggingface/transformers) (5 days ago)
 
-- [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) (6 days ago)
+- [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) (1 week ago)
 
-- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) (6 days ago)
+- [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) (1 week ago)
+
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) (1 week ago)
 
 - [cssnano/cssnano](https://github.com/cssnano/cssnano) (1 week ago)
 
@@ -160,8 +162,6 @@
 - [moesaid/cleopatra](https://github.com/moesaid/cleopatra) (1 month ago)
 
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) (1 month ago)
-
-- [sysstat/sysstat](https://github.com/sysstat/sysstat) (1 month ago)
 
 ## 📫 How to reach me
 
