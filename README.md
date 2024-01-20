@@ -61,9 +61,9 @@
 
 
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 3 days ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 4 days ago) - Progressive Multi Page (Web) Application.
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.3.2](https://github.com/Alwatr/nginx/releases/tag/v2.3.2), 6 days ago) - Alwatr Accelerated NGINX
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.3.2](https://github.com/Alwatr/nginx/releases/tag/v2.3.2), 1 week ago) - Alwatr Accelerated NGINX
 
 ## 👓 My recent Pull Requests
 
@@ -75,7 +75,7 @@
 
 - [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (2 weeks ago)
 
-- [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (2 weeks ago)
+- [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (3 weeks ago)
 
 - [feat: gecut next](https://github.com/gecut/gecut/pull/481) on [gecut/gecut](https://github.com/gecut/gecut) (1 month ago)
 
@@ -89,9 +89,9 @@
 
 - [feat(ui/components/navigation-bar): new components](https://github.com/gecut/gecut/pull/442) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
-- [feat(ui/lit-helper): search list page](https://github.com/gecut/gecut/pull/431) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
+- [feat(ui/lit-helper): search list page](https://github.com/gecut/gecut/pull/431) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
 
-- [feat(admin-panel): django](https://github.com/gecut/gecut/pull/430) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
+- [feat(admin-panel): django](https://github.com/gecut/gecut/pull/430) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
 
 - [feat(cloud/api): run with bun](https://github.com/gecut/gecut/pull/428) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
 
@@ -99,9 +99,9 @@
 
 - [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/400) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
 
-- [release(`1.1.0`): new version](https://github.com/gecut/gecut/pull/391) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
+- [release(`1.1.0`): new version](https://github.com/gecut/gecut/pull/391) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
-- [feat(workflows) initial `GitHub code scanning`](https://github.com/gecut/gecut/pull/390) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
+- [feat(workflows) initial `GitHub code scanning`](https://github.com/gecut/gecut/pull/390) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
 - [feat(ui/lit-helper): new ui package](https://github.com/gecut/gecut/pull/380) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
@@ -123,11 +123,11 @@
 
 
 
-- [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (5 days ago)
+- [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (6 days ago)
 
-- [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) (6 days ago)
+- [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) (1 week ago)
 
-- [colinhacks/zod](https://github.com/colinhacks/zod) (6 days ago)
+- [colinhacks/zod](https://github.com/colinhacks/zod) (1 week ago)
 
 - [finom/seemple](https://github.com/finom/seemple) (1 week ago)
 
