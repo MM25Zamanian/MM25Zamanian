@@ -61,7 +61,7 @@
 
 
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 4 days ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 5 days ago) - Progressive Multi Page (Web) Application.
 
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.3.2](https://github.com/Alwatr/nginx/releases/tag/v2.3.2), 1 week ago) - Alwatr Accelerated NGINX
 
@@ -71,9 +71,9 @@
 
 - [fix(ui-kit/large-top-app-bar): renderer function name 😳](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (2 weeks ago)
 
-- [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (2 weeks ago)
+- [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (3 weeks ago)
 
-- [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (2 weeks ago)
+- [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (3 weeks ago)
 
 - [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (3 weeks ago)
 
@@ -123,7 +123,7 @@
 
 
 
-- [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (6 days ago)
+- [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (1 week ago)
 
 - [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) (1 week ago)
 
@@ -147,9 +147,9 @@
 
 - [cssnano/cssnano](https://github.com/cssnano/cssnano) (2 weeks ago)
 
-- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) (2 weeks ago)
+- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) (3 weeks ago)
 
-- [material-components/material-components-android](https://github.com/material-components/material-components-android) (2 weeks ago)
+- [material-components/material-components-android](https://github.com/material-components/material-components-android) (3 weeks ago)
 
 - [badges/shields](https://github.com/badges/shields) (3 weeks ago)
 
