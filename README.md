@@ -39,7 +39,7 @@
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
 
-- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (1 week ago)
+- [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 weeks ago)
 
 - [Alwatr/soffit-order-admin](https://github.com/Alwatr/soffit-order-admin) - Soffit Order admin panel. (3 weeks ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.0](https://github.com/Alwatr/nginx/releases/tag/v2.4.0), 1 day ago) - Alwatr Accelerated NGINX
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 1 day ago) - Alwatr Accelerated NGINX
 
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 1 week ago) - Progressive Multi Page (Web) Application.
 
@@ -87,7 +87,7 @@
 
 - [feat(maintain): update nx &amp; yarn 4](https://github.com/gecut/gecut/pull/459) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
-- [feat(ui/components/navigation-bar): new components](https://github.com/gecut/gecut/pull/442) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
+- [feat(ui/components/navigation-bar): new components](https://github.com/gecut/gecut/pull/442) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
 
 - [feat(ui/lit-helper): search list page](https://github.com/gecut/gecut/pull/431) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
 
@@ -129,15 +129,15 @@
 
 - [colinhacks/zod](https://github.com/colinhacks/zod) (1 week ago)
 
-- [finom/seemple](https://github.com/finom/seemple) (1 week ago)
+- [finom/seemple](https://github.com/finom/seemple) (2 weeks ago)
 
-- [vuejs/vue](https://github.com/vuejs/vue) (1 week ago)
+- [vuejs/vue](https://github.com/vuejs/vue) (2 weeks ago)
 
-- [marko-js/marko](https://github.com/marko-js/marko) (1 week ago)
+- [marko-js/marko](https://github.com/marko-js/marko) (2 weeks ago)
 
-- [IanLunn/Hover](https://github.com/IanLunn/Hover) (1 week ago)
+- [IanLunn/Hover](https://github.com/IanLunn/Hover) (2 weeks ago)
 
-- [huggingface/transformers](https://github.com/huggingface/transformers) (1 week ago)
+- [huggingface/transformers](https://github.com/huggingface/transformers) (2 weeks ago)
 
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) (2 weeks ago)
 
@@ -145,7 +145,7 @@
 
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) (2 weeks ago)
 
-- [cssnano/cssnano](https://github.com/cssnano/cssnano) (2 weeks ago)
+- [cssnano/cssnano](https://github.com/cssnano/cssnano) (3 weeks ago)
 
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) (3 weeks ago)
 
