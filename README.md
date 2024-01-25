@@ -37,7 +37,7 @@
 
 
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 weeks ago)
 
 - [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 weeks ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 1 day ago) - Alwatr Accelerated NGINX
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 2 days ago) - Alwatr Accelerated NGINX
 
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 1 week ago) - Progressive Multi Page (Web) Application.
 
@@ -97,7 +97,7 @@
 
 - [feat(ui/icons): new ui package](https://github.com/gecut/gecut/pull/427) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
 
-- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/400) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
+- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/400) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
 - [release(`1.1.0`): new version](https://github.com/gecut/gecut/pull/391) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
@@ -122,6 +122,8 @@
 ## ⭐ Recent Stars
 
 
+
+- [nginx/njs-examples](https://github.com/nginx/njs-examples) (1 day ago)
 
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (1 week ago)
 
@@ -160,8 +162,6 @@
 - [nodejs/corepack](https://github.com/nodejs/corepack) (1 month ago)
 
 - [moesaid/cleopatra](https://github.com/moesaid/cleopatra) (1 month ago)
-
-- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) (1 month ago)
 
 ## 📫 How to reach me
 
