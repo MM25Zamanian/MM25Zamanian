@@ -61,7 +61,7 @@
 
 
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 2 days ago) - Alwatr Accelerated NGINX
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 3 days ago) - Alwatr Accelerated NGINX
 
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 1 week ago) - Progressive Multi Page (Web) Application.
 
@@ -81,7 +81,7 @@
 
 - [feat(`*`): vite bundler initial](https://github.com/gecut/gecut/pull/479) on [gecut/gecut](https://github.com/gecut/gecut) (1 month ago)
 
-- [feat(apps/persianpart): v2](https://github.com/gecut/gecut/pull/473) on [gecut/gecut](https://github.com/gecut/gecut) (1 month ago)
+- [feat(apps/persianpart): v2](https://github.com/gecut/gecut/pull/473) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
 - [feat(core/log): new core package](https://github.com/gecut/gecut/pull/460) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
@@ -123,7 +123,7 @@
 
 
 
-- [nginx/njs-examples](https://github.com/nginx/njs-examples) (1 day ago)
+- [nginx/njs-examples](https://github.com/nginx/njs-examples) (2 days ago)
 
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (1 week ago)
 
@@ -153,7 +153,7 @@
 
 - [material-components/material-components-android](https://github.com/material-components/material-components-android) (3 weeks ago)
 
-- [badges/shields](https://github.com/badges/shields) (3 weeks ago)
+- [badges/shields](https://github.com/badges/shields) (4 weeks ago)
 
 - [changesets/changesets](https://github.com/changesets/changesets) (1 month ago)
 
