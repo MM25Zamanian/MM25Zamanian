@@ -61,7 +61,7 @@
 
 
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 4 days ago) - Alwatr Accelerated NGINX
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 5 days ago) - Alwatr Accelerated NGINX
 
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 1 week ago) - Progressive Multi Page (Web) Application.
 
@@ -71,9 +71,9 @@
 
 - [fix(ui-kit/large-top-app-bar): renderer function name 😳](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (3 weeks ago)
 
-- [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (3 weeks ago)
+- [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (4 weeks ago)
 
-- [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (3 weeks ago)
+- [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (4 weeks ago)
 
 - [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (4 weeks ago)
 
@@ -107,7 +107,7 @@
 
 - [feat(apps/gtodo-pwa): complete app](https://github.com/gecut/gecut/pull/379) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
-- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
+- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (5 months ago)
 
 - [feat(cloud): traefik init](https://github.com/gecut/gecut/pull/365) on [gecut/gecut](https://github.com/gecut/gecut) (5 months ago)
 
@@ -123,9 +123,9 @@
 
 
 
-- [nginx/njs-examples](https://github.com/nginx/njs-examples) (3 days ago)
+- [nginx/njs-examples](https://github.com/nginx/njs-examples) (4 days ago)
 
-- [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (1 week ago)
+- [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (2 weeks ago)
 
 - [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) (2 weeks ago)
 
@@ -149,11 +149,11 @@
 
 - [cssnano/cssnano](https://github.com/cssnano/cssnano) (3 weeks ago)
 
-- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) (3 weeks ago)
+- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) (4 weeks ago)
 
-- [material-components/material-components-android](https://github.com/material-components/material-components-android) (3 weeks ago)
+- [material-components/material-components-android](https://github.com/material-components/material-components-android) (4 weeks ago)
 
-- [badges/shields](https://github.com/badges/shields) (4 weeks ago)
+- [badges/shields](https://github.com/badges/shields) (1 month ago)
 
 - [changesets/changesets](https://github.com/changesets/changesets) (1 month ago)
 
