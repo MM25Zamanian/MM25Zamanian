@@ -41,7 +41,7 @@
 
 - [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (2 weeks ago)
 
-- [Alwatr/soffit-order-admin](https://github.com/Alwatr/soffit-order-admin) - Soffit Order admin panel. (3 weeks ago)
+- [Alwatr/soffit-order-admin](https://github.com/Alwatr/soffit-order-admin) - Soffit Order admin panel. (4 weeks ago)
 
 ## ☂️ My latest projects
 
@@ -61,7 +61,7 @@
 
 
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 5 days ago) - Alwatr Accelerated NGINX
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 6 days ago) - Alwatr Accelerated NGINX
 
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 1 week ago) - Progressive Multi Page (Web) Application.
 
@@ -75,7 +75,7 @@
 
 - [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (4 weeks ago)
 
-- [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (4 weeks ago)
+- [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (1 month ago)
 
 - [feat: gecut next](https://github.com/gecut/gecut/pull/481) on [gecut/gecut](https://github.com/gecut/gecut) (1 month ago)
 
@@ -123,7 +123,7 @@
 
 
 
-- [nginx/njs-examples](https://github.com/nginx/njs-examples) (4 days ago)
+- [nginx/njs-examples](https://github.com/nginx/njs-examples) (5 days ago)
 
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (2 weeks ago)
 
@@ -141,11 +141,11 @@
 
 - [huggingface/transformers](https://github.com/huggingface/transformers) (2 weeks ago)
 
-- [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) (2 weeks ago)
+- [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) (3 weeks ago)
 
-- [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) (2 weeks ago)
+- [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) (3 weeks ago)
 
-- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) (2 weeks ago)
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) (3 weeks ago)
 
 - [cssnano/cssnano](https://github.com/cssnano/cssnano) (3 weeks ago)
 
