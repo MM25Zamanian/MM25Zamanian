@@ -61,19 +61,19 @@
 
 
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 6 days ago) - Alwatr Accelerated NGINX
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 1 week ago) - Alwatr Accelerated NGINX
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 1 week ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 2 weeks ago) - Progressive Multi Page (Web) Application.
 
 ## 👓 My recent Pull Requests
 
 
 
-- [fix(ui-kit/large-top-app-bar): renderer function name 😳](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (3 weeks ago)
+- [fix(ui-kit/large-top-app-bar): renderer function name 😳](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (4 weeks ago)
 
-- [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (4 weeks ago)
+- [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 month ago)
 
-- [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (4 weeks ago)
+- [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 month ago)
 
 - [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (1 month ago)
 
@@ -123,7 +123,7 @@
 
 
 
-- [nginx/njs-examples](https://github.com/nginx/njs-examples) (5 days ago)
+- [nginx/njs-examples](https://github.com/nginx/njs-examples) (6 days ago)
 
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (2 weeks ago)
 
@@ -149,9 +149,9 @@
 
 - [cssnano/cssnano](https://github.com/cssnano/cssnano) (3 weeks ago)
 
-- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) (4 weeks ago)
+- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) (1 month ago)
 
-- [material-components/material-components-android](https://github.com/material-components/material-components-android) (4 weeks ago)
+- [material-components/material-components-android](https://github.com/material-components/material-components-android) (1 month ago)
 
 - [badges/shields](https://github.com/badges/shields) (1 month ago)
 
