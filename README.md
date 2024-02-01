@@ -37,11 +37,11 @@
 
 
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 weeks ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (3 weeks ago)
 
 - [gecut/gecut](https://github.com/gecut/gecut) - Gecut Company Mono-repo (3 weeks ago)
 
-- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (4 weeks ago)
+- [Alwatr/fract](https://github.com/Alwatr/fract) - Alwatr Fract: an application development framework (1 month ago)
 
 ## ☂️ My latest projects
 
@@ -61,15 +61,15 @@
 
 
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 1 week ago) - Alwatr Accelerated NGINX
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.1.0), 1 day ago) - Alwatr Fract: an application development framework
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.1](https://github.com/Alwatr/pmpa/releases/tag/v1.1.1), 2 weeks ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 1 week ago) - Alwatr Accelerated NGINX
 
 ## 👓 My recent Pull Requests
 
 
 
-- [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (4 weeks ago)
+- [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (1 month ago)
 
 - [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (1 month ago)
 
