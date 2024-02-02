@@ -61,7 +61,7 @@
 
 
 
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.1.0), 1 day ago) - Alwatr Fract: an application development framework
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.1.0), 2 days ago) - Alwatr Fract: an application development framework
 
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 1 week ago) - Alwatr Accelerated NGINX
 
@@ -79,7 +79,7 @@
 
 - [feat: gecut next](https://github.com/gecut/gecut/pull/481) on [gecut/gecut](https://github.com/gecut/gecut) (1 month ago)
 
-- [feat(`*`): vite bundler initial](https://github.com/gecut/gecut/pull/479) on [gecut/gecut](https://github.com/gecut/gecut) (1 month ago)
+- [feat(`*`): vite bundler initial](https://github.com/gecut/gecut/pull/479) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
 - [feat(apps/persianpart): v2](https://github.com/gecut/gecut/pull/473) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
@@ -147,7 +147,7 @@
 
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) (3 weeks ago)
 
-- [cssnano/cssnano](https://github.com/cssnano/cssnano) (4 weeks ago)
+- [cssnano/cssnano](https://github.com/cssnano/cssnano) (1 month ago)
 
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) (1 month ago)
 
@@ -159,7 +159,7 @@
 
 - [release-it/release-it](https://github.com/release-it/release-it) (1 month ago)
 
-- [nodejs/corepack](https://github.com/nodejs/corepack) (1 month ago)
+- [nodejs/corepack](https://github.com/nodejs/corepack) (2 months ago)
 
 - [moesaid/cleopatra](https://github.com/moesaid/cleopatra) (2 months ago)
 
