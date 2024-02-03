@@ -61,7 +61,7 @@
 
 
 
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.1.0), 2 days ago) - Alwatr Fract: an application development framework
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.1.0), 3 days ago) - Alwatr Fract: an application development framework
 
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 1 week ago) - Alwatr Accelerated NGINX
 
@@ -77,7 +77,7 @@
 
 - [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (1 month ago)
 
-- [feat: gecut next](https://github.com/gecut/gecut/pull/481) on [gecut/gecut](https://github.com/gecut/gecut) (1 month ago)
+- [feat: gecut next](https://github.com/gecut/gecut/pull/481) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
 - [feat(`*`): vite bundler initial](https://github.com/gecut/gecut/pull/479) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
@@ -127,9 +127,9 @@
 
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (2 weeks ago)
 
-- [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) (2 weeks ago)
+- [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) (3 weeks ago)
 
-- [colinhacks/zod](https://github.com/colinhacks/zod) (2 weeks ago)
+- [colinhacks/zod](https://github.com/colinhacks/zod) (3 weeks ago)
 
 - [finom/seemple](https://github.com/finom/seemple) (3 weeks ago)
 
