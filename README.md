@@ -37,9 +37,9 @@
 
 
 
-- [gecut/erfan.pics](https://github.com/gecut/erfan.pics) - A JamStack Online Gallery (today)
+- [gecut/erfan.pics](https://github.com/gecut/erfan.pics) - A JamStack Online Gallery (1 day ago)
 
-- [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (1 day ago)
+- [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (2 days ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (3 weeks ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.1.0), 4 days ago) - Alwatr Fract: an application development framework
+- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.1.0), 5 days ago) - Alwatr Fract: an application development framework
 
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 1 week ago) - Alwatr Accelerated NGINX
 
@@ -123,33 +123,33 @@
 
 
 
-- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (1 day ago)
+- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (2 days ago)
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (1 day ago)
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (2 days ago)
 
-- [jameslittle230/stork](https://github.com/jameslittle230/stork) (1 day ago)
+- [jameslittle230/stork](https://github.com/jameslittle230/stork) (2 days ago)
 
-- [formspree/formspree](https://github.com/formspree/formspree) (1 day ago)
+- [formspree/formspree](https://github.com/formspree/formspree) (2 days ago)
 
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) (1 day ago)
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) (2 days ago)
 
-- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) (1 day ago)
+- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) (2 days ago)
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) (2 days ago)
 
-- [gridsome/gridsome](https://github.com/gridsome/gridsome) (1 day ago)
+- [gridsome/gridsome](https://github.com/gridsome/gridsome) (2 days ago)
 
-- [getgridea/gridea](https://github.com/getgridea/gridea) (1 day ago)
+- [getgridea/gridea](https://github.com/getgridea/gridea) (2 days ago)
 
-- [vercel/vercel](https://github.com/vercel/vercel) (1 day ago)
+- [vercel/vercel](https://github.com/vercel/vercel) (2 days ago)
 
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) (1 day ago)
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) (2 days ago)
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) (1 day ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) (2 days ago)
 
-- [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) (1 day ago)
+- [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) (2 days ago)
 
-- [sampotts/plyr](https://github.com/sampotts/plyr) (1 day ago)
+- [sampotts/plyr](https://github.com/sampotts/plyr) (2 days ago)
 
 - [nginx/njs-examples](https://github.com/nginx/njs-examples) (1 week ago)
 
