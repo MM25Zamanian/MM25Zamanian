@@ -37,11 +37,11 @@
 
 
 
-- [gecut/erfan.pics](https://github.com/gecut/erfan.pics) - A JamStack Online Gallery (1 day ago)
+- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (1 day ago)
 
-- [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (2 days ago)
+- [gecut/erfan.pics](https://github.com/gecut/erfan.pics) - A JamStack Online Gallery (2 days ago)
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (3 weeks ago)
+- [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (3 days ago)
 
 ## ☂️ My latest projects
 
@@ -61,9 +61,9 @@
 
 
 
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.1.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.1.0), 5 days ago) - Alwatr Fract: an application development framework
+- [gecut/utilties](https://github.com/gecut/utilties) ([2.0.1](https://github.com/gecut/utilties/releases/tag/2.0.1), 1 day ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.1](https://github.com/Alwatr/nginx/releases/tag/v2.4.1), 1 week ago) - Alwatr Accelerated NGINX
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.2](https://github.com/Alwatr/pmpa/releases/tag/v1.1.2), 1 day ago) - Progressive Multi Page (Web) Application.
 
 ## 👓 My recent Pull Requests
 
@@ -123,33 +123,33 @@
 
 
 
-- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (2 days ago)
+- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (3 days ago)
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (2 days ago)
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (3 days ago)
 
-- [jameslittle230/stork](https://github.com/jameslittle230/stork) (2 days ago)
+- [jameslittle230/stork](https://github.com/jameslittle230/stork) (3 days ago)
 
-- [formspree/formspree](https://github.com/formspree/formspree) (2 days ago)
+- [formspree/formspree](https://github.com/formspree/formspree) (3 days ago)
 
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) (2 days ago)
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) (3 days ago)
 
-- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) (2 days ago)
+- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) (3 days ago)
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) (2 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) (3 days ago)
 
-- [gridsome/gridsome](https://github.com/gridsome/gridsome) (2 days ago)
+- [gridsome/gridsome](https://github.com/gridsome/gridsome) (3 days ago)
 
-- [getgridea/gridea](https://github.com/getgridea/gridea) (2 days ago)
+- [getgridea/gridea](https://github.com/getgridea/gridea) (3 days ago)
 
-- [vercel/vercel](https://github.com/vercel/vercel) (2 days ago)
+- [vercel/vercel](https://github.com/vercel/vercel) (3 days ago)
 
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) (2 days ago)
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) (3 days ago)
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) (2 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) (3 days ago)
 
-- [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) (2 days ago)
+- [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) (3 days ago)
 
-- [sampotts/plyr](https://github.com/sampotts/plyr) (2 days ago)
+- [sampotts/plyr](https://github.com/sampotts/plyr) (3 days ago)
 
 - [nginx/njs-examples](https://github.com/nginx/njs-examples) (1 week ago)
 
