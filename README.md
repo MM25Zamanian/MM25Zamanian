@@ -37,11 +37,11 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (1 day ago)
+- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (2 days ago)
 
-- [gecut/erfan.pics](https://github.com/gecut/erfan.pics) - A JamStack Online Gallery (2 days ago)
+- [gecut/erfan.pics](https://github.com/gecut/erfan.pics) - A JamStack Online Gallery (3 days ago)
 
-- [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (3 days ago)
+- [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (4 days ago)
 
 ## ☂️ My latest projects
 
@@ -61,9 +61,9 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) ([2.0.1](https://github.com/gecut/utilties/releases/tag/2.0.1), 1 day ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
+- [gecut/utilties](https://github.com/gecut/utilties) ([2.0.1](https://github.com/gecut/utilties/releases/tag/2.0.1), 2 days ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.2](https://github.com/Alwatr/pmpa/releases/tag/v1.1.2), 1 day ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.1.2](https://github.com/Alwatr/pmpa/releases/tag/v1.1.2), 2 days ago) - Progressive Multi Page (Web) Application.
 
 ## 👓 My recent Pull Requests
 
@@ -123,35 +123,35 @@
 
 
 
-- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (3 days ago)
+- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (4 days ago)
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (3 days ago)
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (4 days ago)
 
-- [jameslittle230/stork](https://github.com/jameslittle230/stork) (3 days ago)
+- [jameslittle230/stork](https://github.com/jameslittle230/stork) (4 days ago)
 
-- [formspree/formspree](https://github.com/formspree/formspree) (3 days ago)
+- [formspree/formspree](https://github.com/formspree/formspree) (4 days ago)
 
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) (3 days ago)
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) (4 days ago)
 
-- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) (3 days ago)
+- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) (4 days ago)
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) (3 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) (4 days ago)
 
-- [gridsome/gridsome](https://github.com/gridsome/gridsome) (3 days ago)
+- [gridsome/gridsome](https://github.com/gridsome/gridsome) (4 days ago)
 
-- [getgridea/gridea](https://github.com/getgridea/gridea) (3 days ago)
+- [getgridea/gridea](https://github.com/getgridea/gridea) (4 days ago)
 
-- [vercel/vercel](https://github.com/vercel/vercel) (3 days ago)
+- [vercel/vercel](https://github.com/vercel/vercel) (4 days ago)
 
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) (3 days ago)
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) (4 days ago)
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) (3 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) (4 days ago)
 
-- [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) (3 days ago)
+- [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) (4 days ago)
 
-- [sampotts/plyr](https://github.com/sampotts/plyr) (3 days ago)
+- [sampotts/plyr](https://github.com/sampotts/plyr) (4 days ago)
 
-- [nginx/njs-examples](https://github.com/nginx/njs-examples) (1 week ago)
+- [nginx/njs-examples](https://github.com/nginx/njs-examples) (2 weeks ago)
 
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (3 weeks ago)
 
@@ -159,9 +159,9 @@
 
 - [colinhacks/zod](https://github.com/colinhacks/zod) (3 weeks ago)
 
-- [finom/seemple](https://github.com/finom/seemple) (3 weeks ago)
+- [finom/seemple](https://github.com/finom/seemple) (4 weeks ago)
 
-- [vuejs/vue](https://github.com/vuejs/vue) (3 weeks ago)
+- [vuejs/vue](https://github.com/vuejs/vue) (4 weeks ago)
 
 ## 📫 How to reach me
 
