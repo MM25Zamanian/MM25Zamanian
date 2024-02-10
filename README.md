@@ -37,11 +37,11 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (4 days ago)
+- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (1 day ago)
 
-- [gecut/erfan.pics](https://github.com/gecut/erfan.pics) - A JamStack Online Gallery (5 days ago)
+- [gecut/erfan.pics](https://github.com/gecut/erfan.pics) - A JamStack Online Gallery (6 days ago)
 
-- [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (6 days ago)
+- [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (1 week ago)
 
 ## ☂️ My latest projects
 
@@ -61,9 +61,9 @@
 
 
 
-- [Alwatr/fract](https://github.com/Alwatr/fract) ([@alwatr/style@2.2.0](https://github.com/Alwatr/fract/releases/tag/%40alwatr/style%402.2.0), 2 days ago) - Alwatr Fract: an application development framework
+- [gecut/utilties](https://github.com/gecut/utilties) ([v2.0.8](https://github.com/gecut/utilties/releases/tag/v2.0.8), 1 day ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.2.1](https://github.com/Alwatr/pmpa/releases/tag/v1.2.1), 2 days ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 1 day ago) - Alwatr Accelerated NGINX
 
 ## 👓 My recent Pull Requests
 
@@ -83,7 +83,7 @@
 
 - [feat(apps/persianpart): v2](https://github.com/gecut/gecut/pull/473) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
-- [feat(core/log): new core package](https://github.com/gecut/gecut/pull/460) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
+- [feat(core/log): new core package](https://github.com/gecut/gecut/pull/460) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
 
 - [feat(maintain): update nx &amp; yarn 4](https://github.com/gecut/gecut/pull/459) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
 
@@ -123,41 +123,41 @@
 
 
 
-- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (6 days ago)
+- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (1 week ago)
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (6 days ago)
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (1 week ago)
 
-- [jameslittle230/stork](https://github.com/jameslittle230/stork) (6 days ago)
+- [jameslittle230/stork](https://github.com/jameslittle230/stork) (1 week ago)
 
-- [formspree/formspree](https://github.com/formspree/formspree) (6 days ago)
+- [formspree/formspree](https://github.com/formspree/formspree) (1 week ago)
 
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) (6 days ago)
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) (1 week ago)
 
-- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) (6 days ago)
+- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) (1 week ago)
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) (6 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) (1 week ago)
 
-- [gridsome/gridsome](https://github.com/gridsome/gridsome) (6 days ago)
+- [gridsome/gridsome](https://github.com/gridsome/gridsome) (1 week ago)
 
-- [getgridea/gridea](https://github.com/getgridea/gridea) (6 days ago)
+- [getgridea/gridea](https://github.com/getgridea/gridea) (1 week ago)
 
-- [vercel/vercel](https://github.com/vercel/vercel) (6 days ago)
+- [vercel/vercel](https://github.com/vercel/vercel) (1 week ago)
 
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) (6 days ago)
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) (1 week ago)
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) (6 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) (1 week ago)
 
-- [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) (6 days ago)
+- [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) (1 week ago)
 
-- [sampotts/plyr](https://github.com/sampotts/plyr) (6 days ago)
+- [sampotts/plyr](https://github.com/sampotts/plyr) (1 week ago)
 
 - [nginx/njs-examples](https://github.com/nginx/njs-examples) (2 weeks ago)
 
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (3 weeks ago)
 
-- [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) (3 weeks ago)
+- [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) (4 weeks ago)
 
-- [colinhacks/zod](https://github.com/colinhacks/zod) (3 weeks ago)
+- [colinhacks/zod](https://github.com/colinhacks/zod) (4 weeks ago)
 
 - [finom/seemple](https://github.com/finom/seemple) (1 month ago)
 
