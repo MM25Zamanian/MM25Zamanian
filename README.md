@@ -37,9 +37,9 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (1 day ago)
+- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (2 days ago)
 
-- [gecut/erfan.pics](https://github.com/gecut/erfan.pics) - A JamStack Online Gallery (6 days ago)
+- [gecut/erfan.pics](https://github.com/gecut/erfan.pics) - A JamStack Online Gallery (1 week ago)
 
 - [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (1 week ago)
 
@@ -61,9 +61,9 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) ([v2.0.8](https://github.com/gecut/utilties/releases/tag/v2.0.8), 1 day ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
+- [gecut/utilties](https://github.com/gecut/utilties) ([v2.0.8](https://github.com/gecut/utilties/releases/tag/v2.0.8), 2 days ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 1 day ago) - Alwatr Accelerated NGINX
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 2 days ago) - Alwatr Accelerated NGINX
 
 ## 👓 My recent Pull Requests
 
@@ -153,7 +153,7 @@
 
 - [nginx/njs-examples](https://github.com/nginx/njs-examples) (2 weeks ago)
 
-- [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (3 weeks ago)
+- [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (4 weeks ago)
 
 - [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) (4 weeks ago)
 
