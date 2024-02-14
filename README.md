@@ -37,11 +37,11 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (4 days ago)
-
-- [gecut/erfan.pics](https://github.com/gecut/erfan.pics) - A JamStack Online Gallery (1 week ago)
+- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (5 days ago)
 
 - [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (1 week ago)
+
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 month ago)
 
 ## ☂️ My latest projects
 
@@ -61,9 +61,9 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) ([v2.0.8](https://github.com/gecut/utilties/releases/tag/v2.0.8), 4 days ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
+- [gecut/utilties](https://github.com/gecut/utilties) ([v2.0.8](https://github.com/gecut/utilties/releases/tag/v2.0.8), 5 days ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 4 days ago) - Alwatr Accelerated NGINX
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 5 days ago) - Alwatr Accelerated NGINX
 
 ## 👓 My recent Pull Requests
 
@@ -151,7 +151,7 @@
 
 - [sampotts/plyr](https://github.com/sampotts/plyr) (1 week ago)
 
-- [nginx/njs-examples](https://github.com/nginx/njs-examples) (2 weeks ago)
+- [nginx/njs-examples](https://github.com/nginx/njs-examples) (3 weeks ago)
 
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (1 month ago)
 
