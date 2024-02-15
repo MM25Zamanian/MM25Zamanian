@@ -37,7 +37,7 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (5 days ago)
+- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (6 days ago)
 
 - [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (1 week ago)
 
@@ -61,9 +61,9 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) ([v2.0.8](https://github.com/gecut/utilties/releases/tag/v2.0.8), 5 days ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
+- [gecut/utilties](https://github.com/gecut/utilties) ([v2.0.8](https://github.com/gecut/utilties/releases/tag/v2.0.8), 6 days ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 5 days ago) - Alwatr Accelerated NGINX
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 6 days ago) - Alwatr Accelerated NGINX
 
 ## 👓 My recent Pull Requests
 
@@ -111,7 +111,7 @@
 
 - [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (5 months ago)
 
-- [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (5 months ago)
+- [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (6 months ago)
 
 - [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/344) on [gecut/gecut](https://github.com/gecut/gecut) (6 months ago)
 
