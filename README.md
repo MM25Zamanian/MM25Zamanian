@@ -37,9 +37,9 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (1 day ago)
+- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (2 days ago)
 
-- [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (1 week ago)
+- [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (2 weeks ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 month ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) ([v2.1.2](https://github.com/gecut/utilties/releases/tag/v2.1.2), 1 day ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
+- [gecut/utilties](https://github.com/gecut/utilties) ([v2.1.2](https://github.com/gecut/utilties/releases/tag/v2.1.2), 2 days ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
 
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 1 week ago) - Alwatr Accelerated NGINX
 
@@ -109,7 +109,7 @@
 
 - [feat: hami 2](https://github.com/gecut/gecut/pull/362) on [gecut/gecut](https://github.com/gecut/gecut) (5 months ago)
 
-- [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (5 months ago)
+- [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (6 months ago)
 
 - [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (6 months ago)
 
@@ -123,33 +123,33 @@
 
 
 
-- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (1 week ago)
+- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (2 weeks ago)
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (1 week ago)
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (2 weeks ago)
 
-- [jameslittle230/stork](https://github.com/jameslittle230/stork) (1 week ago)
+- [jameslittle230/stork](https://github.com/jameslittle230/stork) (2 weeks ago)
 
-- [formspree/formspree](https://github.com/formspree/formspree) (1 week ago)
+- [formspree/formspree](https://github.com/formspree/formspree) (2 weeks ago)
 
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) (1 week ago)
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) (2 weeks ago)
 
-- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) (1 week ago)
+- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) (2 weeks ago)
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) (1 week ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) (2 weeks ago)
 
-- [gridsome/gridsome](https://github.com/gridsome/gridsome) (1 week ago)
+- [gridsome/gridsome](https://github.com/gridsome/gridsome) (2 weeks ago)
 
-- [getgridea/gridea](https://github.com/getgridea/gridea) (1 week ago)
+- [getgridea/gridea](https://github.com/getgridea/gridea) (2 weeks ago)
 
-- [vercel/vercel](https://github.com/vercel/vercel) (1 week ago)
+- [vercel/vercel](https://github.com/vercel/vercel) (2 weeks ago)
 
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) (1 week ago)
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) (2 weeks ago)
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) (1 week ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) (2 weeks ago)
 
-- [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) (1 week ago)
+- [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) (2 weeks ago)
 
-- [sampotts/plyr](https://github.com/sampotts/plyr) (1 week ago)
+- [sampotts/plyr](https://github.com/sampotts/plyr) (2 weeks ago)
 
 - [nginx/njs-examples](https://github.com/nginx/njs-examples) (3 weeks ago)
 
