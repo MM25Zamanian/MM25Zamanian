@@ -37,7 +37,7 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (3 days ago)
+- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (4 days ago)
 
 - [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (2 weeks ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) ([v2.1.2](https://github.com/gecut/utilties/releases/tag/v2.1.2), 3 days ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
+- [gecut/utilties](https://github.com/gecut/utilties) ([v2.1.2](https://github.com/gecut/utilties/releases/tag/v2.1.2), 4 days ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
 
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 1 week ago) - Alwatr Accelerated NGINX
 
@@ -85,9 +85,9 @@
 
 - [feat(ui/components/navigation-bar): new components](https://github.com/gecut/gecut/pull/442) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
 
-- [feat(ui/lit-helper): search list page](https://github.com/gecut/gecut/pull/431) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
+- [feat(ui/lit-helper): search list page](https://github.com/gecut/gecut/pull/431) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
-- [feat(admin-panel): django](https://github.com/gecut/gecut/pull/430) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
+- [feat(admin-panel): django](https://github.com/gecut/gecut/pull/430) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
 - [feat(cloud/api): run with bun](https://github.com/gecut/gecut/pull/428) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
@@ -95,9 +95,9 @@
 
 - [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/400) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
-- [release(`1.1.0`): new version](https://github.com/gecut/gecut/pull/391) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
+- [release(`1.1.0`): new version](https://github.com/gecut/gecut/pull/391) on [gecut/gecut](https://github.com/gecut/gecut) (5 months ago)
 
-- [feat(workflows) initial `GitHub code scanning`](https://github.com/gecut/gecut/pull/390) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
+- [feat(workflows) initial `GitHub code scanning`](https://github.com/gecut/gecut/pull/390) on [gecut/gecut](https://github.com/gecut/gecut) (5 months ago)
 
 - [feat(ui/lit-helper): new ui package](https://github.com/gecut/gecut/pull/380) on [gecut/gecut](https://github.com/gecut/gecut) (5 months ago)
 
@@ -123,7 +123,7 @@
 
 
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) (1 day ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) (2 days ago)
 
 - [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (2 weeks ago)
 
