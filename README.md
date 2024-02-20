@@ -37,7 +37,7 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (4 days ago)
+- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (1 day ago)
 
 - [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (2 weeks ago)
 
@@ -61,13 +61,15 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) ([v2.1.2](https://github.com/gecut/utilties/releases/tag/v2.1.2), 4 days ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
+- [gecut/utilties](https://github.com/gecut/utilties) ([v3.0.2-pre.4](https://github.com/gecut/utilties/releases/tag/v3.0.2-pre.4), 1 day ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
 
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 1 week ago) - Alwatr Accelerated NGINX
 
 ## 👓 My recent Pull Requests
 
 
+
+- [release v4.0.0](https://github.com/gecut/utilties/pull/1) on [gecut/utilties](https://github.com/gecut/utilties) (1 day ago)
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (1 month ago)
 
@@ -117,13 +119,11 @@
 
 - [feat(apps/persianpart-pwa): delete icon button](https://github.com/gecut/gecut/pull/338) on [gecut/gecut](https://github.com/gecut/gecut) (6 months ago)
 
-- [refactor(apps/hami-pwa): base structure and UI ](https://github.com/gecut/gecut/pull/331) on [gecut/gecut](https://github.com/gecut/gecut) (6 months ago)
-
 ## ⭐ Recent Stars
 
 
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) (2 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) (3 days ago)
 
 - [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (2 weeks ago)
 
