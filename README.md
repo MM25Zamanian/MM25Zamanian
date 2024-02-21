@@ -37,11 +37,11 @@
 
 
 
+- [gecut/types](https://github.com/gecut/types) - Internal types for Gecut Company (1 day ago)
+
 - [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (1 day ago)
 
-- [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (2 weeks ago)
-
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 month ago)
+- [gecut/components](https://github.com/gecut/components) - A collection of high-performance and beautiful UI components with Tailwind CSS, optimized for MJS &amp; CJS usage. (1 day ago)
 
 ## ☂️ My latest projects
 
@@ -61,15 +61,15 @@
 
 
 
-- [gecut/utilties](https://github.com/gecut/utilties) ([v3.0.2-pre.4](https://github.com/gecut/utilties/releases/tag/v3.0.2-pre.4), 1 day ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
+- [gecut/types](https://github.com/gecut/types) ([v1.0.0](https://github.com/gecut/types/releases/tag/v1.0.0), 1 day ago) - Internal types for Gecut Company
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.4.2](https://github.com/Alwatr/nginx/releases/tag/v2.4.2), 1 week ago) - Alwatr Accelerated NGINX
+- [gecut/components](https://github.com/gecut/components) ([v1.0.0](https://github.com/gecut/components/releases/tag/v1.0.0), 1 day ago) - A collection of high-performance and beautiful UI components with Tailwind CSS, optimized for MJS &amp; CJS usage.
 
 ## 👓 My recent Pull Requests
 
 
 
-- [release v4.0.0](https://github.com/gecut/utilties/pull/1) on [gecut/utilties](https://github.com/gecut/utilties) (1 day ago)
+- [release v4.0.0](https://github.com/gecut/utilties/pull/1) on [gecut/utilties](https://github.com/gecut/utilties) (2 days ago)
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (1 month ago)
 
@@ -123,7 +123,7 @@
 
 
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) (3 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) (4 days ago)
 
 - [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (2 weeks ago)
 
@@ -153,7 +153,7 @@
 
 - [sampotts/plyr](https://github.com/sampotts/plyr) (2 weeks ago)
 
-- [nginx/njs-examples](https://github.com/nginx/njs-examples) (3 weeks ago)
+- [nginx/njs-examples](https://github.com/nginx/njs-examples) (4 weeks ago)
 
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (1 month ago)
 
