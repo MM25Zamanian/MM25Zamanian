@@ -37,11 +37,11 @@
 
 
 
-- [gecut/types](https://github.com/gecut/types) - Internal types for Gecut Company (2 days ago)
+- [gecut/base-template](https://github.com/gecut/base-template) - Base template for TypeScript libraries developed by Gecut, featuring Alwatr Nano Build, Super Fast Builder, automatic release, and more. (1 day ago)
 
-- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (2 days ago)
+- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (3 days ago)
 
-- [gecut/components](https://github.com/gecut/components) - A collection of high-performance and beautiful UI components with Tailwind CSS, optimized for MJS &amp; CJS usage. (2 days ago)
+- [gecut/components](https://github.com/gecut/components) - A collection of high-performance and beautiful UI components with Tailwind CSS, optimized for MJS &amp; CJS usage. (3 days ago)
 
 ## ☂️ My latest projects
 
@@ -61,15 +61,15 @@
 
 
 
-- [gecut/types](https://github.com/gecut/types) ([v1.0.0](https://github.com/gecut/types/releases/tag/v1.0.0), 2 days ago) - Internal types for Gecut Company
+- [gecut/base-template](https://github.com/gecut/base-template) ([v1.0.0](https://github.com/gecut/base-template/releases/tag/v1.0.0), 1 day ago) - Base template for TypeScript libraries developed by Gecut, featuring Alwatr Nano Build, Super Fast Builder, automatic release, and more.
 
-- [gecut/components](https://github.com/gecut/components) ([v1.0.0](https://github.com/gecut/components/releases/tag/v1.0.0), 2 days ago) - A collection of high-performance and beautiful UI components with Tailwind CSS, optimized for MJS &amp; CJS usage.
+- [gecut/types](https://github.com/gecut/types) ([v1.0.0](https://github.com/gecut/types/releases/tag/v1.0.0), 3 days ago) - Internal types for Gecut Company
 
 ## 👓 My recent Pull Requests
 
 
 
-- [release v4.0.0](https://github.com/gecut/utilties/pull/1) on [gecut/utilties](https://github.com/gecut/utilties) (3 days ago)
+- [release v4.0.0](https://github.com/gecut/utilties/pull/1) on [gecut/utilties](https://github.com/gecut/utilties) (4 days ago)
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (1 month ago)
 
@@ -85,7 +85,7 @@
 
 - [feat(maintain): update nx &amp; yarn 4](https://github.com/gecut/gecut/pull/459) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
 
-- [feat(ui/components/navigation-bar): new components](https://github.com/gecut/gecut/pull/442) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
+- [feat(ui/components/navigation-bar): new components](https://github.com/gecut/gecut/pull/442) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
 - [feat(ui/lit-helper): search list page](https://github.com/gecut/gecut/pull/431) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
 
@@ -123,7 +123,7 @@
 
 
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) (5 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) (6 days ago)
 
 - [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (2 weeks ago)
 
@@ -153,7 +153,7 @@
 
 - [sampotts/plyr](https://github.com/sampotts/plyr) (2 weeks ago)
 
-- [nginx/njs-examples](https://github.com/nginx/njs-examples) (4 weeks ago)
+- [nginx/njs-examples](https://github.com/nginx/njs-examples) (1 month ago)
 
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (1 month ago)
 
