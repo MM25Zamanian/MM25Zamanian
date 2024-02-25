@@ -37,11 +37,11 @@
 
 
 
-- [MM25Zamanian/lit-helper](https://github.com/MM25Zamanian/lit-helper) - High-performance productivity helpers including custom directives, custom decorators, and base class for Lit, a lightweight web components library. (1 day ago)
+- [MM25Zamanian/lit-helper](https://github.com/MM25Zamanian/lit-helper) - High-performance productivity helpers including custom directives, custom decorators, and base class for Lit, a lightweight web components library. (2 days ago)
 
-- [gecut/base-template](https://github.com/gecut/base-template) - Base template for TypeScript libraries developed by Gecut, featuring Alwatr Nano Build, Super Fast Builder, automatic release, and more. (2 days ago)
+- [gecut/base-template](https://github.com/gecut/base-template) - Base template for TypeScript libraries developed by Gecut, featuring Alwatr Nano Build, Super Fast Builder, automatic release, and more. (3 days ago)
 
-- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (4 days ago)
+- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (5 days ago)
 
 ## ☂️ My latest projects
 
@@ -61,15 +61,15 @@
 
 
 
-- [gecut/base-template](https://github.com/gecut/base-template) ([v1.0.0](https://github.com/gecut/base-template/releases/tag/v1.0.0), 2 days ago) - Base template for TypeScript libraries developed by Gecut, featuring Alwatr Nano Build, Super Fast Builder, automatic release, and more.
+- [gecut/base-template](https://github.com/gecut/base-template) ([v1.0.0](https://github.com/gecut/base-template/releases/tag/v1.0.0), 3 days ago) - Base template for TypeScript libraries developed by Gecut, featuring Alwatr Nano Build, Super Fast Builder, automatic release, and more.
 
-- [gecut/types](https://github.com/gecut/types) ([v1.0.0](https://github.com/gecut/types/releases/tag/v1.0.0), 4 days ago) - Internal types for Gecut Company
+- [gecut/types](https://github.com/gecut/types) ([v1.0.0](https://github.com/gecut/types/releases/tag/v1.0.0), 5 days ago) - Internal types for Gecut Company
 
 ## 👓 My recent Pull Requests
 
 
 
-- [release v4.0.0](https://github.com/gecut/utilties/pull/1) on [gecut/utilties](https://github.com/gecut/utilties) (5 days ago)
+- [release v4.0.0](https://github.com/gecut/utilties/pull/1) on [gecut/utilties](https://github.com/gecut/utilties) (6 days ago)
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (1 month ago)
 
@@ -79,7 +79,7 @@
 
 - [feat(`*`): vite bundler initial](https://github.com/gecut/gecut/pull/479) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
-- [feat(apps/persianpart): v2](https://github.com/gecut/gecut/pull/473) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
+- [feat(apps/persianpart): v2](https://github.com/gecut/gecut/pull/473) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
 
 - [feat(core/log): new core package](https://github.com/gecut/gecut/pull/460) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
 
