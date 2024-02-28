@@ -37,9 +37,9 @@
 
 
 
-- [gecut/lit-helper](https://github.com/gecut/lit-helper) - High-performance productivity helpers including custom directives, custom decorators, and base class for Lit, a lightweight web components library. (today)
+- [gecut/lit-helper](https://github.com/gecut/lit-helper) - High-performance productivity helpers including custom directives, custom decorators, and base class for Lit, a lightweight web components library. (1 day ago)
 
-- [gecut/base-template](https://github.com/gecut/base-template) - Base template for TypeScript libraries developed by Gecut, featuring Alwatr Nano Build, Super Fast Builder, automatic release, and more. (5 days ago)
+- [gecut/base-template](https://github.com/gecut/base-template) - Base template for TypeScript libraries developed by Gecut, featuring Alwatr Nano Build, Super Fast Builder, automatic release, and more. (6 days ago)
 
 - [gecut/types](https://github.com/gecut/types) - Internal types for Gecut Company (1 week ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [gecut/base-template](https://github.com/gecut/base-template) ([v1.0.0](https://github.com/gecut/base-template/releases/tag/v1.0.0), 5 days ago) - Base template for TypeScript libraries developed by Gecut, featuring Alwatr Nano Build, Super Fast Builder, automatic release, and more.
+- [gecut/base-template](https://github.com/gecut/base-template) ([v1.0.0](https://github.com/gecut/base-template/releases/tag/v1.0.0), 6 days ago) - Base template for TypeScript libraries developed by Gecut, featuring Alwatr Nano Build, Super Fast Builder, automatic release, and more.
 
 - [gecut/types](https://github.com/gecut/types) ([v1.0.0](https://github.com/gecut/types/releases/tag/v1.0.0), 1 week ago) - Internal types for Gecut Company
 
@@ -73,7 +73,7 @@
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (1 month ago)
 
-- [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (1 month ago)
+- [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (2 months ago)
 
 - [feat: gecut next](https://github.com/gecut/gecut/pull/481) on [gecut/gecut](https://github.com/gecut/gecut) (2 months ago)
 
