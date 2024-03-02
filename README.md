@@ -37,11 +37,11 @@
 
 
 
-- [gecut/lit-helper](https://github.com/gecut/lit-helper) - High-performance productivity helpers including custom directives, custom decorators, and base class for Lit, a lightweight web components library. (3 days ago)
-
-- [gecut/base-template](https://github.com/gecut/base-template) - Base template for TypeScript libraries developed by Gecut, featuring Alwatr Nano Build, Super Fast Builder, automatic release, and more. (1 week ago)
+- [gecut/lit-helper](https://github.com/gecut/lit-helper) - High-performance productivity helpers including custom directives, custom decorators, and base class for Lit, a lightweight web components library. (4 days ago)
 
 - [gecut/types](https://github.com/gecut/types) - Internal types for Gecut Company (1 week ago)
+
+- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (1 week ago)
 
 ## ☂️ My latest projects
 
@@ -61,9 +61,9 @@
 
 
 
-- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) ([v12.1](https://github.com/moonlight-stream/moonlight-android/releases/tag/v12.1), 2 days ago) - GameStream client for Android
+- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) ([v12.1](https://github.com/moonlight-stream/moonlight-android/releases/tag/v12.1), 3 days ago) - GameStream client for Android
 
-- [gecut/base-template](https://github.com/gecut/base-template) ([v1.0.0](https://github.com/gecut/base-template/releases/tag/v1.0.0), 1 week ago) - Base template for TypeScript libraries developed by Gecut, featuring Alwatr Nano Build, Super Fast Builder, automatic release, and more.
+- [gecut/types](https://github.com/gecut/types) ([v1.0.0](https://github.com/gecut/types/releases/tag/v1.0.0), 1 week ago) - Internal types for Gecut Company
 
 ## 👓 My recent Pull Requests
 
@@ -71,7 +71,7 @@
 
 - [release v4.0.0](https://github.com/gecut/utilties/pull/1) on [gecut/utilties](https://github.com/gecut/utilties) (1 week ago)
 
-- [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (1 month ago)
+- [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (2 months ago)
 
 - [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (2 months ago)
 
@@ -123,35 +123,35 @@
 
 
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) (1 week ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) (2 weeks ago)
 
-- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (3 weeks ago)
+- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (4 weeks ago)
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (3 weeks ago)
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (4 weeks ago)
 
-- [jameslittle230/stork](https://github.com/jameslittle230/stork) (3 weeks ago)
+- [jameslittle230/stork](https://github.com/jameslittle230/stork) (4 weeks ago)
 
-- [formspree/formspree](https://github.com/formspree/formspree) (3 weeks ago)
+- [formspree/formspree](https://github.com/formspree/formspree) (4 weeks ago)
 
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) (3 weeks ago)
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) (4 weeks ago)
 
-- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) (3 weeks ago)
+- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) (4 weeks ago)
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) (3 weeks ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) (4 weeks ago)
 
-- [gridsome/gridsome](https://github.com/gridsome/gridsome) (3 weeks ago)
+- [gridsome/gridsome](https://github.com/gridsome/gridsome) (4 weeks ago)
 
-- [getgridea/gridea](https://github.com/getgridea/gridea) (3 weeks ago)
+- [getgridea/gridea](https://github.com/getgridea/gridea) (4 weeks ago)
 
-- [vercel/vercel](https://github.com/vercel/vercel) (3 weeks ago)
+- [vercel/vercel](https://github.com/vercel/vercel) (4 weeks ago)
 
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) (3 weeks ago)
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) (4 weeks ago)
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) (3 weeks ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) (4 weeks ago)
 
-- [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) (3 weeks ago)
+- [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) (4 weeks ago)
 
-- [sampotts/plyr](https://github.com/sampotts/plyr) (3 weeks ago)
+- [sampotts/plyr](https://github.com/sampotts/plyr) (4 weeks ago)
 
 - [nginx/njs-examples](https://github.com/nginx/njs-examples) (1 month ago)
 
