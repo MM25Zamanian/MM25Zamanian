@@ -37,11 +37,11 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (2 days ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (1 day ago)
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (2 days ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 day ago)
 
-- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (3 days ago)
+- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (4 days ago)
 
 ## ☂️ My latest projects
 
@@ -61,9 +61,9 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.0.0](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.0.0), 2 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.0.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.0.0), 1 day ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
-- [gecut/utilties](https://github.com/gecut/utilties) ([v5.0.1-pre.0](https://github.com/gecut/utilties/releases/tag/v5.0.1-pre.0), 4 days ago) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/types@2.1.1-alpha.0](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/types%402.1.1-alpha.0), 1 day ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 ## 👓 My recent Pull Requests
 
@@ -123,6 +123,8 @@
 
 
 
+- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) (1 day ago)
+
 - [zed-industries/zed](https://github.com/zed-industries/zed) (2 weeks ago)
 
 - [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (1 month ago)
@@ -160,8 +162,6 @@
 - [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) (1 month ago)
 
 - [colinhacks/zod](https://github.com/colinhacks/zod) (1 month ago)
-
-- [finom/seemple](https://github.com/finom/seemple) (1 month ago)
 
 ## 📫 How to reach me
 
