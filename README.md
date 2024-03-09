@@ -37,11 +37,11 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (2 days ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (3 days ago)
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (2 days ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (3 days ago)
 
-- [gecut/utilties](https://github.com/gecut/utilties) - The ultimate utility toolkit from Gecut Company, crafted with TypeScript for optimal speed and efficiency. Designed to boost productivity with a suite of fast and optimized tools. (5 days ago)
+- [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (1 month ago)
 
 ## ☂️ My latest projects
 
@@ -61,71 +61,27 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.0.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.0.0), 2 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.0.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.0.0), 3 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/types@2.1.1-alpha.0](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/types%402.1.1-alpha.0), 2 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/types@2.1.1-alpha.0](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/types%402.1.1-alpha.0), 3 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 ## 👓 My recent Pull Requests
 
 
 
-- [release v4.0.0](https://github.com/gecut/utilties/pull/1) on [gecut/utilties](https://github.com/gecut/utilties) (2 weeks ago)
-
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (2 months ago)
 
 - [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (2 months ago)
-
-- [feat: gecut next](https://github.com/gecut/gecut/pull/481) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
-
-- [feat(`*`): vite bundler initial](https://github.com/gecut/gecut/pull/479) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
-
-- [feat(apps/persianpart): v2](https://github.com/gecut/gecut/pull/473) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
-
-- [feat(core/log): new core package](https://github.com/gecut/gecut/pull/460) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
-
-- [feat(maintain): update nx &amp; yarn 4](https://github.com/gecut/gecut/pull/459) on [gecut/gecut](https://github.com/gecut/gecut) (3 months ago)
-
-- [feat(ui/components/navigation-bar): new components](https://github.com/gecut/gecut/pull/442) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
-
-- [feat(ui/lit-helper): search list page](https://github.com/gecut/gecut/pull/431) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
-
-- [feat(admin-panel): django](https://github.com/gecut/gecut/pull/430) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
-
-- [feat(cloud/api): run with bun](https://github.com/gecut/gecut/pull/428) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
-
-- [feat(ui/icons): new ui package](https://github.com/gecut/gecut/pull/427) on [gecut/gecut](https://github.com/gecut/gecut) (4 months ago)
-
-- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/400) on [gecut/gecut](https://github.com/gecut/gecut) (5 months ago)
-
-- [release(`1.1.0`): new version](https://github.com/gecut/gecut/pull/391) on [gecut/gecut](https://github.com/gecut/gecut) (5 months ago)
-
-- [feat(workflows) initial `GitHub code scanning`](https://github.com/gecut/gecut/pull/390) on [gecut/gecut](https://github.com/gecut/gecut) (5 months ago)
-
-- [feat(ui/lit-helper): new ui package](https://github.com/gecut/gecut/pull/380) on [gecut/gecut](https://github.com/gecut/gecut) (5 months ago)
-
-- [feat(apps/gtodo-pwa): complete app](https://github.com/gecut/gecut/pull/379) on [gecut/gecut](https://github.com/gecut/gecut) (5 months ago)
-
-- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/366) on [gecut/gecut](https://github.com/gecut/gecut) (6 months ago)
-
-- [feat(cloud): traefik init](https://github.com/gecut/gecut/pull/365) on [gecut/gecut](https://github.com/gecut/gecut) (6 months ago)
-
-- [feat: hami 2](https://github.com/gecut/gecut/pull/362) on [gecut/gecut](https://github.com/gecut/gecut) (6 months ago)
-
-- [release v0.2.0](https://github.com/gecut/gecut/pull/356) on [gecut/gecut](https://github.com/gecut/gecut) (6 months ago)
-
-- [refactor(ui/data-manager): services](https://github.com/gecut/gecut/pull/352) on [gecut/gecut](https://github.com/gecut/gecut) (6 months ago)
-
-- [feat(ui/data-manager): new ui package](https://github.com/gecut/gecut/pull/344) on [gecut/gecut](https://github.com/gecut/gecut) (6 months ago)
-
-- [feat(apps/persianpart-pwa): delete icon button](https://github.com/gecut/gecut/pull/338) on [gecut/gecut](https://github.com/gecut/gecut) (6 months ago)
 
 ## ⭐ Recent Stars
 
 
 
-- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) (2 days ago)
+- [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) (1 day ago)
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) (2 weeks ago)
+- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) (3 days ago)
+
+- [zed-industries/zed](https://github.com/zed-industries/zed) (3 weeks ago)
 
 - [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (1 month ago)
 
@@ -160,8 +116,6 @@
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (1 month ago)
 
 - [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) (1 month ago)
-
-- [colinhacks/zod](https://github.com/colinhacks/zod) (1 month ago)
 
 ## 📫 How to reach me
 
