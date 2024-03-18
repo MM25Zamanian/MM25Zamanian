@@ -81,7 +81,7 @@
 
 - [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) (1 week ago)
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) (4 weeks ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) (1 month ago)
 
 - [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (1 month ago)
 
