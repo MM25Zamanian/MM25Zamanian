@@ -37,9 +37,9 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 week ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (today)
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (1 week ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (2 weeks ago)
 
 - [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (1 month ago)
 
@@ -61,13 +61,15 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/components@2.0.1-alpha.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/components%402.0.1-alpha.0), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/components@2.1.0-alpha.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/components%402.1.0-alpha.0), today) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/types@2.1.1-alpha.0](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/types%402.1.1-alpha.0), 1 week ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/types@2.1.1-alpha.0](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/types%402.1.1-alpha.0), 2 weeks ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 ## 👓 My recent Pull Requests
 
 
+
+- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (today)
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (2 months ago)
 
@@ -79,7 +81,7 @@
 
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) (1 week ago)
 
-- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) (1 week ago)
+- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) (2 weeks ago)
 
 - [zed-industries/zed](https://github.com/zed-industries/zed) (1 month ago)
 
