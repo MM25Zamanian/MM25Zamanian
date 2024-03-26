@@ -37,7 +37,7 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (4 days ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (today)
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (2 weeks ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/components@2.1.0-alpha.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/components%402.1.0-alpha.0), 5 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/components@2.1.0-alpha.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/components%402.1.0-alpha.0), 6 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/types@2.1.1-alpha.0](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/types%402.1.1-alpha.0), 2 weeks ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
@@ -69,7 +69,7 @@
 
 
 
-- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (5 days ago)
+- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (6 days ago)
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (2 months ago)
 
@@ -79,7 +79,7 @@
 
 
 
-- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) (4 days ago)
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) (5 days ago)
 
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) (2 weeks ago)
 
