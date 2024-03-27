@@ -37,9 +37,9 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (today)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 day ago)
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (2 weeks ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (3 weeks ago)
 
 - [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (1 month ago)
 
@@ -61,15 +61,15 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/components@2.1.0-alpha.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/components%402.1.0-alpha.0), 6 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/components@2.1.0-alpha.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/components%402.1.0-alpha.0), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/types@2.1.1-alpha.0](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/types%402.1.1-alpha.0), 2 weeks ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/types@2.1.1-alpha.0](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/types%402.1.1-alpha.0), 3 weeks ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 ## 👓 My recent Pull Requests
 
 
 
-- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (6 days ago)
+- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 week ago)
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (2 months ago)
 
@@ -79,11 +79,19 @@
 
 
 
-- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) (5 days ago)
+- [continuedev/continue](https://github.com/continuedev/continue) (1 day ago)
+
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (1 day ago)
+
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) (1 day ago)
+
+- [3lf/design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) (1 day ago)
+
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) (6 days ago)
 
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) (2 weeks ago)
 
-- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) (2 weeks ago)
+- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) (3 weeks ago)
 
 - [zed-industries/zed](https://github.com/zed-industries/zed) (1 month ago)
 
@@ -110,14 +118,6 @@
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) (1 month ago)
 
 - [muesli/markscribe](https://github.com/muesli/markscribe) (1 month ago)
-
-- [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) (1 month ago)
-
-- [sampotts/plyr](https://github.com/sampotts/plyr) (1 month ago)
-
-- [nginx/njs-examples](https://github.com/nginx/njs-examples) (2 months ago)
-
-- [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) (2 months ago)
 
 ## 📫 How to reach me
 
