@@ -37,7 +37,7 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (5 days ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 day ago)
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (3 weeks ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.5.0](https://github.com/Alwatr/nginx/releases/tag/v2.5.0), 3 days ago) - Alwatr Accelerated NGINX
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.5.0](https://github.com/Alwatr/nginx/releases/tag/v2.5.0), 4 days ago) - Alwatr Accelerated NGINX
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/components@2.1.0-alpha.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/components%402.1.0-alpha.0), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
@@ -71,7 +71,7 @@
 
 - [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 week ago)
 
-- [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (2 months ago)
+- [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (3 months ago)
 
 - [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (3 months ago)
 
@@ -83,15 +83,15 @@
 
 
 
-- [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (2 days ago)
+- [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (3 days ago)
 
-- [continuedev/continue](https://github.com/continuedev/continue) (5 days ago)
+- [continuedev/continue](https://github.com/continuedev/continue) (6 days ago)
 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (5 days ago)
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (6 days ago)
 
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) (5 days ago)
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) (6 days ago)
 
-- [3lf/design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) (5 days ago)
+- [3lf/design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) (6 days ago)
 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) (1 week ago)
 
