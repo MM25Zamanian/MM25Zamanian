@@ -61,9 +61,9 @@
 
 
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.5.0](https://github.com/Alwatr/nginx/releases/tag/v2.5.0), 4 days ago) - Alwatr Accelerated NGINX
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/components@2.1.0-alpha.2](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/components%402.1.0-alpha.2), 1 day ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/components@2.1.0-alpha.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/components%402.1.0-alpha.0), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v2.5.0](https://github.com/Alwatr/nginx/releases/tag/v2.5.0), 5 days ago) - Alwatr Accelerated NGINX
 
 ## 👓 My recent Pull Requests
 
@@ -83,15 +83,15 @@
 
 
 
-- [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (3 days ago)
+- [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (4 days ago)
 
-- [continuedev/continue](https://github.com/continuedev/continue) (6 days ago)
+- [continuedev/continue](https://github.com/continuedev/continue) (1 week ago)
 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (6 days ago)
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (1 week ago)
 
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) (6 days ago)
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) (1 week ago)
 
-- [3lf/design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) (6 days ago)
+- [3lf/design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) (1 week ago)
 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) (1 week ago)
 
