@@ -37,9 +37,9 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (3 days ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (4 days ago)
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (4 weeks ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (1 month ago)
 
 - [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (2 months ago)
 
@@ -61,9 +61,9 @@
 
 
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 1 day ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 2 days ago) - Progressive Multi Page (Web) Application.
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/components@2.1.0-alpha.2](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/components%402.1.0-alpha.2), 3 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/components@2.1.0-alpha.2](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/components%402.1.0-alpha.2), 4 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
 ## 👓 My recent Pull Requests
 
@@ -83,7 +83,7 @@
 
 
 
-- [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (6 days ago)
+- [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (1 week ago)
 
 - [continuedev/continue](https://github.com/continuedev/continue) (1 week ago)
 
@@ -95,9 +95,9 @@
 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) (2 weeks ago)
 
-- [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) (3 weeks ago)
+- [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) (4 weeks ago)
 
-- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) (4 weeks ago)
+- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) (1 month ago)
 
 - [zed-industries/zed](https://github.com/zed-industries/zed) (1 month ago)
 
