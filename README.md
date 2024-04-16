@@ -87,13 +87,13 @@
 
 - [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (2 weeks ago)
 
-- [continuedev/continue](https://github.com/continuedev/continue) (2 weeks ago)
+- [continuedev/continue](https://github.com/continuedev/continue) (3 weeks ago)
 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (2 weeks ago)
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (3 weeks ago)
 
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) (2 weeks ago)
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) (3 weeks ago)
 
-- [3lf/design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) (2 weeks ago)
+- [3lf/design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) (3 weeks ago)
 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) (3 weeks ago)
 
