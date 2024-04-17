@@ -63,7 +63,7 @@
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/mixins@2.0.1](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/mixins%402.0.1), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 1 week ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 2 weeks ago) - Progressive Multi Page (Web) Application.
 
 ## 👓 My recent Pull Requests
 
@@ -71,7 +71,7 @@
 
 - [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 week ago)
 
-- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (3 weeks ago)
+- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (4 weeks ago)
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (3 months ago)
 
@@ -101,7 +101,7 @@
 
 - [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) (1 month ago)
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) (1 month ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) (2 months ago)
 
 - [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (2 months ago)
 
