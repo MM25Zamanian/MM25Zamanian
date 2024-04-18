@@ -95,7 +95,7 @@
 
 - [3lf/design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) (3 weeks ago)
 
-- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) (3 weeks ago)
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) (4 weeks ago)
 
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) (1 month ago)
 
