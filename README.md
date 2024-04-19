@@ -71,7 +71,7 @@
 
 - [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 week ago)
 
-- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (4 weeks ago)
+- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 month ago)
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (3 months ago)
 
@@ -85,7 +85,7 @@
 
 
 
-- [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (2 weeks ago)
+- [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (3 weeks ago)
 
 - [continuedev/continue](https://github.com/continuedev/continue) (3 weeks ago)
 
