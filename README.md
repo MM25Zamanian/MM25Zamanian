@@ -37,7 +37,7 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (5 days ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (6 days ago)
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (1 month ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.1.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.1.0), 5 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.1.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.1.0), 6 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
 - [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 3 weeks ago) - Progressive Multi Page (Web) Application.
 
@@ -69,9 +69,9 @@
 
 
 
-- [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (5 days ago)
+- [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (6 days ago)
 
-- [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (5 days ago)
+- [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (6 days ago)
 
 - [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (2 weeks ago)
 
@@ -89,17 +89,17 @@
 
 
 
-- [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) (4 days ago)
+- [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) (5 days ago)
 
 - [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (3 weeks ago)
 
-- [continuedev/continue](https://github.com/continuedev/continue) (4 weeks ago)
+- [continuedev/continue](https://github.com/continuedev/continue) (1 month ago)
 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (4 weeks ago)
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (1 month ago)
 
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) (4 weeks ago)
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) (1 month ago)
 
-- [3lf/design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) (4 weeks ago)
+- [3lf/design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) (1 month ago)
 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) (1 month ago)
 
