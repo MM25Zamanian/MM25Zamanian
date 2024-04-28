@@ -73,7 +73,7 @@
 
 - [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 week ago)
 
-- [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (2 weeks ago)
+- [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (3 weeks ago)
 
 - [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 month ago)
 
@@ -83,7 +83,7 @@
 
 - [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (3 months ago)
 
-- [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (3 months ago)
+- [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (4 months ago)
 
 ## ⭐ Recent Stars
 
@@ -91,7 +91,7 @@
 
 - [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) (1 week ago)
 
-- [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (4 weeks ago)
+- [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (1 month ago)
 
 - [continuedev/continue](https://github.com/continuedev/continue) (1 month ago)
 
