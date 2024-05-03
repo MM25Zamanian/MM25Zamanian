@@ -37,11 +37,11 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 week ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (2 weeks ago)
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (1 month ago)
 
-- [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (2 months ago)
+- [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (3 months ago)
 
 ## ☂️ My latest projects
 
@@ -61,17 +61,17 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.1.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.1.0), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.1.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.1.0), 2 weeks ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
-- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 4 weeks ago) - Progressive Multi Page (Web) Application.
+- [Alwatr/pmpa](https://github.com/Alwatr/pmpa) ([v1.6.2](https://github.com/Alwatr/pmpa/releases/tag/v1.6.2), 1 month ago) - Progressive Multi Page (Web) Application.
 
 ## 👓 My recent Pull Requests
 
 
 
-- [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 week ago)
+- [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (2 weeks ago)
 
-- [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 week ago)
+- [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (2 weeks ago)
 
 - [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (3 weeks ago)
 
@@ -89,9 +89,17 @@
 
 
 
-- [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) (4 days ago)
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) (1 day ago)
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) (4 days ago)
+- [rhinobase/hono-rate-limiter](https://github.com/rhinobase/hono-rate-limiter) (1 day ago)
+
+- [honojs/node-server](https://github.com/honojs/node-server) (1 day ago)
+
+- [honojs/honox](https://github.com/honojs/honox) (1 day ago)
+
+- [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) (5 days ago)
+
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) (5 days ago)
 
 - [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) (1 week ago)
 
@@ -113,21 +121,13 @@
 
 - [zed-industries/zed](https://github.com/zed-industries/zed) (2 months ago)
 
-- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (2 months ago)
+- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (3 months ago)
 
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (2 months ago)
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (3 months ago)
 
-- [jameslittle230/stork](https://github.com/jameslittle230/stork) (2 months ago)
+- [jameslittle230/stork](https://github.com/jameslittle230/stork) (3 months ago)
 
-- [formspree/formspree](https://github.com/formspree/formspree) (2 months ago)
-
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) (2 months ago)
-
-- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) (2 months ago)
-
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) (2 months ago)
-
-- [gridsome/gridsome](https://github.com/gridsome/gridsome) (2 months ago)
+- [formspree/formspree](https://github.com/formspree/formspree) (3 months ago)
 
 ## 📫 How to reach me
 
