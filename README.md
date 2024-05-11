@@ -37,7 +37,7 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (1 day ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (2 days ago)
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (3 weeks ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/utilities@5.2.1](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/utilities%405.2.1), 1 day ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/utilities@5.2.1](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/utilities%405.2.1), 2 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.1.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.1.0), 3 weeks ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
@@ -101,7 +101,7 @@
 
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) (1 week ago)
 
-- [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) (2 weeks ago)
+- [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) (3 weeks ago)
 
 - [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (1 month ago)
 
