@@ -37,7 +37,7 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (5 days ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (6 days ago)
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (3 weeks ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/utilities@5.2.1](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/utilities%405.2.1), 5 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/utilities@5.2.1](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/utilities%405.2.1), 6 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.1.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.1.0), 3 weeks ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
@@ -88,6 +88,8 @@
 ## ⭐ Recent Stars
 
 
+
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (1 day ago)
 
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) (1 week ago)
 
@@ -126,8 +128,6 @@
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (3 months ago)
 
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) (3 months ago)
-
-- [formspree/formspree](https://github.com/formspree/formspree) (3 months ago)
 
 ## 📫 How to reach me
 
