@@ -39,7 +39,7 @@
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (1 week ago)
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (4 weeks ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 month ago)
 
 - [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (3 months ago)
 
@@ -63,19 +63,19 @@
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/utilities@5.2.1](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/utilities%405.2.1), 1 week ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.1.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.1.0), 4 weeks ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.1.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.1.0), 1 month ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
 ## 👓 My recent Pull Requests
 
 
 
-- [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (4 weeks ago)
+- [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 month ago)
 
-- [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (4 weeks ago)
+- [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 month ago)
 
 - [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 month ago)
 
-- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 month ago)
+- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (2 months ago)
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (4 months ago)
 
@@ -89,7 +89,7 @@
 
 
 
-- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (4 days ago)
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (5 days ago)
 
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) (2 weeks ago)
 
@@ -99,9 +99,9 @@
 
 - [honojs/honox](https://github.com/honojs/honox) (2 weeks ago)
 
-- [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) (2 weeks ago)
+- [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) (3 weeks ago)
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) (2 weeks ago)
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) (3 weeks ago)
 
 - [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) (4 weeks ago)
 
