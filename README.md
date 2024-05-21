@@ -89,7 +89,7 @@
 
 
 
-- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (6 days ago)
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (1 week ago)
 
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) (2 weeks ago)
 
