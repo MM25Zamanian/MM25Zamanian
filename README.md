@@ -37,9 +37,9 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (2 days ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (3 days ago)
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (6 days ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 week ago)
 
 - [MM25Zamanian/mm25zamanian-cms](https://github.com/MM25Zamanian/mm25zamanian-cms) -  (3 months ago)
 
@@ -61,15 +61,15 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.1.2](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.1.2), 2 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.1.2](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.1.2), 3 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/i18n@2.0.3](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/i18n%402.0.3), 6 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/i18n@2.0.3](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/i18n%402.0.3), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
 ## 👓 My recent Pull Requests
 
 
 
-- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (2 days ago)
+- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (3 days ago)
 
 - [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 month ago)
 
@@ -85,15 +85,17 @@
 
 - [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (4 months ago)
 
-- [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (4 months ago)
+- [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (5 months ago)
 
 ## ⭐ Recent Stars
 
 
 
-- [chialab/dna](https://github.com/chialab/dna) (3 days ago)
+- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (1 day ago)
 
-- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (1 week ago)
+- [chialab/dna](https://github.com/chialab/dna) (4 days ago)
+
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (2 weeks ago)
 
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) (3 weeks ago)
 
@@ -103,13 +105,13 @@
 
 - [honojs/honox](https://github.com/honojs/honox) (3 weeks ago)
 
-- [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) (4 weeks ago)
+- [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) (1 month ago)
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) (4 weeks ago)
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) (1 month ago)
 
 - [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) (1 month ago)
 
-- [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (1 month ago)
+- [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (2 months ago)
 
 - [continuedev/continue](https://github.com/continuedev/continue) (2 months ago)
 
@@ -128,8 +130,6 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) (3 months ago)
 
 - [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (3 months ago)
-
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) (3 months ago)
 
 ## 📫 How to reach me
 
