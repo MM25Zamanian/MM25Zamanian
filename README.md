@@ -37,7 +37,7 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (3 days ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (4 days ago)
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 week ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.1.2](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.1.2), 3 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.1.2](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.1.2), 4 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/i18n@2.0.3](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/i18n%402.0.3), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
@@ -69,7 +69,7 @@
 
 
 
-- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (3 days ago)
+- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (4 days ago)
 
 - [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 month ago)
 
@@ -81,9 +81,9 @@
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (4 months ago)
 
-- [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (4 months ago)
+- [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (5 months ago)
 
-- [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (4 months ago)
+- [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (5 months ago)
 
 - [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (5 months ago)
 
@@ -91,9 +91,9 @@
 
 
 
-- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (1 day ago)
+- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (2 days ago)
 
-- [chialab/dna](https://github.com/chialab/dna) (4 days ago)
+- [chialab/dna](https://github.com/chialab/dna) (5 days ago)
 
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (2 weeks ago)
 
