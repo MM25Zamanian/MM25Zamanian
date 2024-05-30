@@ -37,7 +37,7 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (4 days ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (5 days ago)
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 week ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.1.2](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.1.2), 4 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.1.2](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.1.2), 5 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/i18n@2.0.3](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/i18n%402.0.3), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
@@ -69,7 +69,7 @@
 
 
 
-- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (4 days ago)
+- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (5 days ago)
 
 - [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 month ago)
 
@@ -91,19 +91,19 @@
 
 
 
-- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (2 days ago)
+- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (3 days ago)
 
-- [chialab/dna](https://github.com/chialab/dna) (5 days ago)
+- [chialab/dna](https://github.com/chialab/dna) (6 days ago)
 
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (2 weeks ago)
 
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) (3 weeks ago)
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) (4 weeks ago)
 
-- [rhinobase/hono-rate-limiter](https://github.com/rhinobase/hono-rate-limiter) (3 weeks ago)
+- [rhinobase/hono-rate-limiter](https://github.com/rhinobase/hono-rate-limiter) (4 weeks ago)
 
-- [honojs/node-server](https://github.com/honojs/node-server) (3 weeks ago)
+- [honojs/node-server](https://github.com/honojs/node-server) (4 weeks ago)
 
-- [honojs/honox](https://github.com/honojs/honox) (3 weeks ago)
+- [honojs/honox](https://github.com/honojs/honox) (4 weeks ago)
 
 - [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) (1 month ago)
 
