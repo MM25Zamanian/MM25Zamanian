@@ -37,7 +37,7 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (3 days ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (4 days ago)
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (1 week ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.1.3](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.1.3), 3 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.1.3](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.1.3), 4 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.1.2](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.1.2), 1 week ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
@@ -91,7 +91,7 @@
 
 
 
-- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (6 days ago)
+- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (1 week ago)
 
 - [chialab/dna](https://github.com/chialab/dna) (1 week ago)
 
