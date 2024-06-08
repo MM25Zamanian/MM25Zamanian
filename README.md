@@ -37,9 +37,9 @@
 
 
 
-- [gecut/hybrid-theme-builder](https://github.com/gecut/hybrid-theme-builder) - A theme builder for Hybrid UI, allowing developers to create custom themes for their applications. (2 days ago)
+- [gecut/hybrid-theme-builder](https://github.com/gecut/hybrid-theme-builder) - A theme builder for Hybrid UI, allowing developers to create custom themes for their applications. (3 days ago)
 
-- [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (2 days ago)
+- [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (3 days ago)
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 week ago)
 
@@ -55,13 +55,13 @@
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.1.3](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.1.3), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.1.2](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.1.2), 1 week ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.1.2](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.1.2), 2 weeks ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 ## 👓 My recent Pull Requests
 
 
 
-- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (1 week ago)
+- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (2 weeks ago)
 
 - [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 month ago)
 
