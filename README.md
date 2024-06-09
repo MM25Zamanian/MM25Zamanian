@@ -37,9 +37,9 @@
 
 
 
-- [gecut/hybrid-theme-builder](https://github.com/gecut/hybrid-theme-builder) - A theme builder for Hybrid UI, allowing developers to create custom themes for their applications. (3 days ago)
+- [gecut/hybrid-theme-builder](https://github.com/gecut/hybrid-theme-builder) - A theme builder for Hybrid UI, allowing developers to create custom themes for their applications. (4 days ago)
 
-- [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (3 days ago)
+- [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (4 days ago)
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 week ago)
 
@@ -83,6 +83,8 @@
 
 
 
+- [r3dDoX/vite-plugin-svgo](https://github.com/r3dDoX/vite-plugin-svgo) (1 day ago)
+
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (1 week ago)
 
 - [chialab/dna](https://github.com/chialab/dna) (2 weeks ago)
@@ -120,8 +122,6 @@
 - [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) (3 months ago)
 
 - [zed-industries/zed](https://github.com/zed-industries/zed) (3 months ago)
-
-- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) (4 months ago)
 
 ## 📫 How to reach me
 
