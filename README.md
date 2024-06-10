@@ -37,11 +37,11 @@
 
 
 
-- [gecut/hybrid-theme-builder](https://github.com/gecut/hybrid-theme-builder) - A theme builder for Hybrid UI, allowing developers to create custom themes for their applications. (4 days ago)
+- [gecut/nginx](https://github.com/gecut/nginx) -  (today)
 
-- [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (4 days ago)
+- [gecut/hybrid-theme-builder](https://github.com/gecut/hybrid-theme-builder) - A theme builder for Hybrid UI, allowing developers to create custom themes for their applications. (5 days ago)
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 week ago)
+- [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (5 days ago)
 
 ## ☂️ My latest projects
 
@@ -83,9 +83,9 @@
 
 
 
-- [r3dDoX/vite-plugin-svgo](https://github.com/r3dDoX/vite-plugin-svgo) (1 day ago)
+- [r3dDoX/vite-plugin-svgo](https://github.com/r3dDoX/vite-plugin-svgo) (2 days ago)
 
-- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (1 week ago)
+- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (2 weeks ago)
 
 - [chialab/dna](https://github.com/chialab/dna) (2 weeks ago)
 
