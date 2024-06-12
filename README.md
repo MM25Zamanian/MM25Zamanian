@@ -37,11 +37,11 @@
 
 
 
-- [gecut/nginx](https://github.com/gecut/nginx) -  (1 day ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 day ago)
 
-- [gecut/hybrid-theme-builder](https://github.com/gecut/hybrid-theme-builder) - A theme builder for Hybrid UI, allowing developers to create custom themes for their applications. (6 days ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (1 day ago)
 
-- [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (6 days ago)
+- [gecut/nginx](https://github.com/gecut/nginx) -  (2 days ago)
 
 ## ☂️ My latest projects
 
@@ -53,9 +53,9 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.1.3](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.1.3), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/mixins@2.1.4](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/mixins%402.1.4), 1 day ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.1.2](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.1.2), 2 weeks ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.2.1](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.2.1), 1 day ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 ## 👓 My recent Pull Requests
 
@@ -83,7 +83,7 @@
 
 
 
-- [r3dDoX/vite-plugin-svgo](https://github.com/r3dDoX/vite-plugin-svgo) (3 days ago)
+- [r3dDoX/vite-plugin-svgo](https://github.com/r3dDoX/vite-plugin-svgo) (4 days ago)
 
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (2 weeks ago)
 
