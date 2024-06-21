@@ -37,11 +37,11 @@
 
 
 
-- [gecut/kartbook](https://github.com/gecut/kartbook) -  (2 days ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (1 day ago)
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (4 days ago)
+- [gecut/kartbook](https://github.com/gecut/kartbook) -  (3 days ago)
 
-- [MM25Zamanian/.fish](https://github.com/MM25Zamanian/.fish) -  (4 days ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (5 days ago)
 
 ## ☂️ My latest projects
 
@@ -55,7 +55,7 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/utilities@5.4.0](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/utilities%405.4.0), 1 week ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.2.3](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.2.3), 1 day ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/mixins@2.1.4](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/mixins%402.1.4), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
@@ -91,7 +91,7 @@
 
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (3 weeks ago)
 
-- [chialab/dna](https://github.com/chialab/dna) (3 weeks ago)
+- [chialab/dna](https://github.com/chialab/dna) (4 weeks ago)
 
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (1 month ago)
 
