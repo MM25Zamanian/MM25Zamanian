@@ -37,11 +37,11 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (2 days ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 day ago)
 
-- [gecut/kartbook](https://github.com/gecut/kartbook) -  (4 days ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (3 days ago)
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (6 days ago)
+- [gecut/kartbook](https://github.com/gecut/kartbook) -  (5 days ago)
 
 ## ☂️ My latest projects
 
@@ -55,9 +55,9 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.2.3](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.2.3), 2 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.4.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.4.0), 1 day ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/mixins@2.1.4](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/mixins%402.1.4), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.2.3](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.2.3), 3 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 ## 👓 My recent Pull Requests
 
@@ -85,13 +85,15 @@
 
 
 
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) (1 day ago)
+
 - [typicode/json-server](https://github.com/typicode/json-server) (1 week ago)
 
 - [r3dDoX/vite-plugin-svgo](https://github.com/r3dDoX/vite-plugin-svgo) (2 weeks ago)
 
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (3 weeks ago)
 
-- [chialab/dna](https://github.com/chialab/dna) (4 weeks ago)
+- [chialab/dna](https://github.com/chialab/dna) (1 month ago)
 
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (1 month ago)
 
@@ -122,8 +124,6 @@
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) (3 months ago)
 
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) (3 months ago)
-
-- [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) (3 months ago)
 
 ## 📫 How to reach me
 
