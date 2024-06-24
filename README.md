@@ -37,11 +37,11 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 day ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (2 days ago)
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (3 days ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (4 days ago)
 
-- [gecut/kartbook](https://github.com/gecut/kartbook) -  (5 days ago)
+- [gecut/kartbook](https://github.com/gecut/kartbook) -  (6 days ago)
 
 ## ☂️ My latest projects
 
@@ -55,15 +55,15 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.4.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.4.0), 1 day ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.4.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.4.0), 2 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.2.3](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.2.3), 3 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.2.3](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.2.3), 4 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 ## 👓 My recent Pull Requests
 
 
 
-- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (4 weeks ago)
+- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (1 month ago)
 
 - [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (2 months ago)
 
@@ -85,13 +85,13 @@
 
 
 
-- [wagtail/wagtail](https://github.com/wagtail/wagtail) (1 day ago)
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) (2 days ago)
 
 - [typicode/json-server](https://github.com/typicode/json-server) (1 week ago)
 
 - [r3dDoX/vite-plugin-svgo](https://github.com/r3dDoX/vite-plugin-svgo) (2 weeks ago)
 
-- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (3 weeks ago)
+- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (4 weeks ago)
 
 - [chialab/dna](https://github.com/chialab/dna) (1 month ago)
 
@@ -113,13 +113,13 @@
 
 - [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (2 months ago)
 
-- [continuedev/continue](https://github.com/continuedev/continue) (2 months ago)
+- [continuedev/continue](https://github.com/continuedev/continue) (3 months ago)
 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (2 months ago)
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (3 months ago)
 
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) (2 months ago)
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) (3 months ago)
 
-- [3lf/design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) (2 months ago)
+- [3lf/design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) (3 months ago)
 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) (3 months ago)
 
