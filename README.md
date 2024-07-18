@@ -37,11 +37,11 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 week ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 day ago)
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (1 week ago)
 
-- [gecut/kartbook](https://github.com/gecut/kartbook) -  (2 weeks ago)
+- [gecut/kartbook](https://github.com/gecut/kartbook) -  (3 weeks ago)
 
 ## ☂️ My latest projects
 
@@ -55,7 +55,7 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.4.4](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.4.4), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.7.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.7.0), 1 day ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.3.4](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.3.4), 1 week ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
@@ -65,13 +65,13 @@
 
 - [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (1 month ago)
 
-- [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (2 months ago)
+- [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (3 months ago)
 
-- [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (2 months ago)
+- [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (3 months ago)
 
 - [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (3 months ago)
 
-- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (3 months ago)
+- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (4 months ago)
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (6 months ago)
 
