@@ -37,7 +37,7 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (6 days ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 week ago)
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (2 weeks ago)
 
@@ -55,7 +55,7 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.7.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.7.0), 6 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.7.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.7.0), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.3.4](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.3.4), 2 weeks ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
@@ -63,7 +63,7 @@
 
 
 
-- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (1 month ago)
+- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (2 months ago)
 
 - [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (3 months ago)
 
@@ -113,13 +113,13 @@
 
 - [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (3 months ago)
 
-- [continuedev/continue](https://github.com/continuedev/continue) (3 months ago)
+- [continuedev/continue](https://github.com/continuedev/continue) (4 months ago)
 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (3 months ago)
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (4 months ago)
 
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) (3 months ago)
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) (4 months ago)
 
-- [3lf/design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) (3 months ago)
+- [3lf/design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) (4 months ago)
 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) (4 months ago)
 
