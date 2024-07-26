@@ -91,7 +91,7 @@
 
 - [r3dDoX/vite-plugin-svgo](https://github.com/r3dDoX/vite-plugin-svgo) (1 month ago)
 
-- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (1 month ago)
+- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (2 months ago)
 
 - [chialab/dna](https://github.com/chialab/dna) (2 months ago)
 
