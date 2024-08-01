@@ -85,7 +85,7 @@
 
 
 
-- [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) (1 day ago)
+- [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) (2 days ago)
 
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) (1 month ago)
 
