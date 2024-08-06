@@ -85,7 +85,9 @@
 
 
 
-- [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) (6 days ago)
+- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) (1 day ago)
+
+- [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) (1 week ago)
 
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) (1 month ago)
 
@@ -122,8 +124,6 @@
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) (4 months ago)
 
 - [3lf/design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) (4 months ago)
-
-- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) (4 months ago)
 
 ## 📫 How to reach me
 
