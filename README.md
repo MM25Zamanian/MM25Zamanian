@@ -85,7 +85,7 @@
 
 
 
-- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) (2 days ago)
+- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) (3 days ago)
 
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) (1 week ago)
 
