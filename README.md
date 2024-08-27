@@ -37,9 +37,9 @@
 
 
 
-- [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (1 week ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 day ago)
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 month ago)
+- [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (1 week ago)
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (1 month ago)
 
@@ -55,7 +55,7 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.7.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.7.0), 1 month ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/i18n@2.2.0](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/i18n%402.2.0), 1 day ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.3.4](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.3.4), 1 month ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
@@ -75,9 +75,9 @@
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (7 months ago)
 
-- [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (7 months ago)
+- [fix(app): wds config](https://github.com/Alwatr/pmpa/pull/48) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (8 months ago)
 
-- [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (7 months ago)
+- [fix(app): start script](https://github.com/Alwatr/pmpa/pull/47) on [Alwatr/pmpa](https://github.com/Alwatr/pmpa) (8 months ago)
 
 - [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (8 months ago)
 
@@ -89,7 +89,7 @@
 
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) (3 weeks ago)
 
-- [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) (3 weeks ago)
+- [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) (4 weeks ago)
 
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) (2 months ago)
 
