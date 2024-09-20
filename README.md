@@ -93,7 +93,7 @@
 
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) (1 month ago)
 
-- [wagtail/wagtail](https://github.com/wagtail/wagtail) (2 months ago)
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) (3 months ago)
 
 - [typicode/json-server](https://github.com/typicode/json-server) (3 months ago)
 
