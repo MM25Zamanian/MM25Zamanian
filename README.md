@@ -37,11 +37,11 @@
 
 
 
-- [MM25Zamanian/bunbin](https://github.com/MM25Zamanian/bunbin) -  (3 days ago)
+- [MM25Zamanian/bunbin](https://github.com/MM25Zamanian/bunbin) -  (4 days ago)
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (5 days ago)
+- [gecut/kartbook](https://github.com/gecut/kartbook) -  (6 days ago)
 
-- [gecut/kartbook](https://github.com/gecut/kartbook) -  (5 days ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (6 days ago)
 
 ## ☂️ My latest projects
 
@@ -57,7 +57,7 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.8.2](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.8.2), 5 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.8.2](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.8.2), 6 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.3.5](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.3.5), 3 weeks ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
@@ -65,11 +65,11 @@
 
 
 
-- [ci(github): labeler](https://github.com/gecut/kartbook/pull/203) on [gecut/kartbook](https://github.com/gecut/kartbook) (5 days ago)
+- [ci(github): labeler](https://github.com/gecut/kartbook/pull/203) on [gecut/kartbook](https://github.com/gecut/kartbook) (6 days ago)
 
-- [feat(apps/panel-app): can withdrawal](https://github.com/gecut/kartbook/pull/202) on [gecut/kartbook](https://github.com/gecut/kartbook) (5 days ago)
+- [feat(apps/panel-app): can withdrawal](https://github.com/gecut/kartbook/pull/202) on [gecut/kartbook](https://github.com/gecut/kartbook) (6 days ago)
 
-- [feat(apps/card-app): copy success notify](https://github.com/gecut/kartbook/pull/201) on [gecut/kartbook](https://github.com/gecut/kartbook) (5 days ago)
+- [feat(apps/card-app): copy success notify](https://github.com/gecut/kartbook/pull/201) on [gecut/kartbook](https://github.com/gecut/kartbook) (6 days ago)
 
 - [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (4 months ago)
 
@@ -77,15 +77,15 @@
 
 - [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (5 months ago)
 
-- [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (5 months ago)
+- [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (6 months ago)
 
 - [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (6 months ago)
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (9 months ago)
 
-- [fix(app): wds config](https://github.com/Alwatr/weaver/pull/48) on [Alwatr/weaver](https://github.com/Alwatr/weaver) (9 months ago)
+- [fix(app): wds config](https://github.com/Alwatr/weaver-kit/pull/48) on [Alwatr/weaver-kit](https://github.com/Alwatr/weaver-kit) (9 months ago)
 
-- [fix(app): start script](https://github.com/Alwatr/weaver/pull/47) on [Alwatr/weaver](https://github.com/Alwatr/weaver) (9 months ago)
+- [fix(app): start script](https://github.com/Alwatr/weaver-kit/pull/47) on [Alwatr/weaver-kit](https://github.com/Alwatr/weaver-kit) (9 months ago)
 
 - [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (9 months ago)
 
@@ -97,7 +97,7 @@
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) (1 month ago)
 
-- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) (1 month ago)
+- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) (2 months ago)
 
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) (2 months ago)
 
