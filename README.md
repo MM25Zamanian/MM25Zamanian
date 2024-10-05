@@ -37,11 +37,11 @@
 
 
 
-- [MM25Zamanian/bunbin](https://github.com/MM25Zamanian/bunbin) -  (4 days ago)
+- [MM25Zamanian/bunbin](https://github.com/MM25Zamanian/bunbin) -  (5 days ago)
 
-- [gecut/kartbook](https://github.com/gecut/kartbook) -  (6 days ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 week ago)
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (6 days ago)
+- [gecut/kartbook](https://github.com/gecut/kartbook) -  (1 week ago)
 
 ## ☂️ My latest projects
 
@@ -57,7 +57,7 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.8.2](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.8.2), 6 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.8.2](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.8.2), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@2.3.5](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%402.3.5), 3 weeks ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
@@ -65,11 +65,11 @@
 
 
 
-- [ci(github): labeler](https://github.com/gecut/kartbook/pull/203) on [gecut/kartbook](https://github.com/gecut/kartbook) (6 days ago)
+- [ci(github): labeler](https://github.com/gecut/kartbook/pull/203) on [gecut/kartbook](https://github.com/gecut/kartbook) (1 week ago)
 
-- [feat(apps/panel-app): can withdrawal](https://github.com/gecut/kartbook/pull/202) on [gecut/kartbook](https://github.com/gecut/kartbook) (6 days ago)
+- [feat(apps/panel-app): can withdrawal](https://github.com/gecut/kartbook/pull/202) on [gecut/kartbook](https://github.com/gecut/kartbook) (1 week ago)
 
-- [feat(apps/card-app): copy success notify](https://github.com/gecut/kartbook/pull/201) on [gecut/kartbook](https://github.com/gecut/kartbook) (6 days ago)
+- [feat(apps/card-app): copy success notify](https://github.com/gecut/kartbook/pull/201) on [gecut/kartbook](https://github.com/gecut/kartbook) (1 week ago)
 
 - [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (4 months ago)
 
