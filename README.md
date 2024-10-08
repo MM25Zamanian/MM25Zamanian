@@ -37,15 +37,17 @@
 
 
 
-- [gecut/promeet](https://github.com/gecut/promeet) -  (2 days ago)
+- [MM25Zamanian/pwa-template](https://github.com/MM25Zamanian/pwa-template) - Gecut Lit Tailwind PWA Template (1 day ago)
 
-- [MM25Zamanian/bunbin](https://github.com/MM25Zamanian/bunbin) -  (1 week ago)
+- [gecut/docs](https://github.com/gecut/docs) -  (1 day ago)
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 week ago)
+- [gecut/promeet](https://github.com/gecut/promeet) -  (3 days ago)
 
 ## ☂️ My latest projects
 
 
+
+- [MM25Zamanian/pwa-template](https://github.com/MM25Zamanian/pwa-template) - Gecut Lit Tailwind PWA Template
 
 - [MM25Zamanian/bunbin](https://github.com/MM25Zamanian/bunbin) - 
 
