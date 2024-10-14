@@ -37,11 +37,11 @@
 
 
 
-- [gecut/docs](https://github.com/gecut/docs) -  (1 day ago)
+- [gecut/docs](https://github.com/gecut/docs) -  (2 days ago)
 
-- [gecut/promeet](https://github.com/gecut/promeet) -  (3 days ago)
+- [gecut/promeet](https://github.com/gecut/promeet) -  (4 days ago)
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (5 days ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (6 days ago)
 
 ## ☂️ My latest projects
 
@@ -59,7 +59,7 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/utilities@6.0.0](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/utilities%406.0.0), 5 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/utilities@6.0.0](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/utilities%406.0.0), 6 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.8.2](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.8.2), 2 weeks ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
@@ -67,7 +67,7 @@
 
 
 
-- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (5 days ago)
+- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (6 days ago)
 
 - [ci(github): labeler](https://github.com/gecut/kartbook/pull/203) on [gecut/kartbook](https://github.com/gecut/kartbook) (2 weeks ago)
 
@@ -97,11 +97,11 @@
 
 
 
-- [waynezhang/foto](https://github.com/waynezhang/foto) (1 day ago)
+- [waynezhang/foto](https://github.com/waynezhang/foto) (2 days ago)
 
 - [refinedev/refine](https://github.com/refinedev/refine) (1 month ago)
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) (1 month ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) (2 months ago)
 
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) (2 months ago)
 
