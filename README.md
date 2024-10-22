@@ -37,11 +37,11 @@
 
 
 
-- [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (2 days ago)
+- [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (3 days ago)
 
-- [gecut/promeet](https://github.com/gecut/promeet) -  (2 days ago)
+- [gecut/promeet](https://github.com/gecut/promeet) -  (3 days ago)
 
-- [gecut/docs](https://github.com/gecut/docs) -  (2 days ago)
+- [gecut/docs](https://github.com/gecut/docs) -  (3 days ago)
 
 ## ☂️ My latest projects
 
@@ -59,7 +59,7 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/utilities@6.0.0](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/utilities%406.0.0), 1 week ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/utilities@6.0.0](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/utilities%406.0.0), 2 weeks ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.8.2](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.8.2), 3 weeks ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
@@ -67,7 +67,9 @@
 
 
 
-- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (1 week ago)
+- [Next](https://github.com/gecut/kartbook/pull/204) on [gecut/kartbook](https://github.com/gecut/kartbook) (1 day ago)
+
+- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (2 weeks ago)
 
 - [ci(github): labeler](https://github.com/gecut/kartbook/pull/203) on [gecut/kartbook](https://github.com/gecut/kartbook) (3 weeks ago)
 
@@ -75,7 +77,7 @@
 
 - [feat(apps/card-app): copy success notify](https://github.com/gecut/kartbook/pull/201) on [gecut/kartbook](https://github.com/gecut/kartbook) (3 weeks ago)
 
-- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (4 months ago)
+- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (5 months ago)
 
 - [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (6 months ago)
 
@@ -96,6 +98,8 @@
 ## ⭐ Recent Stars
 
 
+
+- [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) (1 day ago)
 
 - [waynezhang/foto](https://github.com/waynezhang/foto) (1 week ago)
 
@@ -134,8 +138,6 @@
 - [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) (6 months ago)
 
 - [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (6 months ago)
-
-- [continuedev/continue](https://github.com/continuedev/continue) (6 months ago)
 
 ## 📫 How to reach me
 
