@@ -37,11 +37,11 @@
 
 
 
-- [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (5 days ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (1 day ago)
 
-- [gecut/promeet](https://github.com/gecut/promeet) -  (5 days ago)
+- [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (6 days ago)
 
-- [gecut/docs](https://github.com/gecut/docs) -  (5 days ago)
+- [gecut/promeet](https://github.com/gecut/promeet) -  (6 days ago)
 
 ## ☂️ My latest projects
 
@@ -59,7 +59,7 @@
 
 
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/utilities@6.0.0](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/utilities%406.0.0), 2 weeks ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/signal@3.1.1](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/signal%403.1.1), 1 day ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/styles@2.8.2](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/styles%402.8.2), 3 weeks ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
@@ -67,7 +67,9 @@
 
 
 
-- [Next](https://github.com/gecut/kartbook/pull/204) on [gecut/kartbook](https://github.com/gecut/kartbook) (3 days ago)
+- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (1 day ago)
+
+- [Next](https://github.com/gecut/kartbook/pull/204) on [gecut/kartbook](https://github.com/gecut/kartbook) (4 days ago)
 
 - [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (2 weeks ago)
 
@@ -93,13 +95,13 @@
 
 - [fix(app): start script](https://github.com/Alwatr/weaver-starter-kit/pull/47) on [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) (9 months ago)
 
-- [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (9 months ago)
+- [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (10 months ago)
 
 ## ⭐ Recent Stars
 
 
 
-- [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) (3 days ago)
+- [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) (4 days ago)
 
 - [waynezhang/foto](https://github.com/waynezhang/foto) (1 week ago)
 
@@ -131,13 +133,13 @@
 
 - [honojs/honox](https://github.com/honojs/honox) (5 months ago)
 
-- [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) (5 months ago)
+- [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) (6 months ago)
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) (5 months ago)
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) (6 months ago)
 
 - [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) (6 months ago)
 
-- [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (6 months ago)
+- [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) (7 months ago)
 
 ## 📫 How to reach me
 
