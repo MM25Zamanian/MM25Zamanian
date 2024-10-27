@@ -37,9 +37,9 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (1 day ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (2 days ago)
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (1 day ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (2 days ago)
 
 - [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (1 week ago)
 
@@ -59,17 +59,17 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.4.7](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.4.7), 1 day ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.4.7](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.4.7), 2 days ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/utilities@7.0.3](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/utilities%407.0.3), 1 day ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/utilities@7.0.3](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/utilities%407.0.3), 2 days ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 ## 👓 My recent Pull Requests
 
 
 
-- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (2 days ago)
+- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (3 days ago)
 
-- [Next](https://github.com/gecut/kartbook/pull/204) on [gecut/kartbook](https://github.com/gecut/kartbook) (5 days ago)
+- [Next](https://github.com/gecut/kartbook/pull/204) on [gecut/kartbook](https://github.com/gecut/kartbook) (6 days ago)
 
 - [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (2 weeks ago)
 
@@ -101,7 +101,7 @@
 
 
 
-- [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) (5 days ago)
+- [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) (6 days ago)
 
 - [waynezhang/foto](https://github.com/waynezhang/foto) (2 weeks ago)
 
