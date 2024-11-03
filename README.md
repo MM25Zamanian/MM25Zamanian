@@ -59,9 +59,9 @@
 
 
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.0.0](https://github.com/Alwatr/nginx/releases/tag/v3.0.0), 4 days ago) - Alwatr Accelerated NGINX
+- [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) ([v2.0.0-alpha.1](https://github.com/Alwatr/weaver-starter-kit/releases/tag/v2.0.0-alpha.1), 1 day ago) - A Proposed Model for Building All Websites and Web Applications
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.4.7](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.4.7), 1 week ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.0.0](https://github.com/Alwatr/nginx/releases/tag/v3.0.0), 5 days ago) - Alwatr Accelerated NGINX
 
 ## 👓 My recent Pull Requests
 
@@ -85,7 +85,7 @@
 
 - [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (6 months ago)
 
-- [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (6 months ago)
+- [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (7 months ago)
 
 - [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (7 months ago)
 
@@ -101,9 +101,9 @@
 
 
 
-- [flutter/samples](https://github.com/flutter/samples) (3 days ago)
+- [flutter/samples](https://github.com/flutter/samples) (4 days ago)
 
-- [MrAli-Code/MahsaNG](https://github.com/MrAli-Code/MahsaNG) (5 days ago)
+- [MrAli-Code/MahsaNG](https://github.com/MrAli-Code/MahsaNG) (6 days ago)
 
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) (1 week ago)
 
@@ -113,7 +113,7 @@
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) (2 months ago)
 
-- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) (2 months ago)
+- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) (3 months ago)
 
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) (3 months ago)
 
