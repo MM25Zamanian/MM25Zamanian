@@ -59,7 +59,7 @@
 
 
 
-- [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) ([v2.0.0-alpha.1](https://github.com/Alwatr/weaver-starter-kit/releases/tag/v2.0.0-alpha.1), 3 days ago) - A Proposed Model for Building All Websites and Web Applications
+- [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) ([v2.0.0-alpha.1](https://github.com/Alwatr/weaver-starter-kit/releases/tag/v2.0.0-alpha.1), 4 days ago) - A Proposed Model for Building All Websites and Web Applications
 
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.0.0](https://github.com/Alwatr/nginx/releases/tag/v3.0.0), 1 week ago) - Alwatr Accelerated NGINX
 
@@ -101,7 +101,7 @@
 
 
 
-- [flutter/samples](https://github.com/flutter/samples) (6 days ago)
+- [flutter/samples](https://github.com/flutter/samples) (1 week ago)
 
 - [MrAli-Code/MahsaNG](https://github.com/MrAli-Code/MahsaNG) (1 week ago)
 
