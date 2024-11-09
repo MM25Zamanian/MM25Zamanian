@@ -41,7 +41,7 @@
 
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (2 weeks ago)
 
-- [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (2 weeks ago)
+- [MM25Zamanian/mm25zamanian.ir](https://github.com/MM25Zamanian/mm25zamanian.ir) -  (3 weeks ago)
 
 ## ☂️ My latest projects
 
@@ -59,9 +59,9 @@
 
 
 
-- [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) ([v2.0.0-alpha.1](https://github.com/Alwatr/weaver-starter-kit/releases/tag/v2.0.0-alpha.1), 6 days ago) - A Proposed Model for Building All Websites and Web Applications
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.2.0](https://github.com/Alwatr/nginx/releases/tag/v3.2.0), 1 day ago) - Alwatr Accelerated NGINX
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.0.0](https://github.com/Alwatr/nginx/releases/tag/v3.0.0), 1 week ago) - Alwatr Accelerated NGINX
+- [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) ([v2.0.0-alpha.1](https://github.com/Alwatr/weaver-starter-kit/releases/tag/v2.0.0-alpha.1), 1 week ago) - A Proposed Model for Building All Websites and Web Applications
 
 ## 👓 My recent Pull Requests
 
@@ -107,7 +107,7 @@
 
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) (2 weeks ago)
 
-- [waynezhang/foto](https://github.com/waynezhang/foto) (3 weeks ago)
+- [waynezhang/foto](https://github.com/waynezhang/foto) (4 weeks ago)
 
 - [refinedev/refine](https://github.com/refinedev/refine) (1 month ago)
 
