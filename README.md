@@ -59,7 +59,7 @@
 
 
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.2.0](https://github.com/Alwatr/nginx/releases/tag/v3.2.0), 1 day ago) - Alwatr Accelerated NGINX
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.3.1](https://github.com/Alwatr/nginx/releases/tag/v3.3.1), 1 day ago) - Alwatr Accelerated NGINX
 
 - [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) ([v2.0.0-alpha.1](https://github.com/Alwatr/weaver-starter-kit/releases/tag/v2.0.0-alpha.1), 1 week ago) - A Proposed Model for Building All Websites and Web Applications
 
@@ -109,7 +109,7 @@
 
 - [waynezhang/foto](https://github.com/waynezhang/foto) (4 weeks ago)
 
-- [refinedev/refine](https://github.com/refinedev/refine) (1 month ago)
+- [refinedev/refine](https://github.com/refinedev/refine) (2 months ago)
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) (2 months ago)
 
@@ -119,7 +119,7 @@
 
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) (4 months ago)
 
-- [typicode/json-server](https://github.com/typicode/json-server) (4 months ago)
+- [typicode/json-server](https://github.com/typicode/json-server) (5 months ago)
 
 - [r3dDoX/vite-plugin-svgo](https://github.com/r3dDoX/vite-plugin-svgo) (5 months ago)
 
@@ -127,7 +127,7 @@
 
 - [chialab/dna](https://github.com/chialab/dna) (5 months ago)
 
-- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (5 months ago)
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (6 months ago)
 
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) (6 months ago)
 
