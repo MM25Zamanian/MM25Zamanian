@@ -39,9 +39,9 @@
 
 - [gecut/lemp](https://github.com/gecut/lemp) - Linux, Nginx, MySQL, and PHP Stack Dockerized (1 day ago)
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (2 weeks ago)
-
 - [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (2 weeks ago)
+
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (2 weeks ago)
 
 ## ☂️ My latest projects
 
@@ -59,7 +59,7 @@
 
 
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.3.3](https://github.com/Alwatr/nginx/releases/tag/v3.3.3), 1 day ago) - Alwatr Accelerated NGINX
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.3.5](https://github.com/Alwatr/nginx/releases/tag/v3.3.5), 1 day ago) - Alwatr Accelerated NGINX
 
 - [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) ([v2.0.0-alpha.1](https://github.com/Alwatr/weaver-starter-kit/releases/tag/v2.0.0-alpha.1), 1 week ago) - A Proposed Model for Building All Websites and Web Applications
 
