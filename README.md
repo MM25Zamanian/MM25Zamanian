@@ -37,11 +37,11 @@
 
 
 
-- [gecut/lemp](https://github.com/gecut/lemp) - Linux, Nginx, MySQL, and PHP Stack Dockerized (3 days ago)
+- [gecut/lemp](https://github.com/gecut/lemp) - Linux, Nginx, MySQL, and PHP Stack Dockerized (4 days ago)
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (2 weeks ago)
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences. (3 weeks ago)
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (2 weeks ago)
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools. (3 weeks ago)
 
 ## ☂️ My latest projects
 
@@ -59,7 +59,7 @@
 
 
 
-- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.3.5](https://github.com/Alwatr/nginx/releases/tag/v3.3.5), 3 days ago) - Alwatr Accelerated NGINX
+- [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.3.5](https://github.com/Alwatr/nginx/releases/tag/v3.3.5), 4 days ago) - Alwatr Accelerated NGINX
 
 - [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) ([v2.0.0-alpha.1](https://github.com/Alwatr/weaver-starter-kit/releases/tag/v2.0.0-alpha.1), 1 week ago) - A Proposed Model for Building All Websites and Web Applications
 
@@ -81,13 +81,13 @@
 
 - [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (5 months ago)
 
-- [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (6 months ago)
+- [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (7 months ago)
 
-- [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (6 months ago)
+- [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (7 months ago)
 
 - [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (7 months ago)
 
-- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (7 months ago)
+- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (8 months ago)
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (10 months ago)
 
