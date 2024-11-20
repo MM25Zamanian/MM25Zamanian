@@ -69,7 +69,7 @@
 
 - [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (3 weeks ago)
 
-- [Next](https://github.com/gecut/kartbook/pull/204) on [gecut/kartbook](https://github.com/gecut/kartbook) (4 weeks ago)
+- [Next](https://github.com/gecut/kartbook/pull/204) on [gecut/kartbook](https://github.com/gecut/kartbook) (1 month ago)
 
 - [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (1 month ago)
 
@@ -101,11 +101,11 @@
 
 
 
-- [flutter/samples](https://github.com/flutter/samples) (2 weeks ago)
+- [flutter/samples](https://github.com/flutter/samples) (3 weeks ago)
 
 - [MrAli-Code/MahsaNG](https://github.com/MrAli-Code/MahsaNG) (3 weeks ago)
 
-- [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) (4 weeks ago)
+- [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) (1 month ago)
 
 - [waynezhang/foto](https://github.com/waynezhang/foto) (1 month ago)
 
@@ -125,7 +125,7 @@
 
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (5 months ago)
 
-- [chialab/dna](https://github.com/chialab/dna) (5 months ago)
+- [chialab/dna](https://github.com/chialab/dna) (6 months ago)
 
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (6 months ago)
 
