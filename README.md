@@ -67,7 +67,7 @@
 
 
 
-- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (3 weeks ago)
+- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (4 weeks ago)
 
 - [Next](https://github.com/gecut/kartbook/pull/204) on [gecut/kartbook](https://github.com/gecut/kartbook) (1 month ago)
 
@@ -79,7 +79,7 @@
 
 - [feat(apps/card-app): copy success notify](https://github.com/gecut/kartbook/pull/201) on [gecut/kartbook](https://github.com/gecut/kartbook) (1 month ago)
 
-- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (5 months ago)
+- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (6 months ago)
 
 - [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (7 months ago)
 
