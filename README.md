@@ -61,13 +61,13 @@
 
 - [Alwatr/nginx](https://github.com/Alwatr/nginx) ([v3.3.5](https://github.com/Alwatr/nginx/releases/tag/v3.3.5), 1 week ago) - Alwatr Accelerated NGINX
 
-- [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) ([v2.0.0-alpha.1](https://github.com/Alwatr/weaver-starter-kit/releases/tag/v2.0.0-alpha.1), 2 weeks ago) - A Proposed Model for Building All Websites and Web Applications
+- [Alwatr/weaver-starter-kit](https://github.com/Alwatr/weaver-starter-kit) ([v2.0.0-alpha.1](https://github.com/Alwatr/weaver-starter-kit/releases/tag/v2.0.0-alpha.1), 3 weeks ago) - A Proposed Model for Building All Websites and Web Applications
 
 ## 👓 My recent Pull Requests
 
 
 
-- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (4 weeks ago)
+- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (1 month ago)
 
 - [Next](https://github.com/gecut/kartbook/pull/204) on [gecut/kartbook](https://github.com/gecut/kartbook) (1 month ago)
 
@@ -123,7 +123,7 @@
 
 - [r3dDoX/vite-plugin-svgo](https://github.com/r3dDoX/vite-plugin-svgo) (5 months ago)
 
-- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (5 months ago)
+- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (6 months ago)
 
 - [chialab/dna](https://github.com/chialab/dna) (6 months ago)
 
