@@ -37,11 +37,11 @@
 
 
 
-- [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut.  (3 days ago)
+- [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut.  (4 days ago)
 
 - [MM25Zamanian/viboot-starter](https://github.com/MM25Zamanian/viboot-starter) - 🚀 Blast off your web projects with ViBoot-starter! A simple, powerful, and fun way to build stunning websites. (1 week ago)
 
-- [gecut/lemp](https://github.com/gecut/lemp) - Linux, Nginx, MySQL, and PHP Stack Dockerized (1 week ago)
+- [gecut/lemp](https://github.com/gecut/lemp) - Linux, Nginx, MySQL, and PHP Stack Dockerized (2 weeks ago)
 
 ## ☂️ My latest projects
 
@@ -91,9 +91,9 @@
 
 
 
-- [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic) (3 days ago)
+- [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic) (4 days ago)
 
-- [winstonjs/winston](https://github.com/winstonjs/winston) (3 days ago)
+- [winstonjs/winston](https://github.com/winstonjs/winston) (4 days ago)
 
 - [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) (1 week ago)
 
