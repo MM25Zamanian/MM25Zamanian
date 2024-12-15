@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut.  (4 days ago)
+- [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut.  (5 days ago)
 
 - [MM25Zamanian/viboot-starter](https://github.com/MM25Zamanian/viboot-starter) - 🚀 Blast off your web projects with ViBoot-starter! A simple, powerful, and fun way to build stunning websites. (1 week ago)
 
@@ -75,13 +75,13 @@
 
 - [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (6 months ago)
 
-- [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (7 months ago)
+- [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (8 months ago)
 
-- [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (7 months ago)
+- [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (8 months ago)
 
 - [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (8 months ago)
 
-- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (8 months ago)
+- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (9 months ago)
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (11 months ago)
 
@@ -91,9 +91,11 @@
 
 
 
-- [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic) (4 days ago)
+- [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (1 day ago)
 
-- [winstonjs/winston](https://github.com/winstonjs/winston) (4 days ago)
+- [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic) (5 days ago)
+
+- [winstonjs/winston](https://github.com/winstonjs/winston) (5 days ago)
 
 - [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) (1 week ago)
 
@@ -128,8 +130,6 @@
 - [chialab/dna](https://github.com/chialab/dna) (6 months ago)
 
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (7 months ago)
-
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) (7 months ago)
 
 ## 📫 How to reach me
 
