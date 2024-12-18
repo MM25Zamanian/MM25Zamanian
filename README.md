@@ -91,7 +91,9 @@
 
 
 
-- [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (3 days ago)
+- [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (1 day ago)
+
+- [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (4 days ago)
 
 - [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic) (1 week ago)
 
@@ -128,8 +130,6 @@
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (6 months ago)
 
 - [chialab/dna](https://github.com/chialab/dna) (6 months ago)
-
-- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) (7 months ago)
 
 ## 📫 How to reach me
 
