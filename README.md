@@ -91,9 +91,11 @@
 
 
 
-- [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (1 day ago)
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) (1 day ago)
 
-- [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (4 days ago)
+- [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (2 days ago)
+
+- [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (5 days ago)
 
 - [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic) (1 week ago)
 
@@ -121,15 +123,13 @@
 
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) (4 months ago)
 
-- [wagtail/wagtail](https://github.com/wagtail/wagtail) (5 months ago)
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) (6 months ago)
 
 - [typicode/json-server](https://github.com/typicode/json-server) (6 months ago)
 
 - [r3dDoX/vite-plugin-svgo](https://github.com/r3dDoX/vite-plugin-svgo) (6 months ago)
 
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) (6 months ago)
-
-- [chialab/dna](https://github.com/chialab/dna) (6 months ago)
 
 ## 📫 How to reach me
 
