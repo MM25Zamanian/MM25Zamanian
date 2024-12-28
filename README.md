@@ -41,7 +41,7 @@
 
 - [MM25Zamanian/viboot-starter](https://github.com/MM25Zamanian/viboot-starter) - 🚀 Blast off your web projects with ViBoot-starter! A simple, powerful, and fun way to build stunning websites. (3 weeks ago)
 
-- [gecut/lemp](https://github.com/gecut/lemp) - Linux, Nginx, MySQL, and PHP Stack Dockerized (3 weeks ago)
+- [gecut/lemp](https://github.com/gecut/lemp) - Linux, Nginx, MySQL, and PHP Stack Dockerized (4 weeks ago)
 
 ## ☂️ My latest projects
 
@@ -97,7 +97,7 @@
 
 - [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (1 week ago)
 
-- [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (1 week ago)
+- [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (2 weeks ago)
 
 - [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic) (2 weeks ago)
 
