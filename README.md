@@ -91,6 +91,8 @@
 
 
 
+- [vercel/next.js](https://github.com/vercel/next.js) (1 day ago)
+
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) (1 week ago)
 
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) (1 week ago)
@@ -109,7 +111,7 @@
 
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) (3 weeks ago)
 
-- [flutter/samples](https://github.com/flutter/samples) (1 month ago)
+- [flutter/samples](https://github.com/flutter/samples) (2 months ago)
 
 - [MrAli-Code/MahsaNG](https://github.com/MrAli-Code/MahsaNG) (2 months ago)
 
@@ -128,8 +130,6 @@
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) (6 months ago)
 
 - [typicode/json-server](https://github.com/typicode/json-server) (6 months ago)
-
-- [r3dDoX/vite-plugin-svgo](https://github.com/r3dDoX/vite-plugin-svgo) (6 months ago)
 
 ## 📫 How to reach me
 
