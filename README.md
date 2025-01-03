@@ -37,7 +37,7 @@
 
 
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 day ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 days ago)
 
 - [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut.  (3 weeks ago)
 
@@ -91,9 +91,13 @@
 
 
 
-- [vercel/next.js](https://github.com/vercel/next.js) (5 days ago)
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (1 day ago)
 
-- [bombshell-dev/clack](https://github.com/bombshell-dev/clack) (1 week ago)
+- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (1 day ago)
+
+- [vercel/next.js](https://github.com/vercel/next.js) (6 days ago)
+
+- [bombshell-dev/clack](https://github.com/bombshell-dev/clack) (2 weeks ago)
 
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) (2 weeks ago)
 
@@ -105,11 +109,11 @@
 
 - [winstonjs/winston](https://github.com/winstonjs/winston) (3 weeks ago)
 
-- [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) (3 weeks ago)
+- [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) (4 weeks ago)
 
-- [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) (3 weeks ago)
+- [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) (4 weeks ago)
 
-- [elysiajs/elysia](https://github.com/elysiajs/elysia) (3 weeks ago)
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) (4 weeks ago)
 
 - [flutter/samples](https://github.com/flutter/samples) (2 months ago)
 
@@ -126,10 +130,6 @@
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) (5 months ago)
 
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) (5 months ago)
-
-- [wagtail/wagtail](https://github.com/wagtail/wagtail) (6 months ago)
-
-- [typicode/json-server](https://github.com/typicode/json-server) (6 months ago)
 
 ## 📫 How to reach me
 
