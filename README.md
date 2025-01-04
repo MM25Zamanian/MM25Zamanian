@@ -37,7 +37,7 @@
 
 
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 days ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (3 days ago)
 
 - [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut.  (3 weeks ago)
 
@@ -91,11 +91,11 @@
 
 
 
-- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (1 day ago)
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (2 days ago)
 
-- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (1 day ago)
+- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (2 days ago)
 
-- [vercel/next.js](https://github.com/vercel/next.js) (6 days ago)
+- [vercel/next.js](https://github.com/vercel/next.js) (1 week ago)
 
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) (2 weeks ago)
 
@@ -103,7 +103,7 @@
 
 - [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (2 weeks ago)
 
-- [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (2 weeks ago)
+- [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (3 weeks ago)
 
 - [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic) (3 weeks ago)
 
