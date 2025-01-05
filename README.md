@@ -37,7 +37,7 @@
 
 
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (3 days ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (4 days ago)
 
 - [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut.  (3 weeks ago)
 
@@ -47,6 +47,8 @@
 
 
 
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js
+
 - [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut. 
 
 - [MM25Zamanian/viboot-starter](https://github.com/MM25Zamanian/viboot-starter) - 🚀 Blast off your web projects with ViBoot-starter! A simple, powerful, and fun way to build stunning websites.
@@ -54,8 +56,6 @@
 - [MM25Zamanian/OMS_Flutter](https://github.com/MM25Zamanian/OMS_Flutter) - Order System Management Flutter
 
 - [MM25Zamanian/CS_PuzzleShift](https://github.com/MM25Zamanian/CS_PuzzleShift) - Montazeri University Guide
-
-- [MM25Zamanian/pwa-template](https://github.com/MM25Zamanian/pwa-template) - Gecut Lit Tailwind PWA Template
 
 ## 🎉 Latest releases I've contributed to
 
@@ -91,9 +91,9 @@
 
 
 
-- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (2 days ago)
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (3 days ago)
 
-- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (2 days ago)
+- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (3 days ago)
 
 - [vercel/next.js](https://github.com/vercel/next.js) (1 week ago)
 
@@ -109,11 +109,11 @@
 
 - [winstonjs/winston](https://github.com/winstonjs/winston) (3 weeks ago)
 
-- [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) (4 weeks ago)
+- [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) (1 month ago)
 
-- [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) (4 weeks ago)
+- [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) (1 month ago)
 
-- [elysiajs/elysia](https://github.com/elysiajs/elysia) (4 weeks ago)
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) (1 month ago)
 
 - [flutter/samples](https://github.com/flutter/samples) (2 months ago)
 
