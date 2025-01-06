@@ -37,11 +37,11 @@
 
 
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (4 days ago)
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js (1 day ago)
+
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (5 days ago)
 
 - [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut.  (3 weeks ago)
-
-- [MM25Zamanian/viboot-starter](https://github.com/MM25Zamanian/viboot-starter) - 🚀 Blast off your web projects with ViBoot-starter! A simple, powerful, and fun way to build stunning websites. (1 month ago)
 
 ## ☂️ My latest projects
 
@@ -71,7 +71,7 @@
 
 - [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (2 months ago)
 
-- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (2 months ago)
+- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (3 months ago)
 
 - [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (7 months ago)
 
@@ -91,9 +91,9 @@
 
 
 
-- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (3 days ago)
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (4 days ago)
 
-- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (3 days ago)
+- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (4 days ago)
 
 - [vercel/next.js](https://github.com/vercel/next.js) (1 week ago)
 
