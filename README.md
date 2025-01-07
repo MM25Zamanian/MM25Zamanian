@@ -37,11 +37,11 @@
 
 
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js (1 day ago)
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js (2 days ago)
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (5 days ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (6 days ago)
 
-- [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut.  (3 weeks ago)
+- [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut.  (4 weeks ago)
 
 ## ☂️ My latest projects
 
@@ -91,9 +91,11 @@
 
 
 
-- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (4 days ago)
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (1 day ago)
 
-- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (4 days ago)
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (5 days ago)
+
+- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (5 days ago)
 
 - [vercel/next.js](https://github.com/vercel/next.js) (1 week ago)
 
@@ -101,13 +103,13 @@
 
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) (2 weeks ago)
 
-- [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (2 weeks ago)
+- [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (3 weeks ago)
 
 - [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (3 weeks ago)
 
-- [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic) (3 weeks ago)
+- [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic) (4 weeks ago)
 
-- [winstonjs/winston](https://github.com/winstonjs/winston) (3 weeks ago)
+- [winstonjs/winston](https://github.com/winstonjs/winston) (4 weeks ago)
 
 - [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) (1 month ago)
 
@@ -128,8 +130,6 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) (4 months ago)
 
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) (5 months ago)
-
-- [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) (5 months ago)
 
 ## 📫 How to reach me
 
