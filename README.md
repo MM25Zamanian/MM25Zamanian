@@ -37,9 +37,9 @@
 
 
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js (2 days ago)
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js (3 days ago)
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (6 days ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
 
 - [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut.  (4 weeks ago)
 
@@ -91,17 +91,17 @@
 
 
 
-- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (1 day ago)
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (2 days ago)
 
-- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (5 days ago)
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (6 days ago)
 
-- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (5 days ago)
+- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (6 days ago)
 
 - [vercel/next.js](https://github.com/vercel/next.js) (1 week ago)
 
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) (2 weeks ago)
 
-- [containrrr/watchtower](https://github.com/containrrr/watchtower) (2 weeks ago)
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) (3 weeks ago)
 
 - [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (3 weeks ago)
 
