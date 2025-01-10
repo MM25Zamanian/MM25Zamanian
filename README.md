@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js (4 days ago)
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js (5 days ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
 
@@ -91,7 +91,7 @@
 
 
 
-- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (3 days ago)
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (4 days ago)
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (1 week ago)
 
@@ -99,7 +99,7 @@
 
 - [vercel/next.js](https://github.com/vercel/next.js) (1 week ago)
 
-- [bombshell-dev/clack](https://github.com/bombshell-dev/clack) (2 weeks ago)
+- [bombshell-dev/clack](https://github.com/bombshell-dev/clack) (3 weeks ago)
 
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) (3 weeks ago)
 
@@ -123,7 +123,7 @@
 
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) (2 months ago)
 
-- [waynezhang/foto](https://github.com/waynezhang/foto) (2 months ago)
+- [waynezhang/foto](https://github.com/waynezhang/foto) (3 months ago)
 
 - [refinedev/refine](https://github.com/refinedev/refine) (4 months ago)
 
