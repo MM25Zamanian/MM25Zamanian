@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js (5 days ago)
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js (6 days ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
 
@@ -91,13 +91,13 @@
 
 
 
-- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (4 days ago)
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (5 days ago)
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (1 week ago)
 
 - [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (1 week ago)
 
-- [vercel/next.js](https://github.com/vercel/next.js) (1 week ago)
+- [vercel/next.js](https://github.com/vercel/next.js) (2 weeks ago)
 
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) (3 weeks ago)
 
@@ -105,7 +105,7 @@
 
 - [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (3 weeks ago)
 
-- [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (3 weeks ago)
+- [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (4 weeks ago)
 
 - [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic) (1 month ago)
 
