@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js (6 days ago)
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js (1 day ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
 
@@ -91,7 +91,7 @@
 
 
 
-- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (5 days ago)
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (6 days ago)
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (1 week ago)
 
@@ -127,7 +127,7 @@
 
 - [refinedev/refine](https://github.com/refinedev/refine) (4 months ago)
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) (4 months ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) (5 months ago)
 
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) (5 months ago)
 
