@@ -91,7 +91,7 @@
 
 
 
-- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (6 days ago)
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (1 week ago)
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (1 week ago)
 
@@ -105,7 +105,7 @@
 
 - [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (3 weeks ago)
 
-- [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (4 weeks ago)
+- [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (1 month ago)
 
 - [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic) (1 month ago)
 
