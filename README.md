@@ -37,25 +37,25 @@
 
 
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js (1 day ago)
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (1 day ago)
+
+- [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (1 day ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
-
-- [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut.  (1 month ago)
 
 ## ☂️ My latest projects
 
 
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js
+- [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) - 
+
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx
 
 - [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut. 
 
 - [MM25Zamanian/viboot-starter](https://github.com/MM25Zamanian/viboot-starter) - 🚀 Blast off your web projects with ViBoot-starter! A simple, powerful, and fun way to build stunning websites.
 
 - [MM25Zamanian/OMS_Flutter](https://github.com/MM25Zamanian/OMS_Flutter) - Order System Management Flutter
-
-- [MM25Zamanian/CS_PuzzleShift](https://github.com/MM25Zamanian/CS_PuzzleShift) - Montazeri University Guide
 
 ## 🎉 Latest releases I've contributed to
 
@@ -75,13 +75,13 @@
 
 - [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (7 months ago)
 
-- [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (8 months ago)
+- [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (9 months ago)
 
-- [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (8 months ago)
+- [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (9 months ago)
 
 - [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (9 months ago)
 
-- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (9 months ago)
+- [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (10 months ago)
 
 - [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (1 year ago)
 
@@ -90,6 +90,8 @@
 ## ⭐ Recent Stars
 
 
+
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (1 day ago)
 
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (1 week ago)
 
@@ -103,7 +105,7 @@
 
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) (3 weeks ago)
 
-- [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (3 weeks ago)
+- [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (4 weeks ago)
 
 - [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (1 month ago)
 
@@ -128,8 +130,6 @@
 - [refinedev/refine](https://github.com/refinedev/refine) (4 months ago)
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) (5 months ago)
-
-- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) (5 months ago)
 
 ## 📫 How to reach me
 
