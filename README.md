@@ -37,11 +37,11 @@
 
 
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (1 day ago)
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (2 days ago)
 
-- [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (1 day ago)
+- [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (2 days ago)
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 weeks ago)
 
 ## ☂️ My latest projects
 
@@ -91,7 +91,7 @@
 
 
 
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (1 day ago)
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (2 days ago)
 
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (1 week ago)
 
@@ -103,7 +103,7 @@
 
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) (3 weeks ago)
 
-- [containrrr/watchtower](https://github.com/containrrr/watchtower) (3 weeks ago)
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) (4 weeks ago)
 
 - [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (4 weeks ago)
 
