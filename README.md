@@ -37,9 +37,9 @@
 
 
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (2 days ago)
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (3 days ago)
 
-- [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (2 days ago)
+- [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (3 days ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 weeks ago)
 
@@ -91,13 +91,13 @@
 
 
 
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (2 days ago)
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (3 days ago)
 
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (1 week ago)
 
-- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (1 week ago)
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (2 weeks ago)
 
-- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (1 week ago)
+- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (2 weeks ago)
 
 - [vercel/next.js](https://github.com/vercel/next.js) (2 weeks ago)
 
@@ -105,7 +105,7 @@
 
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) (4 weeks ago)
 
-- [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (4 weeks ago)
+- [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (1 month ago)
 
 - [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (1 month ago)
 
