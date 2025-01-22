@@ -41,7 +41,7 @@
 
 - [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (1 week ago)
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 weeks ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (3 weeks ago)
 
 ## ☂️ My latest projects
 
@@ -69,7 +69,7 @@
 
 
 
-- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (2 months ago)
+- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (3 months ago)
 
 - [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (3 months ago)
 
