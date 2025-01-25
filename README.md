@@ -37,9 +37,9 @@
 
 
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (1 week ago)
-
 - [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (1 week ago)
+
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (1 week ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (3 weeks ago)
 
@@ -99,7 +99,7 @@
 
 - [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (3 weeks ago)
 
-- [vercel/next.js](https://github.com/vercel/next.js) (3 weeks ago)
+- [vercel/next.js](https://github.com/vercel/next.js) (4 weeks ago)
 
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) (1 month ago)
 
