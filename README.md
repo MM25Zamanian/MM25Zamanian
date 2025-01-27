@@ -37,9 +37,9 @@
 
 
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (1 week ago)
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (2 weeks ago)
 
-- [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (1 week ago)
+- [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (2 weeks ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (3 weeks ago)
 
@@ -91,21 +91,21 @@
 
 
 
-- [golevelup/nestjs](https://github.com/golevelup/nestjs) (1 day ago)
+- [golevelup/nestjs](https://github.com/golevelup/nestjs) (2 days ago)
 
-- [nestjs/typeorm](https://github.com/nestjs/typeorm) (1 day ago)
+- [nestjs/typeorm](https://github.com/nestjs/typeorm) (2 days ago)
 
-- [nestjs/swagger](https://github.com/nestjs/swagger) (1 day ago)
+- [nestjs/swagger](https://github.com/nestjs/swagger) (2 days ago)
 
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (1 week ago)
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (2 weeks ago)
 
-- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (2 weeks ago)
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (3 weeks ago)
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (3 weeks ago)
 
 - [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (3 weeks ago)
 
-- [vercel/next.js](https://github.com/vercel/next.js) (4 weeks ago)
+- [vercel/next.js](https://github.com/vercel/next.js) (1 month ago)
 
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) (1 month ago)
 
