@@ -41,7 +41,7 @@
 
 - [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (2 weeks ago)
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (4 weeks ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 month ago)
 
 ## ☂️ My latest projects
 
@@ -91,11 +91,11 @@
 
 
 
-- [golevelup/nestjs](https://github.com/golevelup/nestjs) (5 days ago)
+- [golevelup/nestjs](https://github.com/golevelup/nestjs) (6 days ago)
 
-- [nestjs/typeorm](https://github.com/nestjs/typeorm) (5 days ago)
+- [nestjs/typeorm](https://github.com/nestjs/typeorm) (6 days ago)
 
-- [nestjs/swagger](https://github.com/nestjs/swagger) (5 days ago)
+- [nestjs/swagger](https://github.com/nestjs/swagger) (6 days ago)
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (2 weeks ago)
 
