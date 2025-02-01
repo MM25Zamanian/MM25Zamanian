@@ -79,7 +79,7 @@
 
 - [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (9 months ago)
 
-- [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (9 months ago)
+- [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (10 months ago)
 
 - [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (10 months ago)
 
@@ -91,19 +91,19 @@
 
 
 
-- [golevelup/nestjs](https://github.com/golevelup/nestjs) (6 days ago)
+- [golevelup/nestjs](https://github.com/golevelup/nestjs) (1 week ago)
 
-- [nestjs/typeorm](https://github.com/nestjs/typeorm) (6 days ago)
+- [nestjs/typeorm](https://github.com/nestjs/typeorm) (1 week ago)
 
-- [nestjs/swagger](https://github.com/nestjs/swagger) (6 days ago)
+- [nestjs/swagger](https://github.com/nestjs/swagger) (1 week ago)
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (2 weeks ago)
 
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (3 weeks ago)
 
-- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (4 weeks ago)
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (1 month ago)
 
-- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (4 weeks ago)
+- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (1 month ago)
 
 - [vercel/next.js](https://github.com/vercel/next.js) (1 month ago)
 
