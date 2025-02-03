@@ -37,9 +37,9 @@
 
 
 
-- [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (2 weeks ago)
+- [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (3 weeks ago)
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (2 weeks ago)
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (3 weeks ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 month ago)
 
@@ -97,9 +97,9 @@
 
 - [nestjs/swagger](https://github.com/nestjs/swagger) (1 week ago)
 
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (2 weeks ago)
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (3 weeks ago)
 
-- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (3 weeks ago)
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (4 weeks ago)
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (1 month ago)
 
