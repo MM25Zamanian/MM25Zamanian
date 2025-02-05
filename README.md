@@ -71,7 +71,7 @@
 
 - [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (3 months ago)
 
-- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (3 months ago)
+- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (4 months ago)
 
 - [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (8 months ago)
 
@@ -99,7 +99,7 @@
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (3 weeks ago)
 
-- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (4 weeks ago)
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (1 month ago)
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (1 month ago)
 
