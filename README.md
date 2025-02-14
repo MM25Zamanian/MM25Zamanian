@@ -37,9 +37,9 @@
 
 
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (1 month ago)
-
 - [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (1 month ago)
+
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (1 month ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 month ago)
 
@@ -91,13 +91,13 @@
 
 
 
-- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (1 day ago)
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (2 days ago)
 
-- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (1 day ago)
+- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (2 days ago)
 
-- [TanStack/query](https://github.com/TanStack/query) (1 day ago)
+- [TanStack/query](https://github.com/TanStack/query) (2 days ago)
 
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (1 day ago)
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (2 days ago)
 
 - [golevelup/nestjs](https://github.com/golevelup/nestjs) (2 weeks ago)
 
