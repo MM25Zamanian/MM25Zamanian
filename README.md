@@ -91,19 +91,19 @@
 
 
 
-- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (2 days ago)
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (3 days ago)
 
-- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (2 days ago)
+- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (3 days ago)
 
-- [TanStack/query](https://github.com/TanStack/query) (2 days ago)
+- [TanStack/query](https://github.com/TanStack/query) (3 days ago)
 
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (2 days ago)
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (3 days ago)
 
-- [golevelup/nestjs](https://github.com/golevelup/nestjs) (2 weeks ago)
+- [golevelup/nestjs](https://github.com/golevelup/nestjs) (3 weeks ago)
 
-- [nestjs/typeorm](https://github.com/nestjs/typeorm) (2 weeks ago)
+- [nestjs/typeorm](https://github.com/nestjs/typeorm) (3 weeks ago)
 
-- [nestjs/swagger](https://github.com/nestjs/swagger) (2 weeks ago)
+- [nestjs/swagger](https://github.com/nestjs/swagger) (3 weeks ago)
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (1 month ago)
 
@@ -119,7 +119,7 @@
 
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) (1 month ago)
 
-- [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (1 month ago)
+- [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (2 months ago)
 
 - [Lissy93/who-dat](https://github.com/Lissy93/who-dat) (2 months ago)
 
