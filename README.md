@@ -91,13 +91,13 @@
 
 
 
-- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (3 days ago)
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (4 days ago)
 
-- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (3 days ago)
+- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (4 days ago)
 
-- [TanStack/query](https://github.com/TanStack/query) (3 days ago)
+- [TanStack/query](https://github.com/TanStack/query) (4 days ago)
 
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (3 days ago)
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (4 days ago)
 
 - [golevelup/nestjs](https://github.com/golevelup/nestjs) (3 weeks ago)
 
@@ -117,7 +117,7 @@
 
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) (1 month ago)
 
-- [containrrr/watchtower](https://github.com/containrrr/watchtower) (1 month ago)
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) (2 months ago)
 
 - [webpixels/bootstrap-starter-kit](https://github.com/webpixels/bootstrap-starter-kit) (2 months ago)
 
