@@ -91,13 +91,13 @@
 
 
 
-- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (4 days ago)
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (5 days ago)
 
-- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (4 days ago)
+- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (5 days ago)
 
-- [TanStack/query](https://github.com/TanStack/query) (4 days ago)
+- [TanStack/query](https://github.com/TanStack/query) (5 days ago)
 
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (4 days ago)
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (5 days ago)
 
 - [golevelup/nestjs](https://github.com/golevelup/nestjs) (3 weeks ago)
 
