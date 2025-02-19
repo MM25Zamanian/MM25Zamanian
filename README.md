@@ -73,7 +73,7 @@
 
 - [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (4 months ago)
 
-- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (8 months ago)
+- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (9 months ago)
 
 - [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (10 months ago)
 
@@ -91,13 +91,13 @@
 
 
 
-- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (6 days ago)
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (1 week ago)
 
-- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (6 days ago)
+- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (1 week ago)
 
-- [TanStack/query](https://github.com/TanStack/query) (6 days ago)
+- [TanStack/query](https://github.com/TanStack/query) (1 week ago)
 
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (6 days ago)
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (1 week ago)
 
 - [golevelup/nestjs](https://github.com/golevelup/nestjs) (3 weeks ago)
 
