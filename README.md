@@ -99,11 +99,11 @@
 
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (1 week ago)
 
-- [golevelup/nestjs](https://github.com/golevelup/nestjs) (4 weeks ago)
+- [golevelup/nestjs](https://github.com/golevelup/nestjs) (1 month ago)
 
-- [nestjs/typeorm](https://github.com/nestjs/typeorm) (4 weeks ago)
+- [nestjs/typeorm](https://github.com/nestjs/typeorm) (1 month ago)
 
-- [nestjs/swagger](https://github.com/nestjs/swagger) (4 weeks ago)
+- [nestjs/swagger](https://github.com/nestjs/swagger) (1 month ago)
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (1 month ago)
 
