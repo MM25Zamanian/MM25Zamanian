@@ -37,9 +37,9 @@
 
 
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (1 month ago)
-
 - [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (1 month ago)
+
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (1 month ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 month ago)
 
@@ -91,6 +91,8 @@
 
 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (1 day ago)
+
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (1 week ago)
 
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (1 week ago)
@@ -128,8 +130,6 @@
 - [winstonjs/winston](https://github.com/winstonjs/winston) (2 months ago)
 
 - [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) (2 months ago)
-
-- [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) (2 months ago)
 
 ## 📫 How to reach me
 
