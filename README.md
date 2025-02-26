@@ -91,15 +91,15 @@
 
 
 
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (1 day ago)
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (2 days ago)
 
-- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (1 week ago)
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (2 weeks ago)
 
-- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (1 week ago)
+- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (2 weeks ago)
 
-- [TanStack/query](https://github.com/TanStack/query) (1 week ago)
+- [TanStack/query](https://github.com/TanStack/query) (2 weeks ago)
 
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (1 week ago)
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (2 weeks ago)
 
 - [golevelup/nestjs](https://github.com/golevelup/nestjs) (1 month ago)
 
@@ -115,7 +115,7 @@
 
 - [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (1 month ago)
 
-- [vercel/next.js](https://github.com/vercel/next.js) (1 month ago)
+- [vercel/next.js](https://github.com/vercel/next.js) (2 months ago)
 
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) (2 months ago)
 
