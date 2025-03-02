@@ -41,7 +41,7 @@
 
 - [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (1 month ago)
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 month ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 months ago)
 
 ## ☂️ My latest projects
 
@@ -91,17 +91,21 @@
 
 
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (1 day ago)
+- [sadmann7/file-uploader](https://github.com/sadmann7/file-uploader) (1 day ago)
 
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) (1 day ago)
+- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) (1 day ago)
 
-- [ChrisAbdo/MotionVariants](https://github.com/ChrisAbdo/MotionVariants) (1 day ago)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (2 days ago)
 
-- [uixmat/onborda](https://github.com/uixmat/onborda) (1 day ago)
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) (2 days ago)
 
-- [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) (2 days ago)
+- [ChrisAbdo/MotionVariants](https://github.com/ChrisAbdo/MotionVariants) (2 days ago)
 
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (5 days ago)
+- [uixmat/onborda](https://github.com/uixmat/onborda) (2 days ago)
+
+- [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) (3 days ago)
+
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (6 days ago)
 
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (2 weeks ago)
 
@@ -126,10 +130,6 @@
 - [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (1 month ago)
 
 - [vercel/next.js](https://github.com/vercel/next.js) (2 months ago)
-
-- [bombshell-dev/clack](https://github.com/bombshell-dev/clack) (2 months ago)
-
-- [containrrr/watchtower](https://github.com/containrrr/watchtower) (2 months ago)
 
 ## 📫 How to reach me
 
