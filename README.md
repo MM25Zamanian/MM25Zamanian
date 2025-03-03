@@ -79,7 +79,7 @@
 
 - [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (10 months ago)
 
-- [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (10 months ago)
+- [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (11 months ago)
 
 - [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (11 months ago)
 
@@ -91,21 +91,21 @@
 
 
 
-- [sadmann7/file-uploader](https://github.com/sadmann7/file-uploader) (1 day ago)
+- [sadmann7/file-uploader](https://github.com/sadmann7/file-uploader) (2 days ago)
 
-- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) (1 day ago)
+- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) (2 days ago)
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (2 days ago)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (3 days ago)
 
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) (2 days ago)
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) (3 days ago)
 
-- [ChrisAbdo/MotionVariants](https://github.com/ChrisAbdo/MotionVariants) (2 days ago)
+- [ChrisAbdo/MotionVariants](https://github.com/ChrisAbdo/MotionVariants) (3 days ago)
 
-- [uixmat/onborda](https://github.com/uixmat/onborda) (2 days ago)
+- [uixmat/onborda](https://github.com/uixmat/onborda) (3 days ago)
 
-- [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) (3 days ago)
+- [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) (4 days ago)
 
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (6 days ago)
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (1 week ago)
 
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (2 weeks ago)
 
@@ -125,9 +125,9 @@
 
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (1 month ago)
 
-- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (1 month ago)
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (2 months ago)
 
-- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (1 month ago)
+- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (2 months ago)
 
 - [vercel/next.js](https://github.com/vercel/next.js) (2 months ago)
 
