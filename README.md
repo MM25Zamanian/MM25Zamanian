@@ -71,7 +71,7 @@
 
 - [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (4 months ago)
 
-- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (4 months ago)
+- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (5 months ago)
 
 - [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (9 months ago)
 
@@ -91,17 +91,17 @@
 
 
 
-- [sadmann7/file-uploader](https://github.com/sadmann7/file-uploader) (5 days ago)
+- [sadmann7/file-uploader](https://github.com/sadmann7/file-uploader) (6 days ago)
 
-- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) (5 days ago)
+- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) (6 days ago)
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (6 days ago)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (1 week ago)
 
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) (6 days ago)
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) (1 week ago)
 
-- [ChrisAbdo/MotionVariants](https://github.com/ChrisAbdo/MotionVariants) (6 days ago)
+- [ChrisAbdo/MotionVariants](https://github.com/ChrisAbdo/MotionVariants) (1 week ago)
 
-- [uixmat/onborda](https://github.com/uixmat/onborda) (6 days ago)
+- [uixmat/onborda](https://github.com/uixmat/onborda) (1 week ago)
 
 - [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) (1 week ago)
 
@@ -123,7 +123,7 @@
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (1 month ago)
 
-- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (1 month ago)
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (2 months ago)
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (2 months ago)
 
