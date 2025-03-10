@@ -105,7 +105,7 @@
 
 - [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) (1 week ago)
 
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (1 week ago)
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (2 weeks ago)
 
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (3 weeks ago)
 
