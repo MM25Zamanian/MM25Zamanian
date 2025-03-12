@@ -107,13 +107,13 @@
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (2 weeks ago)
 
-- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (3 weeks ago)
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (4 weeks ago)
 
-- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (3 weeks ago)
+- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (4 weeks ago)
 
-- [TanStack/query](https://github.com/TanStack/query) (3 weeks ago)
+- [TanStack/query](https://github.com/TanStack/query) (4 weeks ago)
 
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (3 weeks ago)
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (4 weeks ago)
 
 - [golevelup/nestjs](https://github.com/golevelup/nestjs) (1 month ago)
 
