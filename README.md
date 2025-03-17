@@ -83,15 +83,15 @@
 
 - [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 year ago)
 
-- [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (1 year ago)
+- [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/alimd-hub/fract/pull/155) on [alimd-hub/fract](https://github.com/alimd-hub/fract) (1 year ago)
 
-- [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (1 year ago)
+- [docs(README.md): pull address &amp; tag](https://github.com/alimd-hub/nginx/pull/21) on [alimd-hub/nginx](https://github.com/alimd-hub/nginx) (1 year ago)
 
 ## ⭐ Recent Stars
 
 
 
-- [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) (3 days ago)
+- [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) (4 days ago)
 
 - [sadmann7/file-uploader](https://github.com/sadmann7/file-uploader) (2 weeks ago)
 
@@ -107,7 +107,7 @@
 
 - [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) (2 weeks ago)
 
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (2 weeks ago)
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (3 weeks ago)
 
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (1 month ago)
 
