@@ -73,7 +73,7 @@
 
 - [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (5 months ago)
 
-- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (9 months ago)
+- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (10 months ago)
 
 - [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (11 months ago)
 
@@ -97,13 +97,13 @@
 
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) (2 weeks ago)
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (2 weeks ago)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (3 weeks ago)
 
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) (2 weeks ago)
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) (3 weeks ago)
 
-- [ChrisAbdo/MotionVariants](https://github.com/ChrisAbdo/MotionVariants) (2 weeks ago)
+- [ChrisAbdo/MotionVariants](https://github.com/ChrisAbdo/MotionVariants) (3 weeks ago)
 
-- [uixmat/onborda](https://github.com/uixmat/onborda) (2 weeks ago)
+- [uixmat/onborda](https://github.com/uixmat/onborda) (3 weeks ago)
 
 - [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) (3 weeks ago)
 
