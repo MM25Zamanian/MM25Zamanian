@@ -69,7 +69,7 @@
 
 
 
-- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (4 months ago)
+- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (5 months ago)
 
 - [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (5 months ago)
 
@@ -90,6 +90,8 @@
 ## ⭐ Recent Stars
 
 
+
+- [vercel/micro](https://github.com/vercel/micro) (1 day ago)
 
 - [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) (1 week ago)
 
@@ -128,8 +130,6 @@
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (2 months ago)
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) (2 months ago)
-
-- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) (2 months ago)
 
 ## 📫 How to reach me
 
