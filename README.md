@@ -37,15 +37,17 @@
 
 
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (2 months ago)
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (1 day ago)
 
 - [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (2 months ago)
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 months ago)
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (2 months ago)
 
 ## ☂️ My latest projects
 
 
+
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications.
 
 - [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) - 
 
@@ -54,8 +56,6 @@
 - [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut. 
 
 - [MM25Zamanian/viboot-starter](https://github.com/MM25Zamanian/viboot-starter) - 🚀 Blast off your web projects with ViBoot-starter! A simple, powerful, and fun way to build stunning websites.
-
-- [MM25Zamanian/OMS_Flutter](https://github.com/MM25Zamanian/OMS_Flutter) - Order System Management Flutter
 
 ## 🎉 Latest releases I've contributed to
 
@@ -91,15 +91,17 @@
 
 
 
-- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (5 days ago)
+- [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (1 day ago)
 
-- [vercel/micro](https://github.com/vercel/micro) (6 days ago)
+- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (6 days ago)
+
+- [vercel/micro](https://github.com/vercel/micro) (1 week ago)
 
 - [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) (2 weeks ago)
 
-- [sadmann7/file-uploader](https://github.com/sadmann7/file-uploader) (3 weeks ago)
+- [sadmann7/file-uploader](https://github.com/sadmann7/file-uploader) (4 weeks ago)
 
-- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) (3 weeks ago)
+- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) (4 weeks ago)
 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (4 weeks ago)
 
@@ -109,7 +111,7 @@
 
 - [uixmat/onborda](https://github.com/uixmat/onborda) (4 weeks ago)
 
-- [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) (4 weeks ago)
+- [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) (1 month ago)
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (1 month ago)
 
@@ -128,8 +130,6 @@
 - [nestjs/swagger](https://github.com/nestjs/swagger) (2 months ago)
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (2 months ago)
-
-- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) (2 months ago)
 
 ## 📫 How to reach me
 
