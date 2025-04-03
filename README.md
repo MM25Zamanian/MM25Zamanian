@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (5 days ago)
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (6 days ago)
 
 - [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (2 months ago)
 
@@ -91,13 +91,15 @@
 
 
 
-- [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (5 days ago)
+- [google/dotprompt](https://github.com/google/dotprompt) (1 day ago)
+
+- [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (6 days ago)
 
 - [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (1 week ago)
 
 - [vercel/micro](https://github.com/vercel/micro) (1 week ago)
 
-- [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) (2 weeks ago)
+- [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) (3 weeks ago)
 
 - [sadmann7/file-uploader](https://github.com/sadmann7/file-uploader) (1 month ago)
 
@@ -128,8 +130,6 @@
 - [nestjs/typeorm](https://github.com/nestjs/typeorm) (2 months ago)
 
 - [nestjs/swagger](https://github.com/nestjs/swagger) (2 months ago)
-
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (2 months ago)
 
 ## 📫 How to reach me
 
