@@ -71,7 +71,7 @@
 
 - [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (5 months ago)
 
-- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (5 months ago)
+- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (6 months ago)
 
 - [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (10 months ago)
 
@@ -91,11 +91,11 @@
 
 
 
-- [google/dotprompt](https://github.com/google/dotprompt) (3 days ago)
+- [google/dotprompt](https://github.com/google/dotprompt) (4 days ago)
 
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (1 week ago)
 
-- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (1 week ago)
+- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (2 weeks ago)
 
 - [vercel/micro](https://github.com/vercel/micro) (2 weeks ago)
 
