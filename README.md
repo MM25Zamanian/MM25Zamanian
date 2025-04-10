@@ -91,6 +91,8 @@
 
 
 
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) (1 day ago)
+
 - [google/dotprompt](https://github.com/google/dotprompt) (1 week ago)
 
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (1 week ago)
@@ -99,7 +101,7 @@
 
 - [vercel/micro](https://github.com/vercel/micro) (2 weeks ago)
 
-- [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) (3 weeks ago)
+- [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) (4 weeks ago)
 
 - [sadmann7/file-uploader](https://github.com/sadmann7/file-uploader) (1 month ago)
 
@@ -128,8 +130,6 @@
 - [golevelup/nestjs](https://github.com/golevelup/nestjs) (2 months ago)
 
 - [nestjs/typeorm](https://github.com/nestjs/typeorm) (2 months ago)
-
-- [nestjs/swagger](https://github.com/nestjs/swagger) (2 months ago)
 
 ## 📫 How to reach me
 
