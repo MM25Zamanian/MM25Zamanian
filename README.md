@@ -37,11 +37,11 @@
 
 
 
-- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (3 days ago)
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (4 days ago)
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (2 months ago)
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (3 months ago)
 
-- [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (2 months ago)
+- [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (3 months ago)
 
 ## ☂️ My latest projects
 
@@ -91,13 +91,13 @@
 
 
 
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) (3 days ago)
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) (4 days ago)
 
 - [google/dotprompt](https://github.com/google/dotprompt) (1 week ago)
 
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (2 weeks ago)
 
-- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (2 weeks ago)
+- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (3 weeks ago)
 
 - [vercel/micro](https://github.com/vercel/micro) (3 weeks ago)
 
@@ -119,13 +119,13 @@
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (1 month ago)
 
-- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (1 month ago)
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (2 months ago)
 
-- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (1 month ago)
+- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (2 months ago)
 
-- [TanStack/query](https://github.com/TanStack/query) (1 month ago)
+- [TanStack/query](https://github.com/TanStack/query) (2 months ago)
 
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (1 month ago)
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (2 months ago)
 
 - [golevelup/nestjs](https://github.com/golevelup/nestjs) (2 months ago)
 
