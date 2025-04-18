@@ -95,7 +95,7 @@
 
 - [google/dotprompt](https://github.com/google/dotprompt) (2 weeks ago)
 
-- [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (2 weeks ago)
+- [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (3 weeks ago)
 
 - [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (3 weeks ago)
 
