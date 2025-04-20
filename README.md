@@ -73,7 +73,7 @@
 
 - [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (6 months ago)
 
-- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (10 months ago)
+- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (11 months ago)
 
 - [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 year ago)
 
@@ -97,7 +97,7 @@
 
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (3 weeks ago)
 
-- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (3 weeks ago)
+- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (4 weeks ago)
 
 - [vercel/micro](https://github.com/vercel/micro) (4 weeks ago)
 
