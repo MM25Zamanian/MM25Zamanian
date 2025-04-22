@@ -69,7 +69,7 @@
 
 
 
-- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (5 months ago)
+- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (6 months ago)
 
 - [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (6 months ago)
 
@@ -97,7 +97,7 @@
 
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (3 weeks ago)
 
-- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (4 weeks ago)
+- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (1 month ago)
 
 - [vercel/micro](https://github.com/vercel/micro) (1 month ago)
 
