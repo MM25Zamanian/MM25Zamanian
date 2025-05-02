@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (2 days ago)
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (3 days ago)
 
 - [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (3 months ago)
 
@@ -93,7 +93,7 @@
 
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) (3 weeks ago)
 
-- [google/dotprompt](https://github.com/google/dotprompt) (4 weeks ago)
+- [google/dotprompt](https://github.com/google/dotprompt) (1 month ago)
 
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (1 month ago)
 
