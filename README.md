@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (6 days ago)
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (1 week ago)
 
 - [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (3 months ago)
 
@@ -71,7 +71,7 @@
 
 - [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (6 months ago)
 
-- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (6 months ago)
+- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (7 months ago)
 
 - [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (11 months ago)
 
