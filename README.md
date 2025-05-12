@@ -101,7 +101,7 @@
 
 - [vercel/micro](https://github.com/vercel/micro) (1 month ago)
 
-- [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) (1 month ago)
+- [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) (2 months ago)
 
 - [sadmann7/file-uploader](https://github.com/sadmann7/file-uploader) (2 months ago)
 
