@@ -37,11 +37,11 @@
 
 
 
-- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (1 week ago)
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (2 weeks ago)
 
-- [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (3 months ago)
+- [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (4 months ago)
 
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (3 months ago)
+- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (4 months ago)
 
 ## ☂️ My latest projects
 
@@ -119,13 +119,13 @@
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (2 months ago)
 
-- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (2 months ago)
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (3 months ago)
 
-- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (2 months ago)
+- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (3 months ago)
 
-- [TanStack/query](https://github.com/TanStack/query) (2 months ago)
+- [TanStack/query](https://github.com/TanStack/query) (3 months ago)
 
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (2 months ago)
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (3 months ago)
 
 - [golevelup/nestjs](https://github.com/golevelup/nestjs) (3 months ago)
 
