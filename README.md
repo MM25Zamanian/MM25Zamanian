@@ -37,15 +37,17 @@
 
 
 
-- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (2 weeks ago)
+- [MM25Zamanian/web-proposal](https://github.com/MM25Zamanian/web-proposal) -  (1 day ago)
 
-- [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) -  (4 months ago)
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (2 weeks ago)
 
 - [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (4 months ago)
 
 ## ☂️ My latest projects
 
 
+
+- [MM25Zamanian/web-proposal](https://github.com/MM25Zamanian/web-proposal) - 
 
 - [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications.
 
@@ -54,8 +56,6 @@
 - [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx
 
 - [MM25Zamanian/quip](https://github.com/MM25Zamanian/quip) - Quip is an internal social network designed to foster creativity, collaboration, and community within Gecut. 
-
-- [MM25Zamanian/viboot-starter](https://github.com/MM25Zamanian/viboot-starter) - 🚀 Blast off your web projects with ViBoot-starter! A simple, powerful, and fun way to build stunning websites.
 
 ## 🎉 Latest releases I've contributed to
 
