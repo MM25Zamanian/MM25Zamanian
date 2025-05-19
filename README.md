@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/web-proposal](https://github.com/MM25Zamanian/web-proposal) -  (4 days ago)
+- [MM25Zamanian/web-proposal](https://github.com/MM25Zamanian/web-proposal) -  (5 days ago)
 
 - [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (2 weeks ago)
 
