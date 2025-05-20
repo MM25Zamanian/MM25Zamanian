@@ -37,9 +37,9 @@
 
 
 
-- [MM25Zamanian/web-proposal](https://github.com/MM25Zamanian/web-proposal) -  (5 days ago)
+- [MM25Zamanian/web-proposal](https://github.com/MM25Zamanian/web-proposal) -  (6 days ago)
 
-- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (2 weeks ago)
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (3 weeks ago)
 
 - [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (4 months ago)
 
@@ -73,7 +73,7 @@
 
 - [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (7 months ago)
 
-- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (11 months ago)
+- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (1 year ago)
 
 - [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 year ago)
 
@@ -90,6 +90,8 @@
 ## ⭐ Recent Stars
 
 
+
+- [rayriffy/elysia-rate-limit](https://github.com/rayriffy/elysia-rate-limit) (1 day ago)
 
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) (1 month ago)
 
@@ -128,8 +130,6 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (3 months ago)
 
 - [golevelup/nestjs](https://github.com/golevelup/nestjs) (3 months ago)
-
-- [nestjs/typeorm](https://github.com/nestjs/typeorm) (3 months ago)
 
 ## 📫 How to reach me
 
