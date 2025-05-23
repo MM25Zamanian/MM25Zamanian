@@ -61,9 +61,9 @@
 
 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.4.7](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.4.7), 6 months ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.4.7](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.4.7), 7 months ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
-- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/utilities@7.0.3](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/utilities%407.0.3), 6 months ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
+- [gecut/hybrid-core](https://github.com/gecut/hybrid-core) ([@gecut/utilities@7.0.3](https://github.com/gecut/hybrid-core/releases/tag/%40gecut/utilities%407.0.3), 7 months ago) - A cutting-edge Node.js framework designed for building high-performance, scalable, and maintainable applications with a comprehensive suite of development tools.
 
 ## 👓 My recent Pull Requests
 
@@ -91,7 +91,7 @@
 
 
 
-- [rayriffy/elysia-rate-limit](https://github.com/rayriffy/elysia-rate-limit) (3 days ago)
+- [rayriffy/elysia-rate-limit](https://github.com/rayriffy/elysia-rate-limit) (4 days ago)
 
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) (1 month ago)
 
