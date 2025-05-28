@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/web-proposal](https://github.com/MM25Zamanian/web-proposal) -  (1 week ago)
+- [MM25Zamanian/web-proposal](https://github.com/MM25Zamanian/web-proposal) -  (2 weeks ago)
 
 - [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (4 weeks ago)
 
@@ -117,7 +117,7 @@
 
 - [uixmat/onborda](https://github.com/uixmat/onborda) (2 months ago)
 
-- [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) (2 months ago)
+- [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) (3 months ago)
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (3 months ago)
 
