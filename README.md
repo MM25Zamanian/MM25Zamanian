@@ -39,7 +39,7 @@
 
 - [MM25Zamanian/web-proposal](https://github.com/MM25Zamanian/web-proposal) -  (2 weeks ago)
 
-- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (4 weeks ago)
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (1 month ago)
 
 - [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx (4 months ago)
 
@@ -109,13 +109,13 @@
 
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) (2 months ago)
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (2 months ago)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (3 months ago)
 
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) (2 months ago)
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) (3 months ago)
 
-- [ChrisAbdo/MotionVariants](https://github.com/ChrisAbdo/MotionVariants) (2 months ago)
+- [ChrisAbdo/MotionVariants](https://github.com/ChrisAbdo/MotionVariants) (3 months ago)
 
-- [uixmat/onborda](https://github.com/uixmat/onborda) (2 months ago)
+- [uixmat/onborda](https://github.com/uixmat/onborda) (3 months ago)
 
 - [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) (3 months ago)
 
