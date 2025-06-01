@@ -69,6 +69,8 @@
 
 
 
+- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (1 day ago)
+
 - [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (7 months ago)
 
 - [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (7 months ago)
@@ -95,7 +97,7 @@
 
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) (1 month ago)
 
-- [google/dotprompt](https://github.com/google/dotprompt) (1 month ago)
+- [google/dotprompt](https://github.com/google/dotprompt) (2 months ago)
 
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (2 months ago)
 
