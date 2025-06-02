@@ -69,7 +69,7 @@
 
 
 
-- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (1 day ago)
+- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (2 days ago)
 
 - [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (7 months ago)
 
@@ -93,7 +93,7 @@
 
 
 
-- [rayriffy/elysia-rate-limit](https://github.com/rayriffy/elysia-rate-limit) (1 week ago)
+- [rayriffy/elysia-rate-limit](https://github.com/rayriffy/elysia-rate-limit) (2 weeks ago)
 
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) (1 month ago)
 
