@@ -61,7 +61,7 @@
 
 
 
-- [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) ([v0.0.1](https://github.com/MM25Zamanian/pr-explainer/releases/tag/v0.0.1), 1 day ago) - 
+- [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) ([v1.0.1](https://github.com/MM25Zamanian/pr-explainer/releases/tag/v1.0.1), 1 day ago) - 
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.4.7](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.4.7), 7 months ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
@@ -69,9 +69,9 @@
 
 
 
-- [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (1 day ago)
+- [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (2 days ago)
 
-- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (5 days ago)
+- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (6 days ago)
 
 - [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (7 months ago)
 
@@ -95,7 +95,7 @@
 
 
 
-- [vercel/ai](https://github.com/vercel/ai) (3 days ago)
+- [vercel/ai](https://github.com/vercel/ai) (4 days ago)
 
 - [rayriffy/elysia-rate-limit](https://github.com/rayriffy/elysia-rate-limit) (2 weeks ago)
 
