@@ -37,9 +37,9 @@
 
 
 
-- [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) -  (5 days ago)
+- [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) -  (6 days ago)
 
-- [MM25Zamanian/web-proposal](https://github.com/MM25Zamanian/web-proposal) -  (3 weeks ago)
+- [MM25Zamanian/web-proposal](https://github.com/MM25Zamanian/web-proposal) -  (4 weeks ago)
 
 - [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (1 month ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) ([v1.0.1](https://github.com/MM25Zamanian/pr-explainer/releases/tag/v1.0.1), 5 days ago) - 
+- [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) ([v1.0.1](https://github.com/MM25Zamanian/pr-explainer/releases/tag/v1.0.1), 6 days ago) - 
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.4.7](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.4.7), 7 months ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
@@ -69,7 +69,7 @@
 
 
 
-- [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (6 days ago)
+- [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (1 week ago)
 
 - [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (1 week ago)
 
@@ -109,7 +109,7 @@
 
 - [vercel/micro](https://github.com/vercel/micro) (2 months ago)
 
-- [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) (2 months ago)
+- [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) (3 months ago)
 
 - [sadmann7/file-uploader](https://github.com/sadmann7/file-uploader) (3 months ago)
 
