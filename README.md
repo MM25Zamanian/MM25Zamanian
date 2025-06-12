@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) -  (6 days ago)
+- [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) -  (1 week ago)
 
 - [MM25Zamanian/web-proposal](https://github.com/MM25Zamanian/web-proposal) -  (4 weeks ago)
 
@@ -61,7 +61,7 @@
 
 
 
-- [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) ([v1.0.1](https://github.com/MM25Zamanian/pr-explainer/releases/tag/v1.0.1), 6 days ago) - 
+- [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) ([v1.0.1](https://github.com/MM25Zamanian/pr-explainer/releases/tag/v1.0.1), 1 week ago) - 
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.4.7](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.4.7), 7 months ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
@@ -95,6 +95,8 @@
 
 
 
+- [vercel/commerce](https://github.com/vercel/commerce) (1 day ago)
+
 - [vercel/ai](https://github.com/vercel/ai) (1 week ago)
 
 - [rayriffy/elysia-rate-limit](https://github.com/rayriffy/elysia-rate-limit) (3 weeks ago)
@@ -127,13 +129,11 @@
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (3 months ago)
 
-- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (3 months ago)
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (4 months ago)
 
-- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (3 months ago)
+- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (4 months ago)
 
-- [TanStack/query](https://github.com/TanStack/query) (3 months ago)
-
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (3 months ago)
+- [TanStack/query](https://github.com/TanStack/query) (4 months ago)
 
 ## 📫 How to reach me
 
