@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (1 day ago)
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (2 days ago)
 
 - [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) -  (1 week ago)
 
@@ -71,7 +71,7 @@
 
 - [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (1 week ago)
 
-- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (1 week ago)
+- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (2 weeks ago)
 
 - [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (7 months ago)
 
@@ -95,7 +95,7 @@
 
 
 
-- [vercel/commerce](https://github.com/vercel/commerce) (2 days ago)
+- [vercel/commerce](https://github.com/vercel/commerce) (3 days ago)
 
 - [vercel/ai](https://github.com/vercel/ai) (1 week ago)
 
