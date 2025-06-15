@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (2 days ago)
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (3 days ago)
 
 - [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) -  (1 week ago)
 
@@ -95,7 +95,7 @@
 
 
 
-- [vercel/commerce](https://github.com/vercel/commerce) (3 days ago)
+- [vercel/commerce](https://github.com/vercel/commerce) (4 days ago)
 
 - [vercel/ai](https://github.com/vercel/ai) (1 week ago)
 
