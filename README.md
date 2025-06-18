@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (5 days ago)
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (6 days ago)
 
 - [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) -  (1 week ago)
 
@@ -69,7 +69,7 @@
 
 
 
-- [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (1 week ago)
+- [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (2 weeks ago)
 
 - [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (2 weeks ago)
 
@@ -95,11 +95,11 @@
 
 
 
-- [vercel/commerce](https://github.com/vercel/commerce) (6 days ago)
+- [vercel/commerce](https://github.com/vercel/commerce) (1 week ago)
 
 - [vercel/ai](https://github.com/vercel/ai) (2 weeks ago)
 
-- [rayriffy/elysia-rate-limit](https://github.com/rayriffy/elysia-rate-limit) (4 weeks ago)
+- [rayriffy/elysia-rate-limit](https://github.com/rayriffy/elysia-rate-limit) (1 month ago)
 
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) (2 months ago)
 
