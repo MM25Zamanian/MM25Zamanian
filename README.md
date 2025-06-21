@@ -71,9 +71,9 @@
 
 - [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (2 weeks ago)
 
-- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (2 weeks ago)
+- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (3 weeks ago)
 
-- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (7 months ago)
+- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (8 months ago)
 
 - [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (8 months ago)
 
@@ -107,7 +107,7 @@
 
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (2 months ago)
 
-- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (2 months ago)
+- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (3 months ago)
 
 - [vercel/micro](https://github.com/vercel/micro) (3 months ago)
 
