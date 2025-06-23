@@ -97,7 +97,7 @@
 
 - [vercel/commerce](https://github.com/vercel/commerce) (1 week ago)
 
-- [vercel/ai](https://github.com/vercel/ai) (2 weeks ago)
+- [vercel/ai](https://github.com/vercel/ai) (3 weeks ago)
 
 - [rayriffy/elysia-rate-limit](https://github.com/rayriffy/elysia-rate-limit) (1 month ago)
 
