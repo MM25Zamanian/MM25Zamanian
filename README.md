@@ -69,7 +69,7 @@
 
 
 
-- [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (2 weeks ago)
+- [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (3 weeks ago)
 
 - [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (3 weeks ago)
 
@@ -87,7 +87,7 @@
 
 - [feat(components): create dialog components](https://github.com/gecut/hybrid-ui/pull/26) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 year ago)
 
-- [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (1 year ago)
+- [fix(ui-kit/large-top-app-bar): exported function name](https://github.com/Alwatr/fract/pull/155) on [Alwatr/fract](https://github.com/Alwatr/fract) (2 years ago)
 
 - [docs(README.md): pull address &amp; tag](https://github.com/Alwatr/nginx/pull/21) on [Alwatr/nginx](https://github.com/Alwatr/nginx) (2 years ago)
 
@@ -95,7 +95,7 @@
 
 
 
-- [vercel/commerce](https://github.com/vercel/commerce) (1 week ago)
+- [vercel/commerce](https://github.com/vercel/commerce) (2 weeks ago)
 
 - [vercel/ai](https://github.com/vercel/ai) (3 weeks ago)
 
