@@ -37,7 +37,7 @@
 
 
 
-- [gecut/containers](https://github.com/gecut/containers) -  (1 day ago)
+- [gecut/containers](https://github.com/gecut/containers) -  (2 days ago)
 
 - [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (2 weeks ago)
 
@@ -95,6 +95,10 @@
 
 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) (1 day ago)
+
+- [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) (1 day ago)
+
 - [vercel/commerce](https://github.com/vercel/commerce) (2 weeks ago)
 
 - [vercel/ai](https://github.com/vercel/ai) (3 weeks ago)
@@ -125,15 +129,11 @@
 
 - [uixmat/onborda](https://github.com/uixmat/onborda) (3 months ago)
 
-- [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) (3 months ago)
+- [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) (4 months ago)
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (4 months ago)
 
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (4 months ago)
-
-- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (4 months ago)
-
-- [TanStack/query](https://github.com/TanStack/query) (4 months ago)
 
 ## 📫 How to reach me
 
