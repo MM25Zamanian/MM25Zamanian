@@ -41,7 +41,7 @@
 
 - [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (3 weeks ago)
 
-- [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) -  (4 weeks ago)
+- [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) -  (1 month ago)
 
 ## ☂️ My latest projects
 
@@ -61,7 +61,7 @@
 
 
 
-- [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) ([v1.0.1](https://github.com/MM25Zamanian/pr-explainer/releases/tag/v1.0.1), 4 weeks ago) - 
+- [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) ([v1.0.1](https://github.com/MM25Zamanian/pr-explainer/releases/tag/v1.0.1), 1 month ago) - 
 
 - [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.4.7](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.4.7), 8 months ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
@@ -75,7 +75,7 @@
 
 - [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (8 months ago)
 
-- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (8 months ago)
+- [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (9 months ago)
 
 - [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (1 year ago)
 
