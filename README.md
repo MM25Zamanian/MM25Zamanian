@@ -105,7 +105,7 @@
 
 - [rayriffy/elysia-rate-limit](https://github.com/rayriffy/elysia-rate-limit) (1 month ago)
 
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) (2 months ago)
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) (3 months ago)
 
 - [google/dotprompt](https://github.com/google/dotprompt) (3 months ago)
 
