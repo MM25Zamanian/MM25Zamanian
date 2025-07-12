@@ -39,7 +39,7 @@
 
 - [gecut/containers](https://github.com/gecut/containers) -  (2 weeks ago)
 
-- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (4 weeks ago)
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (1 month ago)
 
 - [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) -  (1 month ago)
 
@@ -133,7 +133,7 @@
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) (4 months ago)
 
-- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (4 months ago)
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) (5 months ago)
 
 ## 📫 How to reach me
 
