@@ -73,7 +73,7 @@
 
 - [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (1 month ago)
 
-- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (8 months ago)
+- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (9 months ago)
 
 - [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (9 months ago)
 
@@ -111,7 +111,7 @@
 
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (3 months ago)
 
-- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (3 months ago)
+- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (4 months ago)
 
 - [vercel/micro](https://github.com/vercel/micro) (4 months ago)
 
