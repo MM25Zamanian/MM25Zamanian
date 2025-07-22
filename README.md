@@ -63,7 +63,7 @@
 
 - [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) ([v1.0.1](https://github.com/MM25Zamanian/pr-explainer/releases/tag/v1.0.1), 1 month ago) - 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.4.7](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.4.7), 8 months ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
+- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.4.7](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.4.7), 9 months ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
 
 ## 👓 My recent Pull Requests
 
