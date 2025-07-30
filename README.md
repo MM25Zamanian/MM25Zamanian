@@ -37,7 +37,7 @@
 
 
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 days ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (3 days ago)
 
 - [gecut/containers](https://github.com/gecut/containers) -  (2 weeks ago)
 
@@ -71,7 +71,7 @@
 
 - [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (1 month ago)
 
-- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (1 month ago)
+- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (2 months ago)
 
 - [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (9 months ago)
 
@@ -93,7 +93,7 @@
 
 
 
-- [streamich/react-use](https://github.com/streamich/react-use) (2 days ago)
+- [streamich/react-use](https://github.com/streamich/react-use) (3 days ago)
 
 - [henrygd/beszel](https://github.com/henrygd/beszel) (1 month ago)
 
