@@ -41,7 +41,7 @@
 
 - [gecut/containers](https://github.com/gecut/containers) -  (4 weeks ago)
 
-- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (1 month ago)
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (2 months ago)
 
 ## ☂️ My latest projects
 
@@ -89,7 +89,7 @@
 
 
 
-- [dillionverma/portfolio](https://github.com/dillionverma/portfolio) (5 days ago)
+- [dillionverma/portfolio](https://github.com/dillionverma/portfolio) (6 days ago)
 
 - [streamich/react-use](https://github.com/streamich/react-use) (2 weeks ago)
 
