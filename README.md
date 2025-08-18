@@ -83,8 +83,6 @@
 
 - [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 year ago)
 
-- [performance(components): fix performance issue](https://github.com/gecut/hybrid-ui/pull/58) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 year ago)
-
 ## ⭐ Recent Stars
 
 
