@@ -37,15 +37,17 @@
 
 
 
+- [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) -  (today)
+
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 weeks ago)
 
 - [gecut/containers](https://github.com/gecut/containers) -  (1 month ago)
 
-- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications. (2 months ago)
-
 ## ☂️ My latest projects
 
 
+
+- [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) - 
 
 - [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) - 
 
@@ -54,8 +56,6 @@
 - [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications.
 
 - [MM25Zamanian/chess-sharp](https://github.com/MM25Zamanian/chess-sharp) - 
-
-- [MM25Zamanian/menu.faraz.coffee](https://github.com/MM25Zamanian/menu.faraz.coffee) - A Coffee Shop Menu with Next.js And Nginx
 
 ## 🎉 Latest releases I've contributed to
 
@@ -69,19 +69,23 @@
 
 
 
+- [Rebuild main package with modular architecture](https://github.com/MM25Zamanian/prismate/pull/5) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (1 day ago)
+
+- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/4) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (1 day ago)
+
+- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/3) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (1 day ago)
+
+- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/2) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (1 day ago)
+
+- [Refactor prismate to modular architecture](https://github.com/MM25Zamanian/prismate/pull/1) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (1 day ago)
+
 - [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (2 months ago)
 
 - [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (2 months ago)
 
-- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (9 months ago)
+- [Next&#43;&#43;](https://github.com/gecut/hybrid-core/pull/174) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (10 months ago)
 
 - [refactor(utilities/data-types): exports](https://github.com/gecut/hybrid-core/pull/173) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (10 months ago)
-
-- [chore(*): update internal deps](https://github.com/gecut/hybrid-core/pull/112) on [gecut/hybrid-core](https://github.com/gecut/hybrid-core) (1 year ago)
-
-- [feat(workflows/publish-container): add `deploy` job](https://github.com/gecut/hybrid-ui/pull/85) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 year ago)
-
-- [refactor(components): separate `styles` &amp; `directives` of components](https://github.com/gecut/hybrid-ui/pull/83) on [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) (1 year ago)
 
 ## ⭐ Recent Stars
 
@@ -107,7 +111,7 @@
 
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (4 months ago)
 
-- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (4 months ago)
+- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (5 months ago)
 
 - [vercel/micro](https://github.com/vercel/micro) (5 months ago)
 
