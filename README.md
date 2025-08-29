@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) -  (4 days ago)
+- [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) -  (5 days ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
 
@@ -69,7 +69,7 @@
 
 
 
-- [Setup prismate ui package foundation](https://github.com/MM25Zamanian/prismate/pull/7) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (4 days ago)
+- [Setup prismate ui package foundation](https://github.com/MM25Zamanian/prismate/pull/7) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (5 days ago)
 
 - [Reverse Andia](https://github.com/gecut/persianpart/pull/30) on [gecut/persianpart](https://github.com/gecut/persianpart) (1 week ago)
 
@@ -89,7 +89,7 @@
 
 - [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (2 months ago)
 
-- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (2 months ago)
+- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (3 months ago)
 
 ## ⭐ Recent Stars
 
