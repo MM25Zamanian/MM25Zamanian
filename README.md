@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) -  (5 days ago)
+- [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) -  (6 days ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
 
@@ -69,7 +69,7 @@
 
 
 
-- [Setup prismate ui package foundation](https://github.com/MM25Zamanian/prismate/pull/7) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (5 days ago)
+- [Setup prismate ui package foundation](https://github.com/MM25Zamanian/prismate/pull/7) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (6 days ago)
 
 - [Reverse Andia](https://github.com/gecut/persianpart/pull/30) on [gecut/persianpart](https://github.com/gecut/persianpart) (1 week ago)
 
@@ -113,7 +113,7 @@
 
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) (4 months ago)
 
-- [google/dotprompt](https://github.com/google/dotprompt) (4 months ago)
+- [google/dotprompt](https://github.com/google/dotprompt) (5 months ago)
 
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (5 months ago)
 
