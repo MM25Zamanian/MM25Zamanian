@@ -37,7 +37,7 @@
 
 
 
-- [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) -  (6 days ago)
+- [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) -  (1 week ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
 
@@ -69,7 +69,7 @@
 
 
 
-- [Setup prismate ui package foundation](https://github.com/MM25Zamanian/prismate/pull/7) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (6 days ago)
+- [Setup prismate ui package foundation](https://github.com/MM25Zamanian/prismate/pull/7) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (1 week ago)
 
 - [Reverse Andia](https://github.com/gecut/persianpart/pull/30) on [gecut/persianpart](https://github.com/gecut/persianpart) (1 week ago)
 
@@ -107,7 +107,7 @@
 
 - [vercel/commerce](https://github.com/vercel/commerce) (2 months ago)
 
-- [vercel/ai](https://github.com/vercel/ai) (2 months ago)
+- [vercel/ai](https://github.com/vercel/ai) (3 months ago)
 
 - [rayriffy/elysia-rate-limit](https://github.com/rayriffy/elysia-rate-limit) (3 months ago)
 
