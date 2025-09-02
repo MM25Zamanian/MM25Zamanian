@@ -1,13 +1,21 @@
 <p align="center">
-  <img style="width:100%;" src="https://readme-typing-svg.demolab.com?font=Delius&weight=900&size=26&duration=4000&pause=1000&color=A665F3&center=true&vCenter=true&repeat=false&width=700&height=30&lines=S.+MohmmadMahdi+Zamanian" alt="Typing SVG" />
+  <a href="https://github.com/MM25Zamanian">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=800&size=30&duration=4000&pause=1000&color=04F759&center=true&vCenter=true&multiline=true&repeat=false&width=462&lines=S.+MohammadMahdi+Zamanian"
+      alt="Name"
+    />
+  </a>
 </p>
 
 <p align="center">
- <img style="width:100%;" src="https://readme-typing-svg.demolab.com?font=Delius&weight=900&size=18&letterSpacing=-1px&duration=2000&pause=1000&color=A665F3&center=true&vCenter=true&repeat=false&width=800&height=40&lines=Building+code+that+even+my+future+self+can%E2%80%99t+break%E2%80%A6+hopefully;Architecting+software+like+I+architect+my+coffee%3A+strong+and+indispensable;Turning+caffeine+and+curiosity+into+deployable+magic;I+don%E2%80%99t+just+write+code%E2%80%94I+negotiate+peace+between+logic+and+chaos;Optimizing+life+one+commit+at+a+time" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Comic+Neue&duration=4000&pause=1000&color=04F759&center=true&vCenter=true&lines=Junior+Full-Stack+Developer;Focusing+on+Front-End+With+Best+Practice;Trying+to+Learn+SW+Architecture+Patterns"
+    alt="BioGraphy"
+  />
 </p>
 
 <p align="center">
-  <img style="width:100%;" src="https://streak-stats.demolab.com?user=MM25Zamanian&theme=buefy-dark&hide_border=true&card_width=800&card_height=140&background=45%2C220444%2C770B89&sideLabels=D7C2FF&sideNums=CB7BFF&dates=FF6767&hide_current_streak=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MM25Zamanian&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=400&background=000802&sideLabels=04F759&dates=04F759&sideNums=04F759&currStreakNum=04F759&ring=04F759&currStreakLabel=04F759&fire=EB4705&hide_longest_streak=true" alt="Stats" />
 </p>
 
 <p align="center">
