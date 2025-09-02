@@ -77,17 +77,17 @@
 
 - [Optimize Next.js PWA with Serwist and HeroUI](https://github.com/MM25Zamanian/prismate/pull/6) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (1 week ago)
 
-- [Rebuild main package with modular architecture](https://github.com/MM25Zamanian/prismate/pull/5) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (1 week ago)
+- [Rebuild main package with modular architecture](https://github.com/MM25Zamanian/prismate/pull/5) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (2 weeks ago)
 
-- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/4) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (1 week ago)
+- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/4) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (2 weeks ago)
 
-- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/3) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (1 week ago)
+- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/3) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (2 weeks ago)
 
-- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/2) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (1 week ago)
+- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/2) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (2 weeks ago)
 
-- [Refactor prismate to modular architecture](https://github.com/MM25Zamanian/prismate/pull/1) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (1 week ago)
+- [Refactor prismate to modular architecture](https://github.com/MM25Zamanian/prismate/pull/1) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (2 weeks ago)
 
-- [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (2 months ago)
+- [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (3 months ago)
 
 - [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (3 months ago)
 
@@ -95,9 +95,13 @@
 
 
 
+- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) (1 day ago)
+
+- [NouanceLabs/payload-better-fields-plugin](https://github.com/NouanceLabs/payload-better-fields-plugin) (1 day ago)
+
 - [serwist/serwist](https://github.com/serwist/serwist) (1 week ago)
 
-- [dillionverma/portfolio](https://github.com/dillionverma/portfolio) (3 weeks ago)
+- [dillionverma/portfolio](https://github.com/dillionverma/portfolio) (4 weeks ago)
 
 - [streamich/react-use](https://github.com/streamich/react-use) (1 month ago)
 
@@ -130,10 +134,6 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (6 months ago)
 
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) (6 months ago)
-
-- [ChrisAbdo/MotionVariants](https://github.com/ChrisAbdo/MotionVariants) (6 months ago)
-
-- [uixmat/onborda](https://github.com/uixmat/onborda) (6 months ago)
 
 ## 📫 How to reach me
 
