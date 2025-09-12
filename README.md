@@ -37,7 +37,7 @@
 
 
 
-- [gecut/containers](https://github.com/gecut/containers) -  (6 days ago)
+- [gecut/containers](https://github.com/gecut/containers) -  (1 week ago)
 
 - [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) -  (2 weeks ago)
 
@@ -95,6 +95,8 @@
 
 
 
+- [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) (1 day ago)
+
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) (1 week ago)
 
 - [NouanceLabs/payload-better-fields-plugin](https://github.com/NouanceLabs/payload-better-fields-plugin) (1 week ago)
@@ -132,8 +134,6 @@
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) (6 months ago)
 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (6 months ago)
-
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) (6 months ago)
 
 ## 📫 How to reach me
 
