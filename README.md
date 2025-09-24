@@ -115,9 +115,9 @@
 
 - [streamich/react-use](https://github.com/streamich/react-use) (1 month ago)
 
-- [henrygd/beszel](https://github.com/henrygd/beszel) (2 months ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) (3 months ago)
 
-- [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) (2 months ago)
+- [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) (3 months ago)
 
 - [vercel/commerce](https://github.com/vercel/commerce) (3 months ago)
 
@@ -129,7 +129,7 @@
 
 - [google/dotprompt](https://github.com/google/dotprompt) (5 months ago)
 
-- [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (5 months ago)
+- [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) (6 months ago)
 
 - [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) (6 months ago)
 
