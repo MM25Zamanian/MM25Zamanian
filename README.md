@@ -103,7 +103,7 @@
 
 - [omar-dulaimi/orpc-shield](https://github.com/omar-dulaimi/orpc-shield) (1 week ago)
 
-- [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) (1 week ago)
+- [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) (2 weeks ago)
 
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) (3 weeks ago)
 
@@ -113,7 +113,7 @@
 
 - [dillionverma/portfolio](https://github.com/dillionverma/portfolio) (1 month ago)
 
-- [streamich/react-use](https://github.com/streamich/react-use) (1 month ago)
+- [streamich/react-use](https://github.com/streamich/react-use) (2 months ago)
 
 - [henrygd/beszel](https://github.com/henrygd/beszel) (3 months ago)
 
