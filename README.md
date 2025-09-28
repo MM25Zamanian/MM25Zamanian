@@ -37,11 +37,11 @@
 
 
 
+- [ehsanmousavif/choobino](https://github.com/ehsanmousavif/choobino) -  (1 day ago)
+
 - [gecut/containers](https://github.com/gecut/containers) -  (3 weeks ago)
 
 - [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) -  (1 month ago)
-
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 month ago)
 
 ## ☂️ My latest projects
 
@@ -89,19 +89,19 @@
 
 - [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (3 months ago)
 
-- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (3 months ago)
+- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (4 months ago)
 
 ## ⭐ Recent Stars
 
 
 
-- [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) (1 week ago)
+- [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) (2 weeks ago)
 
-- [nodejs/undici](https://github.com/nodejs/undici) (1 week ago)
+- [nodejs/undici](https://github.com/nodejs/undici) (2 weeks ago)
 
-- [omar-dulaimi/prisma-orpc-generator](https://github.com/omar-dulaimi/prisma-orpc-generator) (1 week ago)
+- [omar-dulaimi/prisma-orpc-generator](https://github.com/omar-dulaimi/prisma-orpc-generator) (2 weeks ago)
 
-- [omar-dulaimi/orpc-shield](https://github.com/omar-dulaimi/orpc-shield) (1 week ago)
+- [omar-dulaimi/orpc-shield](https://github.com/omar-dulaimi/orpc-shield) (2 weeks ago)
 
 - [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) (2 weeks ago)
 
