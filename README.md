@@ -37,7 +37,7 @@
 
 
 
-- [ehsanmousavif/choobino](https://github.com/ehsanmousavif/choobino) -  (2 days ago)
+- [ehsanmousavif/choobino](https://github.com/ehsanmousavif/choobino) -  (3 days ago)
 
 - [gecut/containers](https://github.com/gecut/containers) -  (3 weeks ago)
 
@@ -89,8 +89,6 @@
 
 - [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (3 months ago)
 
-- [i18n: add Persian (fa) locale support to Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/16510) on [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) (4 months ago)
-
 ## ⭐ Recent Stars
 
 
@@ -121,7 +119,7 @@
 
 - [vercel/commerce](https://github.com/vercel/commerce) (3 months ago)
 
-- [vercel/ai](https://github.com/vercel/ai) (3 months ago)
+- [vercel/ai](https://github.com/vercel/ai) (4 months ago)
 
 - [rayriffy/elysia-rate-limit](https://github.com/rayriffy/elysia-rate-limit) (4 months ago)
 
