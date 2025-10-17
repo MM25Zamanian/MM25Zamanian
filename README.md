@@ -87,21 +87,19 @@
 
 - [Refactor prismate to modular architecture](https://github.com/MM25Zamanian/prismate/pull/1) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (1 month ago)
 
-- [refactor(workflow): enhance AI-powered PR description generation](https://github.com/MM25Zamanian/pr-explainer/pull/1) on [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) (4 months ago)
-
 ## ⭐ Recent Stars
 
 
 
-- [invakid404/payload-blurhash-plugin](https://github.com/invakid404/payload-blurhash-plugin) (5 days ago)
+- [invakid404/payload-blurhash-plugin](https://github.com/invakid404/payload-blurhash-plugin) (6 days ago)
 
-- [r1tsuu/payload-enchants](https://github.com/r1tsuu/payload-enchants) (5 days ago)
+- [r1tsuu/payload-enchants](https://github.com/r1tsuu/payload-enchants) (6 days ago)
 
-- [payloadcms/plugin-search](https://github.com/payloadcms/plugin-search) (5 days ago)
+- [payloadcms/plugin-search](https://github.com/payloadcms/plugin-search) (6 days ago)
 
-- [payloadcms/plugin-seo](https://github.com/payloadcms/plugin-seo) (5 days ago)
+- [payloadcms/plugin-seo](https://github.com/payloadcms/plugin-seo) (6 days ago)
 
-- [shefing/payload-tools](https://github.com/shefing/payload-tools) (5 days ago)
+- [shefing/payload-tools](https://github.com/shefing/payload-tools) (6 days ago)
 
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) (1 week ago)
 
