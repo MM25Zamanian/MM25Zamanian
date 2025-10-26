@@ -63,8 +63,6 @@
 
 - [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) ([v1.0.1](https://github.com/MM25Zamanian/pr-explainer/releases/tag/v1.0.1), 4 months ago) - 
 
-- [gecut/hybrid-ui](https://github.com/gecut/hybrid-ui) ([@gecut/lit-helper@2.4.7](https://github.com/gecut/hybrid-ui/releases/tag/%40gecut/lit-helper%402.4.7), 1 year ago) - Hybrid UI is a cutting-edge web front-end framework that empowers developers to create high-performance, memory-safe, and visually stunning applications. It provides a comprehensive set of tools and features to streamline development and deliver exceptional user experiences.
-
 ## 👓 My recent Pull Requests
 
 
@@ -109,7 +107,7 @@
 
 - [shefing/payload-tools](https://github.com/shefing/payload-tools) (2 weeks ago)
 
-- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) (2 weeks ago)
+- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) (3 weeks ago)
 
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) (3 weeks ago)
 
