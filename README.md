@@ -37,9 +37,9 @@
 
 
 
-- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) -  (3 days ago)
+- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) -  (4 days ago)
 
-- [gecut/containers](https://github.com/gecut/containers) -  (3 days ago)
+- [gecut/containers](https://github.com/gecut/containers) -  (4 days ago)
 
 - [ehsanmousavif/choobino](https://github.com/ehsanmousavif/choobino) -  (1 month ago)
 
@@ -89,6 +89,8 @@
 
 
 
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (1 day ago)
+
 - [microsoft/fast](https://github.com/microsoft/fast) (3 weeks ago)
 
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) (3 weeks ago)
@@ -126,8 +128,6 @@
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) (2 months ago)
 
 - [NouanceLabs/payload-better-fields-plugin](https://github.com/NouanceLabs/payload-better-fields-plugin) (2 months ago)
-
-- [serwist/serwist](https://github.com/serwist/serwist) (2 months ago)
 
 ## 📫 How to reach me
 
