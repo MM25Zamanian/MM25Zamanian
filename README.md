@@ -37,7 +37,7 @@
 
 
 
-- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) -  (1 week ago)
+- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) -  (1 day ago)
 
 - [gecut/containers](https://github.com/gecut/containers) -  (1 week ago)
 
@@ -89,7 +89,7 @@
 
 
 
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (4 days ago)
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (5 days ago)
 
 - [microsoft/fast](https://github.com/microsoft/fast) (4 weeks ago)
 
