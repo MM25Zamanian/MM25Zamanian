@@ -75,29 +75,31 @@
 
 - [Optimize Next.js PWA with Serwist and HeroUI](https://github.com/MM25Zamanian/prismate/pull/6) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (2 months ago)
 
-- [Rebuild main package with modular architecture](https://github.com/MM25Zamanian/prismate/pull/5) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (2 months ago)
+- [Rebuild main package with modular architecture](https://github.com/MM25Zamanian/prismate/pull/5) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (3 months ago)
 
-- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/4) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (2 months ago)
+- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/4) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (3 months ago)
 
-- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/3) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (2 months ago)
+- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/3) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (3 months ago)
 
-- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/2) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (2 months ago)
+- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/2) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (3 months ago)
 
-- [Refactor prismate to modular architecture](https://github.com/MM25Zamanian/prismate/pull/1) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (2 months ago)
+- [Refactor prismate to modular architecture](https://github.com/MM25Zamanian/prismate/pull/1) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (3 months ago)
 
 ## ⭐ Recent Stars
 
 
 
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (5 days ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (1 day ago)
 
-- [microsoft/fast](https://github.com/microsoft/fast) (4 weeks ago)
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (6 days ago)
 
-- [element-plus/element-plus](https://github.com/element-plus/element-plus) (4 weeks ago)
+- [microsoft/fast](https://github.com/microsoft/fast) (1 month ago)
 
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) (4 weeks ago)
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) (1 month ago)
 
-- [adrianhajdin/ecommerce](https://github.com/adrianhajdin/ecommerce) (4 weeks ago)
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) (1 month ago)
+
+- [adrianhajdin/ecommerce](https://github.com/adrianhajdin/ecommerce) (1 month ago)
 
 - [invakid404/payload-blurhash-plugin](https://github.com/invakid404/payload-blurhash-plugin) (1 month ago)
 
@@ -126,8 +128,6 @@
 - [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) (2 months ago)
 
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) (2 months ago)
-
-- [NouanceLabs/payload-better-fields-plugin](https://github.com/NouanceLabs/payload-better-fields-plugin) (2 months ago)
 
 ## 📫 How to reach me
 
