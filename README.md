@@ -37,7 +37,7 @@
 
 
 
-- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) -  (2 days ago)
+- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) -  (3 days ago)
 
 - [gecut/containers](https://github.com/gecut/containers) -  (2 weeks ago)
 
@@ -89,7 +89,7 @@
 
 
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (6 days ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (1 week ago)
 
 - [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (1 week ago)
 
