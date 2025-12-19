@@ -69,11 +69,11 @@
 
 - [Setup prismate ui package foundation](https://github.com/MM25Zamanian/prismate/pull/7) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (3 months ago)
 
-- [Reverse Andia](https://github.com/gecut/persianpart/pull/30) on [gecut/persianpart](https://github.com/gecut/persianpart) (3 months ago)
+- [Reverse Andia](https://github.com/gecut/persianpart/pull/30) on [gecut/persianpart](https://github.com/gecut/persianpart) (4 months ago)
 
-- [Andia](https://github.com/gecut/persianpart/pull/29) on [gecut/persianpart](https://github.com/gecut/persianpart) (3 months ago)
+- [Andia](https://github.com/gecut/persianpart/pull/29) on [gecut/persianpart](https://github.com/gecut/persianpart) (4 months ago)
 
-- [Optimize Next.js PWA with Serwist and HeroUI](https://github.com/MM25Zamanian/prismate/pull/6) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (3 months ago)
+- [Optimize Next.js PWA with Serwist and HeroUI](https://github.com/MM25Zamanian/prismate/pull/6) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (4 months ago)
 
 - [Rebuild main package with modular architecture](https://github.com/MM25Zamanian/prismate/pull/5) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (4 months ago)
 
