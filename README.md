@@ -37,7 +37,7 @@
 
 
 
-- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) -  (2 days ago)
+- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) -  (3 days ago)
 
 - [gecut/containers](https://github.com/gecut/containers) -  (2 weeks ago)
 
@@ -78,8 +78,6 @@
 - [Rebuild main package with modular architecture](https://github.com/MM25Zamanian/prismate/pull/5) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (4 months ago)
 
 - [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/4) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (4 months ago)
-
-- [Refactor and optimize prismate core package](https://github.com/MM25Zamanian/prismate/pull/3) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (4 months ago)
 
 ## ⭐ Recent Stars
 
