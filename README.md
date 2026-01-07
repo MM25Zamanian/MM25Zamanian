@@ -75,8 +75,6 @@
 
 - [Optimize Next.js PWA with Serwist and HeroUI](https://github.com/MM25Zamanian/prismate/pull/6) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (4 months ago)
 
-- [Rebuild main package with modular architecture](https://github.com/MM25Zamanian/prismate/pull/5) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (4 months ago)
-
 ## ⭐ Recent Stars
 
 
