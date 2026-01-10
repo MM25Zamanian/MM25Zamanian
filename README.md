@@ -83,7 +83,7 @@
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (1 month ago)
 
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (1 month ago)
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (2 months ago)
 
 - [microsoft/fast](https://github.com/microsoft/fast) (2 months ago)
 
