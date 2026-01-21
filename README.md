@@ -67,7 +67,7 @@
 
 
 
-- [Setup prismate ui package foundation](https://github.com/MM25Zamanian/prismate/pull/7) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (4 months ago)
+- [Setup prismate ui package foundation](https://github.com/MM25Zamanian/prismate/pull/7) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (5 months ago)
 
 - [Reverse Andia](https://github.com/gecut/persianpart/pull/30) on [gecut/persianpart](https://github.com/gecut/persianpart) (5 months ago)
 
