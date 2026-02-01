@@ -37,9 +37,9 @@
 
 
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 days ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (3 days ago)
 
-- [gecut/containers](https://github.com/gecut/containers) -  (4 days ago)
+- [gecut/containers](https://github.com/gecut/containers) -  (5 days ago)
 
 - [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) -  (1 month ago)
 
@@ -68,12 +68,6 @@
 
 
 - [Setup prismate ui package foundation](https://github.com/MM25Zamanian/prismate/pull/7) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (5 months ago)
-
-- [Reverse Andia](https://github.com/gecut/persianpart/pull/30) on [gecut/persianpart](https://github.com/gecut/persianpart) (5 months ago)
-
-- [Andia](https://github.com/gecut/persianpart/pull/29) on [gecut/persianpart](https://github.com/gecut/persianpart) (5 months ago)
-
-- [Optimize Next.js PWA with Serwist and HeroUI](https://github.com/MM25Zamanian/prismate/pull/6) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (5 months ago)
 
 ## ⭐ Recent Stars
 
