@@ -37,7 +37,7 @@
 
 
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (6 days ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
 
 - [gecut/containers](https://github.com/gecut/containers) -  (1 week ago)
 
