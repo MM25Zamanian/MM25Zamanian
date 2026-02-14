@@ -75,7 +75,7 @@
 
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) (1 month ago)
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (2 months ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (3 months ago)
 
 - [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (3 months ago)
 
