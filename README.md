@@ -37,11 +37,11 @@
 
 
 
-- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) -  (3 days ago)
+- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) -  (4 days ago)
 
 - [gecut/containers](https://github.com/gecut/containers) -  (1 week ago)
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (4 weeks ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 month ago)
 
 ## ☂️ My latest projects
 
@@ -67,9 +67,7 @@
 
 
 
-- [feat(healthcheck): make memory check cgroup-aware with host fallback](https://github.com/gecut/nexload-sdk/pull/1) on [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) (4 days ago)
-
-- [Setup prismate ui package foundation](https://github.com/MM25Zamanian/prismate/pull/7) on [MM25Zamanian/prismate](https://github.com/MM25Zamanian/prismate) (6 months ago)
+- [feat(healthcheck): make memory check cgroup-aware with host fallback](https://github.com/gecut/nexload-sdk/pull/1) on [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) (5 days ago)
 
 ## ⭐ Recent Stars
 
