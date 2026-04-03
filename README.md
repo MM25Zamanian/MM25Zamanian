@@ -99,7 +99,7 @@
 
 - [shefing/payload-tools](https://github.com/shefing/payload-tools) (5 months ago)
 
-- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) (5 months ago)
+- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) (6 months ago)
 
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) (6 months ago)
 
