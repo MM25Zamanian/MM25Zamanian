@@ -73,6 +73,8 @@
 
 
 
+- [actuallymentor/battery](https://github.com/actuallymentor/battery) (1 day ago)
+
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) (2 months ago)
 
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) (3 months ago)
@@ -110,8 +112,6 @@
 - [nodejs/undici](https://github.com/nodejs/undici) (7 months ago)
 
 - [omar-dulaimi/prisma-orpc-generator](https://github.com/omar-dulaimi/prisma-orpc-generator) (7 months ago)
-
-- [omar-dulaimi/orpc-shield](https://github.com/omar-dulaimi/orpc-shield) (7 months ago)
 
 ## 📫 How to reach me
 
