@@ -37,7 +37,7 @@
 
 
 
-- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) -  (1 month ago)
+- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) -  (2 months ago)
 
 - [gecut/containers](https://github.com/gecut/containers) -  (2 months ago)
 
@@ -73,7 +73,7 @@
 
 
 
-- [actuallymentor/battery](https://github.com/actuallymentor/battery) (6 days ago)
+- [actuallymentor/battery](https://github.com/actuallymentor/battery) (1 week ago)
 
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) (2 months ago)
 
