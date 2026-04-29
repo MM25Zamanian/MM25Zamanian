@@ -41,7 +41,7 @@
 
 - [gecut/containers](https://github.com/gecut/containers) -  (2 months ago)
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 months ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (3 months ago)
 
 ## ☂️ My latest projects
 
