@@ -37,9 +37,9 @@
 
 
 
-- [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (1 day ago)
+- [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (today)
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (6 days ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
 
 - [ehsanmousavif/realfy](https://github.com/ehsanmousavif/realfy) -  (1 week ago)
 
@@ -103,7 +103,7 @@
 
 - [shefing/payload-tools](https://github.com/shefing/payload-tools) (7 months ago)
 
-- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) (7 months ago)
+- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) (8 months ago)
 
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) (8 months ago)
 
