@@ -37,7 +37,7 @@
 
 
 
-- [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (today)
+- [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (1 day ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
 
