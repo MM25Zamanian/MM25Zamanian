@@ -37,7 +37,7 @@
 
 
 
-- [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (3 days ago)
+- [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (4 days ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
 
@@ -60,8 +60,6 @@
 ## 🎉 Latest releases I've contributed to
 
 
-
-- [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) ([v1.0.1](https://github.com/MM25Zamanian/pr-explainer/releases/tag/v1.0.1), 1 year ago) - 
 
 ## 👓 My recent Pull Requests
 
