@@ -37,9 +37,9 @@
 
 
 
-- [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (6 days ago)
+- [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (1 week ago)
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (1 week ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 weeks ago)
 
 - [ehsanmousavif/realfy](https://github.com/ehsanmousavif/realfy) -  (2 weeks ago)
 
@@ -71,7 +71,7 @@
 
 
 
-- [47ng/nuqs](https://github.com/47ng/nuqs) (1 day ago)
+- [47ng/nuqs](https://github.com/47ng/nuqs) (2 days ago)
 
 - [redis/node-redis](https://github.com/redis/node-redis) (2 weeks ago)
 
@@ -83,7 +83,7 @@
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (6 months ago)
 
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (6 months ago)
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (7 months ago)
 
 - [microsoft/fast](https://github.com/microsoft/fast) (7 months ago)
 
