@@ -71,7 +71,7 @@
 
 
 
-- [47ng/nuqs](https://github.com/47ng/nuqs) (5 days ago)
+- [47ng/nuqs](https://github.com/47ng/nuqs) (6 days ago)
 
 - [redis/node-redis](https://github.com/redis/node-redis) (2 weeks ago)
 
