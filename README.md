@@ -37,11 +37,11 @@
 
 
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 days ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (3 days ago)
 
 - [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (2 weeks ago)
 
-- [ehsanmousavif/realfy](https://github.com/ehsanmousavif/realfy) -  (4 weeks ago)
+- [ehsanmousavif/realfy](https://github.com/ehsanmousavif/realfy) -  (1 month ago)
 
 ## ☂️ My latest projects
 
@@ -71,13 +71,13 @@
 
 
 
-- [icydotdev/nextmap](https://github.com/icydotdev/nextmap) (6 days ago)
+- [icydotdev/nextmap](https://github.com/icydotdev/nextmap) (1 week ago)
 
-- [icoretech/airbroke](https://github.com/icoretech/airbroke) (6 days ago)
+- [icoretech/airbroke](https://github.com/icoretech/airbroke) (1 week ago)
 
-- [xxtomm/spell-ui](https://github.com/xxtomm/spell-ui) (6 days ago)
+- [xxtomm/spell-ui](https://github.com/xxtomm/spell-ui) (1 week ago)
 
-- [muxinc/media-chrome](https://github.com/muxinc/media-chrome) (6 days ago)
+- [muxinc/media-chrome](https://github.com/muxinc/media-chrome) (1 week ago)
 
 - [47ng/nuqs](https://github.com/47ng/nuqs) (1 week ago)
 
