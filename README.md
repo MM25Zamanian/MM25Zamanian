@@ -37,7 +37,7 @@
 
 
 
-- [gecut/persianpart](https://github.com/gecut/persianpart) -  (3 days ago)
+- [gecut/persianpart](https://github.com/gecut/persianpart) -  (4 days ago)
 
 - [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (2 weeks ago)
 
@@ -79,7 +79,7 @@
 
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) (1 week ago)
 
-- [47ng/nuqs](https://github.com/47ng/nuqs) (1 week ago)
+- [47ng/nuqs](https://github.com/47ng/nuqs) (2 weeks ago)
 
 - [redis/node-redis](https://github.com/redis/node-redis) (3 weeks ago)
 
