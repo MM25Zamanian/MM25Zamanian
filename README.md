@@ -41,7 +41,7 @@
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 weeks ago)
 
-- [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (4 weeks ago)
+- [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (1 month ago)
 
 ## ☂️ My latest projects
 
