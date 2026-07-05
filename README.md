@@ -79,7 +79,7 @@
 
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) (3 weeks ago)
 
-- [47ng/nuqs](https://github.com/47ng/nuqs) (3 weeks ago)
+- [47ng/nuqs](https://github.com/47ng/nuqs) (4 weeks ago)
 
 - [redis/node-redis](https://github.com/redis/node-redis) (1 month ago)
 
