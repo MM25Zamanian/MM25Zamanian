@@ -37,7 +37,7 @@
 
 
 
-- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) -  (1 week ago)
+- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) -  (2 weeks ago)
 
 - [gecut/persianpart](https://github.com/gecut/persianpart) -  (2 weeks ago)
 
@@ -79,7 +79,7 @@
 
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) (3 weeks ago)
 
-- [47ng/nuqs](https://github.com/47ng/nuqs) (4 weeks ago)
+- [47ng/nuqs](https://github.com/47ng/nuqs) (1 month ago)
 
 - [redis/node-redis](https://github.com/redis/node-redis) (1 month ago)
 
