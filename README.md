@@ -71,6 +71,10 @@
 
 
 
+- [mciastek/sal](https://github.com/mciastek/sal) (1 day ago)
+
+- [michalsnik/aos](https://github.com/michalsnik/aos) (1 day ago)
+
 - [icydotdev/nextmap](https://github.com/icydotdev/nextmap) (3 weeks ago)
 
 - [icoretech/airbroke](https://github.com/icoretech/airbroke) (3 weeks ago)
@@ -91,7 +95,7 @@
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (7 months ago)
 
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (7 months ago)
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (8 months ago)
 
 - [microsoft/fast](https://github.com/microsoft/fast) (8 months ago)
 
@@ -106,10 +110,6 @@
 - [r1tsuu/payload-enchants](https://github.com/r1tsuu/payload-enchants) (9 months ago)
 
 - [payloadcms/plugin-search](https://github.com/payloadcms/plugin-search) (9 months ago)
-
-- [payloadcms/plugin-seo](https://github.com/payloadcms/plugin-seo) (9 months ago)
-
-- [shefing/payload-tools](https://github.com/shefing/payload-tools) (9 months ago)
 
 ## 📫 How to reach me
 
