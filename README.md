@@ -37,7 +37,7 @@
 
 
 
-- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) - Production TypeScript packages for service health, observability, and Payload CMS integrations. (5 days ago)
+- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) - Production TypeScript packages for service health, observability, and Payload CMS integrations. (6 days ago)
 
 - [gecut/containers](https://github.com/gecut/containers) -  (2 weeks ago)
 
@@ -73,6 +73,12 @@
 
 
 
+- [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) (1 day ago)
+
+- [swup/swup](https://github.com/swup/swup) (1 day ago)
+
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 day ago)
+
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) (1 week ago)
 
 - [darthnorse/dockmon](https://github.com/darthnorse/dockmon) (2 weeks ago)
@@ -106,12 +112,6 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (9 months ago)
 
 - [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (9 months ago)
-
-- [microsoft/fast](https://github.com/microsoft/fast) (10 months ago)
-
-- [element-plus/element-plus](https://github.com/element-plus/element-plus) (10 months ago)
-
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) (10 months ago)
 
 ## 📫 How to reach me
 
