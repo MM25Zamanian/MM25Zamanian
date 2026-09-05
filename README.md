@@ -37,7 +37,7 @@
 
 
 
-- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) - Production TypeScript packages for service health, observability, and Payload CMS integrations. (1 week ago)
+- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) - Production TypeScript packages for service health, observability, and Payload CMS integrations. (2 weeks ago)
 
 - [gecut/containers](https://github.com/gecut/containers) -  (1 month ago)
 
@@ -99,7 +99,7 @@
 
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) (2 months ago)
 
-- [47ng/nuqs](https://github.com/47ng/nuqs) (2 months ago)
+- [47ng/nuqs](https://github.com/47ng/nuqs) (3 months ago)
 
 - [redis/node-redis](https://github.com/redis/node-redis) (3 months ago)
 
