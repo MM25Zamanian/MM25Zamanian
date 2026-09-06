@@ -87,9 +87,9 @@
 
 - [Gozargah/Marzban](https://github.com/Gozargah/Marzban) (1 month ago)
 
-- [mciastek/sal](https://github.com/mciastek/sal) (1 month ago)
+- [mciastek/sal](https://github.com/mciastek/sal) (2 months ago)
 
-- [michalsnik/aos](https://github.com/michalsnik/aos) (1 month ago)
+- [michalsnik/aos](https://github.com/michalsnik/aos) (2 months ago)
 
 - [icydotdev/nextmap](https://github.com/icydotdev/nextmap) (2 months ago)
 
