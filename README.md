@@ -85,7 +85,7 @@
 
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (1 month ago)
 
-- [Gozargah/Marzban](https://github.com/Gozargah/Marzban) (1 month ago)
+- [Gozargah/Marzban](https://github.com/Gozargah/Marzban) (2 months ago)
 
 - [mciastek/sal](https://github.com/mciastek/sal) (2 months ago)
 
@@ -111,7 +111,7 @@
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (9 months ago)
 
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (9 months ago)
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (10 months ago)
 
 ## 📫 How to reach me
 
