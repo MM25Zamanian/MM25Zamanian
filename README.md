@@ -73,6 +73,8 @@
 
 
 
+- [HashVault/vltrig](https://github.com/HashVault/vltrig) (1 day ago)
+
 - [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) (3 weeks ago)
 
 - [swup/swup](https://github.com/swup/swup) (3 weeks ago)
@@ -110,8 +112,6 @@
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) (8 months ago)
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (9 months ago)
-
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) (10 months ago)
 
 ## 📫 How to reach me
 
