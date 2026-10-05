@@ -39,9 +39,9 @@
 
 - [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) - Production TypeScript packages for service health, observability, and Payload CMS integrations. (1 day ago)
 
-- [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (1 day ago)
+- [gecut/zarbit](https://github.com/gecut/zarbit) -  (1 day ago)
 
-- [gecut/avincnc.com](https://github.com/gecut/avincnc.com) -  (1 day ago)
+- [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (2 days ago)
 
 ## ☂️ My latest projects
 
@@ -65,9 +65,11 @@
 
 
 
-- [feat(panel): comprehensive design system, performance solar icons, and UX remediation](https://github.com/gecut/rasad-srm/pull/2) on [gecut/rasad-srm](https://github.com/gecut/rasad-srm) (6 days ago)
+- [feat(reliability): implement integrated financial reliability and settlement safety (FR-01 to FR-10)](https://github.com/gecut/zarbit/pull/1) on [gecut/zarbit](https://github.com/gecut/zarbit) (1 day ago)
 
-- [Feat/import export plugin](https://github.com/gecut/rasad-srm/pull/1) on [gecut/rasad-srm](https://github.com/gecut/rasad-srm) (6 days ago)
+- [feat(panel): comprehensive design system, performance solar icons, and UX remediation](https://github.com/gecut/rasad-srm/pull/2) on [gecut/rasad-srm](https://github.com/gecut/rasad-srm) (1 week ago)
+
+- [Feat/import export plugin](https://github.com/gecut/rasad-srm/pull/1) on [gecut/rasad-srm](https://github.com/gecut/rasad-srm) (1 week ago)
 
 - [Modernize container catalog, release, bake, and workflows](https://github.com/gecut/containers/pull/14) on [gecut/containers](https://github.com/gecut/containers) (2 months ago)
 
@@ -77,7 +79,7 @@
 
 
 
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) (3 days ago)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) (4 days ago)
 
 - [HashVault/vltrig](https://github.com/HashVault/vltrig) (3 weeks ago)
 
@@ -107,7 +109,7 @@
 
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) (3 months ago)
 
-- [47ng/nuqs](https://github.com/47ng/nuqs) (3 months ago)
+- [47ng/nuqs](https://github.com/47ng/nuqs) (4 months ago)
 
 - [redis/node-redis](https://github.com/redis/node-redis) (4 months ago)
 
