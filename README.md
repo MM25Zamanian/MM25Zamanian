@@ -37,11 +37,11 @@
 
 
 
-- [gecut/zarbit](https://github.com/gecut/zarbit) -  (1 day ago)
+- [gecut/zarbit](https://github.com/gecut/zarbit) -  (today)
 
-- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) - Production TypeScript packages for service health, observability, and Payload CMS integrations. (2 days ago)
+- [gecut/nexload-sdk](https://github.com/gecut/nexload-sdk) - Production TypeScript packages for service health, observability, and Payload CMS integrations. (3 days ago)
 
-- [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (3 days ago)
+- [gecut/farsrail.com](https://github.com/gecut/farsrail.com) -  (4 days ago)
 
 ## ☂️ My latest projects
 
@@ -65,7 +65,7 @@
 
 
 
-- [feat(reliability): implement integrated financial reliability and settlement safety (FR-01 to FR-10)](https://github.com/gecut/zarbit/pull/1) on [gecut/zarbit](https://github.com/gecut/zarbit) (2 days ago)
+- [feat(reliability): implement integrated financial reliability and settlement safety (FR-01 to FR-10)](https://github.com/gecut/zarbit/pull/1) on [gecut/zarbit](https://github.com/gecut/zarbit) (3 days ago)
 
 - [feat(panel): comprehensive design system, performance solar icons, and UX remediation](https://github.com/gecut/rasad-srm/pull/2) on [gecut/rasad-srm](https://github.com/gecut/rasad-srm) (1 week ago)
 
@@ -79,7 +79,7 @@
 
 
 
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) (5 days ago)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) (6 days ago)
 
 - [HashVault/vltrig](https://github.com/HashVault/vltrig) (4 weeks ago)
 
@@ -95,7 +95,7 @@
 
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (2 months ago)
 
-- [Gozargah/Marzban](https://github.com/Gozargah/Marzban) (2 months ago)
+- [Gozargah/Marzban](https://github.com/Gozargah/Marzban) (3 months ago)
 
 - [mciastek/sal](https://github.com/mciastek/sal) (3 months ago)
 
