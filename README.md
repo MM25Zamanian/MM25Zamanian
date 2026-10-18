@@ -37,11 +37,11 @@
 
 
 
-- [MM25Zamanian/story-frame](https://github.com/MM25Zamanian/story-frame) -  (2 days ago)
+- [gecut/zarbit](https://github.com/gecut/zarbit) -  (1 day ago)
 
-- [gecut/rasad-srm](https://github.com/gecut/rasad-srm) -  (3 days ago)
+- [MM25Zamanian/story-frame](https://github.com/MM25Zamanian/story-frame) -  (1 day ago)
 
-- [gecut/zarbit](https://github.com/gecut/zarbit) -  (6 days ago)
+- [gecut/rasad-srm](https://github.com/gecut/rasad-srm) -  (4 days ago)
 
 ## ☂️ My latest projects
 
@@ -65,7 +65,7 @@
 
 
 
-- [feat(reliability): implement integrated financial reliability and settlement safety (FR-01 to FR-10)](https://github.com/gecut/zarbit/pull/1) on [gecut/zarbit](https://github.com/gecut/zarbit) (1 week ago)
+- [feat(reliability): implement integrated financial reliability and settlement safety (FR-01 to FR-10)](https://github.com/gecut/zarbit/pull/1) on [gecut/zarbit](https://github.com/gecut/zarbit) (2 weeks ago)
 
 - [feat(panel): comprehensive design system, performance solar icons, and UX remediation](https://github.com/gecut/rasad-srm/pull/2) on [gecut/rasad-srm](https://github.com/gecut/rasad-srm) (2 weeks ago)
 
