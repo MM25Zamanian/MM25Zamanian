@@ -37,11 +37,11 @@
 
 
 
-- [gecut/zarbit](https://github.com/gecut/zarbit) -  (1 day ago)
+- [gecut/umami-telegram-reporter](https://github.com/gecut/umami-telegram-reporter) - Autonomous, standalone service delivering concise, executive Persian website analytics reports from Umami to Telegram project groups. (1 day ago)
 
 - [MM25Zamanian/story-frame](https://github.com/MM25Zamanian/story-frame) -  (1 day ago)
 
-- [gecut/rasad-srm](https://github.com/gecut/rasad-srm) -  (4 days ago)
+- [gecut/zarbit](https://github.com/gecut/zarbit) -  (2 days ago)
 
 ## ☂️ My latest projects
 
@@ -67,9 +67,9 @@
 
 - [feat(reliability): implement integrated financial reliability and settlement safety (FR-01 to FR-10)](https://github.com/gecut/zarbit/pull/1) on [gecut/zarbit](https://github.com/gecut/zarbit) (2 weeks ago)
 
-- [feat(panel): comprehensive design system, performance solar icons, and UX remediation](https://github.com/gecut/rasad-srm/pull/2) on [gecut/rasad-srm](https://github.com/gecut/rasad-srm) (2 weeks ago)
+- [feat(panel): comprehensive design system, performance solar icons, and UX remediation](https://github.com/gecut/rasad-srm/pull/2) on [gecut/rasad-srm](https://github.com/gecut/rasad-srm) (3 weeks ago)
 
-- [Feat/import export plugin](https://github.com/gecut/rasad-srm/pull/1) on [gecut/rasad-srm](https://github.com/gecut/rasad-srm) (2 weeks ago)
+- [Feat/import export plugin](https://github.com/gecut/rasad-srm/pull/1) on [gecut/rasad-srm](https://github.com/gecut/rasad-srm) (3 weeks ago)
 
 - [Modernize container catalog, release, bake, and workflows](https://github.com/gecut/containers/pull/14) on [gecut/containers](https://github.com/gecut/containers) (3 months ago)
 
