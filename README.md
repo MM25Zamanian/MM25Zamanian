@@ -37,11 +37,11 @@
 
 
 
-- [MM25Zamanian/story-frame](https://github.com/MM25Zamanian/story-frame) -  (3 days ago)
+- [MM25Zamanian/story-frame](https://github.com/MM25Zamanian/story-frame) -  (1 day ago)
 
-- [gecut/umami-telegram-reporter](https://github.com/gecut/umami-telegram-reporter) - Autonomous, standalone service delivering concise, executive Persian website analytics reports from Umami to Telegram project groups. (4 days ago)
+- [gecut/umami-telegram-reporter](https://github.com/gecut/umami-telegram-reporter) - Autonomous, standalone service delivering concise, executive Persian website analytics reports from Umami to Telegram project groups. (5 days ago)
 
-- [gecut/zarbit](https://github.com/gecut/zarbit) -  (5 days ago)
+- [gecut/zarbit](https://github.com/gecut/zarbit) -  (6 days ago)
 
 ## ☂️ My latest projects
 
