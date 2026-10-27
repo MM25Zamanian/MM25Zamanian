@@ -37,17 +37,15 @@
 
 
 
-- [gecut/rasad-srm](https://github.com/gecut/rasad-srm) -  (1 day ago)
+- [ehsanmousavif/persianpart.shop.ir](https://github.com/ehsanmousavif/persianpart.shop.ir) -  (1 day ago)
 
-- [MM25Zamanian/minecraft-multi-tool-pack](https://github.com/MM25Zamanian/minecraft-multi-tool-pack) - Minecraft mod menu &#43; skin changer - aimbot, ESP, radar, all cosmetics. Free. (2 days ago)
+- [gecut/rasad-srm](https://github.com/gecut/rasad-srm) -  (2 days ago)
 
-- [MM25Zamanian/story-frame](https://github.com/MM25Zamanian/story-frame) -  (2 days ago)
+- [MM25Zamanian/story-frame](https://github.com/MM25Zamanian/story-frame) -  (3 days ago)
 
 ## ☂️ My latest projects
 
 
-
-- [MM25Zamanian/minecraft-multi-tool-pack](https://github.com/MM25Zamanian/minecraft-multi-tool-pack) - Minecraft mod menu &#43; skin changer - aimbot, ESP, radar, all cosmetics. Free.
 
 - [MM25Zamanian/story-frame](https://github.com/MM25Zamanian/story-frame) - 
 
@@ -56,6 +54,8 @@
 - [MM25Zamanian/pr-explainer](https://github.com/MM25Zamanian/pr-explainer) - 
 
 - [MM25Zamanian/web-proposal](https://github.com/MM25Zamanian/web-proposal) - 
+
+- [MM25Zamanian/XenoProxy](https://github.com/MM25Zamanian/XenoProxy) - A high-performance, stable Nginx configuration tailored as a reverse proxy for demanding Next.js applications.
 
 ## 🎉 Latest releases I've contributed to
 
